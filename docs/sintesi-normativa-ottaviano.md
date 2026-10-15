@@ -1,7 +1,7 @@
 # Sintesi normativa operativa – Comune di Ottaviano
 **Uso**: base di lavoro per l'istruttoria di fattibilità urbanistica (parere positivo/negativo + alternative).
 **Redatta il** 13/10/2026 dai soli testi forniti: NTA del PUC (Decreto n. 484 del 03/11/2015, BURC n. 67 del 16/11/2015), RUEC (giugno 2015, con modifiche della Delibera C.C. n. 49 del 21/05/2015), Norme di Attuazione del PSAI Autorità di Bacino Campania Centrale (Delibera C.I. n. 1 del **23/02/2015**) con **Allegati A, C, E** (sezione 5 bis), **art. 39 L. 724/1994** e **art. 32 L. 326/2003** (sezione 12, condoni; L. 47/1985 inclusa).
-**Versione 1.5** – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
+**Versione 1.6** – integrata il 15/10/2026 con le leggi regionali: LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
 
 > **Regole d'uso**
 > 1. Cita solo gli articoli riportati qui o nei testi originali. Se un riferimento non c'è, dillo.
@@ -263,19 +263,25 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 5. **Normativa edilizia antecedente al D.Lgs. 222/2016, alla L.R. 5/2024 e al RR 3/2025**: i rinvii del RUEC possono essere superati.
 6. **Piano comunale di emergenza** (PSAI art. 8 c. 3, art. 27): le attività in R3/R4 sono subordinate alla sua approvazione. Da chiarire se Ottaviano lo ha approvato.
 7. **Nulla osta del Parco** per le aree interne al perimetro: verificare le NTA e la zonizzazione del Piano del Parco (non forniti).
+8. **Sottotetti: norme e date in conflitto (non risolto)**. LR 15/2000 (sez. 19): sottotetti esistenti alla data di entrata in vigore della legge (art. 6: 17/10/2000), altezza media ≥ **2,20 m**, titolo originario "concessione"; LR 19/2009 art. 8 c. 2 (sez. 20): sottotetti realizzati all'**1/1/2019**; LR 13/2022 art. 2 c. 7 (sez. 18): sottotetti realizzati alla data di entrata in vigore della **LR 13/2022**, con **SCIA alternativa** (c. 6); LR 16/2004 art. 43 quater (sez. 16.3): altezza media ≥ **2,10 m**, solo ampliamento di unità preesistenti nei comuni LR 21/2003; RUEC art. 59: media ≥ **2,20 m**. Il funzionario deve indicare quale disciplina e quale data applicare; resta inoltre la possibilità che il Consiglio comunale abbia escluso aree (LR 15/2000 art. 1 c. 2): **verificare se Ottaviano l'ha fatto**.
+9. **Zona rossa e recupero abitativo**: LR 21/2003 art. 6 c. 2 vieta ogni mutamento d'uso a scopo abitativo; LR 13/2022 art. 2 c. 6 prevede la SCIA alternativa per cambi d'uso rilevanti e recupero abitativo di sottotetti; LR 10/2004 art. 3 c. 2 lett. d esclude dal condono L. 326/2003 il residenziale in zona rossa (salvo adeguamenti igienico-sanitari e funzionali). Letture da sottoporre al funzionario; la LR 19/2009 art. 11 bis c. 7 (modifica dell'art. 5 c. 2 LR 21/2003) ammette ristrutturazione, anche con demolizione e ricostruzione in altro sito, se almeno il 50% della volumetria originaria diventa non residenziale.
+10. **RR 3/2025 e PUC del 2015**: il regolamento (artt. 15-17) usa PSU/RUE e territorio urbanizzato/rurale, mentre Ottaviano ha PUC/NTA/RUEC del 2015. Non è chiaro dal testo se l'art. 17 (territorio rurale: solo interventi senza aumento di volume, salvo imprenditore agricolo) sia applicabile direttamente ai titoli edilizi prima dell'adeguamento del piano. **Decisione del funzionario**.
+11. **Termini scaduti o in scadenza**: LR 19/2009 (istanze entro 30/09/2022, art. 12 c. 1) e LR 13/2022 art. 4 (entro 30/06/2023) risultano **scaduti** nel testo ricevuto; LR 10/2004 art. 9 c. 1: definizione delle domande pendenti L. 47/85 e L. 724/94 **entro il 31/12/2026**. Verificare eventuali proroghe nelle leggi di stabilità regionali (non ricevute).
+12. **Regimi semplificati della LR 13/2022 art. 2 c. 2, 3 e 5** (recinzioni, muri di cinta, piscine fino a 24 mq, movimenti di terra, tramezzi): confronto con NTA e RUEC non ancora fatto; le norme comunali più restrittive e l'autorizzazione paesaggistica restano da verificare.
 
 ## 9. Testi mancanti, necessari per coprire tutti i procedimenti
 
-- Allegato 1 alle NTA (indici e categorie di intervento)
-- Allegati **B** e **D** del PSAI (A, C, E ricevuti)
-- Piano del Parco Nazionale del Vesuvio e PTP dei Comuni Vesuviani (norme di zona)
-- **Condono edilizio**: ricevuti L. 47/1985 (aggiornata al 26/05/2016), art. 39 L. 724/1994 e art. 32 L. 326/2003 (commi 25-50). Mancano: **tabella di oblazione della L. 47/85**, **Allegato 1 della L. 326/2003** (le 6 tipologie di illecito e l'oblazione: nel PDF ricevuto è omesso), la **legge regionale campana attuativa** della L. 326/2003 (richiamata dai commi 26 b, 33 e 34), e il DPR 380/2001 sulle sanatorie
-- **DPR 380/2001**: ricevuto (ed. 28/07/2026) e sintetizzato nella sezione 14. Non ancora riletti nel dettaglio: artt. 16-19 (contributo di costruzione; servono comunque le tabelle comunali), 23-quater, 93 (preavviso sismico). D.Lgs. 222/2016: non ricevuto
-- **D.Lgs. 42/2004**: ricevuta anche una versione aggiornata (OCR): vedi sezione 13.2. **D.Lgs. 222/2016**: ricevuto, ma la **Tabella A** (elenco dei regimi per attività edilizia) non è nel PDF; mancano anche il glossario unico (DM 02/03/2018) e il DPCM 12/12/2005
-- **LR 16/2004 (con LR 5/2024), LR 21/2003**: ricevute (sezioni 16 e 17). Mancano **RR 3/2025**, **LR 13/2022** (semplificazione edilizia e rigenerazione, richiamata dall'art. 43-quater, e 33-quater), **LR 15/2000** (sottotetti), **LR 19/2009** (piano casa), LR 10/2004 (accertamenti di conformità), **RR 5/2011**
-- Mancano inoltre il **Piano Paesaggistico Regionale** (e il suo stato di approvazione) e le norme tecniche sismiche regionali
+- Allegato 1 alle NTA (indici e categorie di intervento): ricevuto il 15/10/2026, **da leggere**
+- Allegati **B** e **D** del PSAI: ricevuti il 15/10/2026, **da leggere** (A, C, E già in sezione 5 bis)
+- Piano del Parco Nazionale del Vesuvio e PTP dei Comuni Vesuviani: **esclusi dall'utente** (non servono)
+- **Condono edilizio**: ricevuti L. 47/1985 (aggiornata al 26/05/2016), art. 39 L. 724/1994, art. 32 L. 326/2003 (commi 25-50) e **LR 10/2004** (sez. 21). **Allegato 1 L. 326/2003** ricevuto il 15/10/2026, **da leggere**. Esclusi dall'utente: tabella oblazione L. 47/85; "legge campana attuativa" (verificare se coincide con la LR 10/2004: punto in sez. 21)
+- **DPR 380/2001** (sez. 14): non ancora riletti nel dettaglio artt. 16-19 (contributo di costruzione), 23-quater, 93 (preavviso sismico)
+- **D.Lgs. 42/2004**: sezione 13.2 (OCR). **D.Lgs. 222/2016** (sez. 15): la **Tabella A** dovrebbe essere nell'allegato ricevuto il 15/10/2026 (nel Drive: `allegato l.222.2016.pdf`, 19 MB), **da leggere**; glossario unico DM 02/03/2018: ricevuto, **da leggere**; **DPCM 12/12/2005**: nel Drive c'è `DPCM 12 maggio 2005.pdf` (data diversa da quella attesa: **da verificare**)
+- **LR 16/2004 (con LR 5/2024), LR 21/2003**: sezioni 16 e 17. **Leggi regionali ricevute e lette il 15/10/2026**: LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22; **Allegati A, B, C non letti**), RR 5/2011 (sez. 23, abrogato)
+- **Ancora mancanti per le leggi regionali**: **LR 9/1983** (sismica) e relativo regolamento (richiamati da LR 19/2009 art. 10); **LR 31/2021 art. 27** (cambi d'uso e standard, richiamato da LR 13/2022 art. 2 c. 4 e 10); **regolamento regionale in materia edilizia** previsto dall'art. 1 RR 5/2011 per gli artt. 41 c. 2-3 e 43 LR 16/2004; **LR 19/2001** (procedure PdC, richiamata da LR 15/2000 e LR 19/2009); norme sulle proroghe dei termini della LR 19/2009 e LR 13/2022
+- Mancano inoltre le norme tecniche sismiche regionali. Il **Piano Paesaggistico Regionale** è escluso dall'utente
 - Tabelle oneri e costo di costruzione vigenti
-- Nota del Comune richiamata nel brief
+- Nota del Comune richiamata nel brief: esclusa dall'utente
 
 ## 10. Bozza campi della scheda anonima
 
@@ -328,6 +334,16 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 - Domanda presentata nei termini (sì/no); oblazione e oneri versati (sì/no); documentazione fotografica; perizia giurata e idoneità statica se > 450 mc
 - Parere dell'amministrazione preposta al vincolo: acquisito / non acquisito / dissenso
 - Possibilità di adeguamento antisismico (sì/no); area demaniale o gravata da usi civici (sì/no); area boscata o pascolo percorsa dal fuoco negli ultimi dieci anni (sì/no)
+
+**I. Campi aggiuntivi dalle leggi regionali del 15/10/2026 (sez. 18-22; solo se pertinenti)**
+- Edificio accatastato (sì/no) e destinazione residenziale prevalente (sì/no)
+- Piscina interrata: superficie (mq) e profondità (m); muro di cinta/recinzione: altezza e materiale
+- Sottotetto: data di esistenza, altezza media, altezza minima di parete, collegamento all'unità sottostante, ampliamento di unità preesistente (sì/no), legittimità o sanatoria L. 47/85 / L. 724/94, aree escluse dal Consiglio comunale (sì/no)
+- Delocalizzazione dalla zona rossa: unità adibita a prima casa (sì/no); quota di volumetria originaria destinata a uso non residenziale (%)
+- Condono L. 326/2003: opere completate al rustico (mura perimetrali e copertura) entro il 31/03/2003 (sì/no); destinazione residenziale (sì/no); perizia giurata e idoneità statica allegate (sì/no)
+- Condono L. 47/85 e L. 724/94 pendente: dichiarazione sostitutiva ex art. 9 c. 2 LR 10/2004 presentata (sì/no); adeguamento sismico eseguito (sì/no)
+- Autorizzazione sismica rilasciata prima dell'inizio dei lavori (zona sismica 2) (sì/no)
+- Se il funzionario decide di applicare il RR 3/2025: territorio urbanizzato/rurale/città storica; per il rurale, qualifica dell'imprenditore agricolo e piano aziendale
 
 ## 11. Formato del parere (richiesto)
 
@@ -712,7 +728,7 @@ Per Ottaviano rilevano in particolare le lettere **f (Parco del Vesuvio), g, l (
 | **Comuni LR 21/2003 (zona rossa)** | Recupero abitativo **solo in ampliamento di unità residenziali preesistenti, non autonomamente utilizzabili né frazionabili** (c. 5, secondo periodo) |
 | Altezza | Nessuna modifica di colmo, gronda e falde; abbassamento dell'ultimo solaio solo se piano e senza effetti negativi su statica e prospetto (c. 6-7); aperture compatibili con i caratteri formali (c. 8) |
 | Titolo | **Ristrutturazione edilizia** ex art. 3 c.1 lett. d DPR 380/2001, con **SCIA alternativa al PdC**; contributo su oneri di urbanizzazione e costo di costruzione sulla volumetria recuperata e **monetizzazione degli standard** (c. 9) |
-| Sottotetti prima del PSU (c. 10-12) | Solo recupero abitativo di sottotetti **esistenti alla data fissata dall'art. 2 c. 7 LR 13/2022** (testo non ricevuto), con le condizioni dell'art. 43 quater c. 4; escluso nei territori esclusi ex LR 15/2000 art. 1 c. 2 (testo non ricevuto) |
+| Sottotetti prima del PSU (c. 10-12) | Solo recupero abitativo di sottotetti **esistenti alla data fissata dall'art. 2 c. 7 LR 13/2022** (testo ora ricevuto, sez. 18.1: coincide con l'entrata in vigore della LR 13/2022, data di pubblicazione non indicata nel testo), con le condizioni dell'art. 43 quater c. 4; escluso nei territori esclusi ex LR 15/2000 art. 1 c. 2 (testo ora ricevuto, sez. 19: esclusione con delibera del Consiglio comunale; da verificare se Ottaviano l'ha adottata) |
 
 - **Art. 43 septies**: la volumetria lorda non comprende volumi tecnici, collegamenti verticali e orizzontali (vani scala e ascensore); esclusi i volumi per efficientamento energetico e miglioramento statico fino al **5%** del volume lordo assentito.
 
@@ -725,7 +741,7 @@ Per Ottaviano rilevano in particolare le lettere **f (Parco del Vesuvio), g, l (
 
 ### 16.5 Altri punti
 - **Art. 41-42**: sportello unico dell'edilizia e vigilanza sugli abusi con assistenza regionale (ufficio di vigilanza regionale).
-- **Art. 43 bis c. 1**: il regolamento di attuazione disciplina anche gli **accertamenti di conformità** delle opere abusive nel rispetto degli artt. 36 e 39 DPR 380/2001 e dell'art. 10 LR 10/2004 (non ricevuta). **c. 1 quater**: i Comuni con PUC vigente possono adeguarsi alla legge solo dopo la modifica del RR 5/2011.
+- **Art. 43 bis c. 1**: il regolamento di attuazione disciplina anche gli **accertamenti di conformità** delle opere abusive nel rispetto degli artt. 36 e 39 DPR 380/2001 e dell'art. 10 LR 10/2004 (ora ricevuta: sez. 21.3). **c. 1 quater**: i Comuni con PUC vigente possono adeguarsi alla legge solo dopo la modifica del RR 5/2011 (**oggi abrogato dal RR 3/2025 art. 23**: sez. 22; il rinvio va riletto con il funzionario).
 - **Art. 44 c. 2-3 e art. 45 c. 3**: termini per il PUC (adozione entro il **31/12/2026**, approvazione entro il **30/06/2027**); alla scadenza, nei comuni **privi di PUC approvato** si applica l'art. 9 DPR 380/2001. Ottaviano ha un PUC (Decreto n. 484/2015): **verificare con l'ufficio se e come il termine lo riguardi**; non lo ricavo dal testo.
 - **Art. 47 bis**: l'amministrazione adegua il piano a interventi legislativi sopravvenuti senza variante. Rilevante per i conflitti tra NTA/RUEC e norme nuove (sezione 8): non basta a risolverli senza un atto comunale.
 - **Art. 48 c. 2**: autorizzazioni e pareri paesaggistici per opere pubbliche sovracomunali finanziate con fondi regionali, statali o comunitari sono rilasciati dalla Regione.
@@ -752,3 +768,151 @@ Per Ottaviano rilevano in particolare le lettere **f (Parco del Vesuvio), g, l (
 - Per recupero locali tecnici o sottotetti: altezza media, altezza minima di parete, data di esistenza, legittimità, ampliamento di unità preesistente (sì/no), frazionabilità (sì/no)
 - Parcheggi pertinenziali: ubicazione, distanza dall'unità, interrati (sì/no), vincolo pertinenziale
 - Edificio in area a rischio idraulico o geomorfologico elevato/molto elevato (per art. 33 quater)
+
+---
+
+## 18. LR Campania 13/2022 – semplificazione edilizia e rigenerazione (testo vigente con LR 18/2022, 24/2023, 5/2024)
+
+*Letta per intero (artt. 1-8). Testo vigente redatto dall'Ufficio legislativo regionale (modifiche in corsivo nel PDF originale: il testo estratto non le distingue). I commi senza testo nel PDF sono abrogati (note 2, 4).*
+
+### 18.1 Regimi edilizi ulteriori (art. 2)
+| Comma | Regola | Note |
+|---|---|---|
+| c. 1 | Riqualificazione energetica, sismabonus e interventi trainanti/trainati del superbonus (art. 119 DL 34/2020) equiparati a **manutenzione straordinaria** (art. 3 c. 1 lett. b DPR 380/2001), con modulo **CILAS**; **esclusa** la demolizione e ricostruzione | Disciplina legata al superbonus: verificare se ancora applicabile alla pratica |
+| c. 2 | **Edilizia libera ulteriore**: lett. b) recinzioni in legno o metallo e cancelli di ingresso; lett. e) impianti solari fotovoltaici e termici su edifici (anche in zona A) o su manufatti fuori terra, nel rispetto dell'art. 7 bis c. 5 D.Lgs 28/2011 | Lett. a), c), d) abrogate dalla LR 18/2022 |
+| c. 3 | **CILA ulteriori**: a) MS e restauro/risanamento conservativo **non strutturali**, senza rilevanza per la pubblica incolumità ai fini sismici, senza pregiudizio alla statica e **senza modifica dei prospetti**; b) opere pertinenziali non nuova costruzione, non strutturali o prive di rilevanza sismica; c) **muri di cinta**; d) movimenti di terra, sbancamenti e terrazzamenti (anche muri a secco o ingegneria naturalistica); e) serre e impianti agrovoltaici stabilmente infissi, funzionali all'attività agricola; g) rifacimento parziale di tramezzi interni senza variare la disposizione, non strutturale, senza aumento di unità immobiliari né di parametri urbanistici | Lett. f) abrogata |
+| c. 4 | **Non sono urbanisticamente rilevanti** i cambi di destinazione d'uso, con o senza opere, che non generano incremento del fabbisogno di standard (rinvio all'art. 27 c. 2 LR 31/2021, **testo non ricevuto**) | Per Ottaviano resta il divieto di uso abitativo della zona rossa (sez. 17) |
+| c. 5 | **SCIA ulteriori** (art. 22 c. 4 DPR 380): a) eliminazione barriere architettoniche con rampe o ascensori esterni anche se alterano la sagoma; b) impianti e aree sportive, anche con coperture rimovibili, senza nuova volumetria; c) **piscine interrate** a fini ludici, **max 24 mq e 1,50 m di profondità**, in aree pertinenziali di edifici residenziali; d) parcheggi pertinenziali nel sottosuolo del lotto | |
+| c. 6 | **SCIA alternativa al PdC**: gli interventi dell'art. 23 c. 01 lett. a), b), c) DPR 380/2001, le **modifiche di destinazione d'uso urbanisticamente rilevanti**, con o senza opere, e il **recupero ai fini abitativi dei sottotetti** | Comma modificato dalla LR 18/2022 |
+| c. 7 | La **LR 15/2000** (sottotetti) si applica anche ai sottotetti realizzati alla data di entrata in vigore della LR 13/2022; interventi assentibili secondo le categorie dell'art. 3 DPR 380/2001 | La data di entrata in vigore è "quindici giorni dopo la pubblicazione sul BURC" (art. 8): la data di pubblicazione **non è nel testo ricevuto** |
+| c. 8 | Fatte salve le **più restrittive previsioni degli strumenti urbanistici comunali**, sono in **SCIA alternativa al PdC**, per immobili tutelati dal D.Lgs 42/2004, zone A e assimilate, centri e nuclei storici consolidati e ambiti di pregio: la **demolizione e ricostruzione** e il ripristino di edifici crollati o demoliti **senza mantenere** sagoma, prospetti, sedime e caratteristiche planivolumetriche e tipologiche, o con incrementi di volumetria | Da leggere con DPR 380 art. 2 bis c. 1 ter e art. 3 c. 1 lett. d (sez. 14) |
+| c. 9 | Per gli interventi dei c. 6 e 8 resta dovuto il **contributo** (oneri di urbanizzazione e costo di costruzione), ove dovuto; la Giunta regionale aggiorna ogni 5 anni le tabelle parametriche | Tabelle comunali: delibera n. 15/2025 (ricevuta, da leggere) |
+| c. 10 | Miglioramento sismico ed efficientamento energetico: si applicano l'art. 27 c. 5 LR 31/2021 e l'art. 14 c. 7 D.Lgs 102/2014 (testi non ricevuti) | |
+| c. 11 | **Uso temporaneo** di immobili e aree anche con destinazione diversa (art. 23 quater DPR 380), senza alterare natura e consistenza e con ripristino dello stato dei luoghi | |
+| c. 12-13 | Nella demolizione e ricostruzione (nuova costruzione in PdC o ristrutturazione in SCIA) la ricostruzione è consentita **nei limiti delle distanze legittimamente preesistenti**, anche se il lotto non consente di spostare il sedime; ferme le norme del codice civile. Le deroghe dell'art. 14 c. 7 D.Lgs 102/2014 valgono in tutte le zone, nel rispetto del codice civile | |
+| c. 14 | Restano **salvi pareri, nulla osta e autorizzazioni** previsti per legge | A Ottaviano: autorizzazione paesaggistica sempre da verificare (sez. 13) |
+
+### 18.2 Rigenerazione urbana (artt. 3-4) – **per Ottaviano non è un titolo di fattibilità**
+- **Art. 3**: modifica la LR 16/2004 (aggiunge commi 9 bis-9 octies all'art. 23, modifica art. 26 c. 3 e art. 31 c. 2, aggiunge art. 33 bis). Per l'edilizia conta ciò che oggi dice la LR 16/2004 (sez. 16, in particolare 16.4): **riferirsi alla sez. 16, non a questo testo**. Gli incentivi volumetrici (c. 9 septies: +20% ristrutturazione, +35% demolizione e ricostruzione) e i comuni che devono individuare le aree escluse (c. 9 quinquies) sono qui riportati solo per riscontro. Adeguamento degli strumenti urbanistici comunali: **30/06/2025** (art. 3 c. 2, come modificato).
+- **Art. 4 (interventi edilizi di rigenerazione)**: la norma vale solo "fino all'adeguamento degli strumenti urbanistici ... e comunque **non oltre il 30 giugno 2023**" (c. 1, come modificato dalla LR 18/2022). **Termine scaduto**: nel testo ricevuto non risulta proroga. Contenuto, per riscontro: +20% (ristrutturazione senza demolizione) e +35% (con demolizione e ricostruzione) per l'edilizia residenziale (c. 4); titoli diretti con cessione o monetizzazione degli standard (c. 8); condizioni energetico-sismiche attestate da DL e progettista (c. 9-11).
+- **Esclusioni (art. 4 c. 6)**, utili anche come riscontro del contenuto dell'art. 33 quater c. 21 LR 16/2004: a) inedificabilità assoluta; b) edifici abusivi senza sanatoria; c) zona A (salvo edifici dopo il 06/08/1967); d) zona E (salvo ambiti urbanizzati o edifici a prevalente uso residenziale); e) zone A e B di riserve e parchi; f) **edifici privi di accatastamento**; g) edifici di valore storico-culturale con inedificabilità assoluta; **h) aree a pericolosità o rischio idraulico elevato/molto elevato, pericolosità geomorfologica elevata/molto elevata, o zone ad alto rischio vulcanico**; i) aree ASI; j) edifici già incentivati.
+- **Art. 4 c. 7**: inderogabilità alla pianificazione paesaggistica; **parere preventivo dell'ente di tutela** per interventi in aree tutelate; nessun intervento in aree di inedificabilità assoluta dei piani paesaggistici.
+- **Art. 4 c. 15**: standard DM 1444/1968 sempre da rispettare (facoltà dei comuni di escludere la monetizzazione).
+- **Art. 4 c. 18**: utilizzazione temporanea di edifici per **alloggi parcheggio**, esclusa la zona E.
+- **Art. 5-6**: definizione di edilizia residenziale sociale; delega alla Giunta regionale per aggiornare le tabelle del contributo di costruzione con coefficienti di riduzione per rigenerazione e bioedilizia.
+
+### 18.3 Per il parere
+- Novità utili per **CILA/SCIA/edilizia libera**: recinzioni, muri di cinta, piscine fino a 24 mq, movimenti di terra, tramezzi interni, barriere architettoniche. **Verificare sempre il confronto con NTA e RUEC**: le norme comunali più restrittive e il vincolo paesaggistico (tutto il territorio) restano da applicare; l'autorizzazione paesaggistica non è sostituita (art. 2 c. 14).
+- **Zona rossa**: il c. 6 (SCIA alternativa per recupero abitativo dei sottotetti e cambi d'uso rilevanti) non supera i divieti della LR 21/2003 (sez. 17): vedi conflitto n. 9 in sezione 8.
+
+---
+
+## 19. LR Campania 15/2000 – recupero abitativo dei sottotetti (testo vigente con LR 19/2001, 5/2013 e Corte Cost. 11/2016)
+
+*Letta per intero (artt. 1-7).*
+
+| Aspetto | Regola | Art. |
+|---|---|---|
+| Finalità | Recupero abitativo di sottotetti **esistenti alla data di entrata in vigore della legge**; il **Consiglio comunale può escludere parti del territorio** | 1 |
+| Nozione | Sottotetto = volume sovrastante l'ultimo piano, **compreso nella sagoma di copertura** | 2 |
+| Condizioni | a) edificio destinato o da destinare in tutto o in parte a **residenza**; b) edificio **legittimo** o abusivo **sanato** ai sensi di **L. 47/85 e L. 724/94**; c) **altezza media interna ≥ 2,20 m** (volume interno lordo / superficie interna lorda) e altezza della parete minima ≥ **1,40 m** se il soffitto non è orizzontale; gli spazi sotto il minimo si chiudono con opere murarie o arredi fissi e possono essere usati solo come guardaroba o ripostiglio; per le volte, media aritmetica tra imposta e colmo (tolleranza 5%) | 3 c. 1 |
+| Abbassamento solaio | Ammesso l'abbassamento dell'ultimo solaio per raggiungere l'altezza media, senza effetti negativi su statica, prospetto e requisiti di abitabilità sottostanti (DM Sanità 5/7/1975) | 3 c. 2 |
+| Modalità | **Nessuna modifica** di altezza di colmo e gronda né di inclinazione delle falde; aperture (porte, finestre, lucernari, abbaini) ammesse nel rispetto dei caratteri formali e strutturali | 4 |
+| Titolo e contributo | Classificati come **ristrutturazione edilizia**; testo originale: concessione edilizia, con **contributo** (oneri di urbanizzazione e costo di costruzione) calcolato sulla **volumetria resa abitativa** con le tabelle delle nuove costruzioni | 5 |
+| Deroghe | Art. 6: deroga a leggi regionali, piani territoriali e paesistici, parchi (esclusa la zona A del Parco, art. 22 LR 33/1993) e strumenti urbanistici per sottotetti esistenti **al 17/10/2000**. **Corte Cost. 11/2016: illegittimo nella parte in cui consente la deroga alle prescrizioni dei piani paesaggistici** e a quelle a contenuto paesaggistico dei piani urbanistico-territoriali | 6 |
+
+**Per il parere**
+- **Titolo oggi**: il riferimento a "concessione edilizia" è superato; vale l'art. 2 c. 6-7 LR 13/2022 (**SCIA alternativa al PdC**, categorie dell'art. 3 DPR 380/2001) e l'art. 43 quater LR 16/2004 (sez. 16.3). **Non risolvo io le sovrapposizioni**: vedi conflitto n. 8 in sezione 8.
+- **Deroga paesaggistica**: tutto il territorio di Ottaviano è vincolato: la deroga dell'art. 6 **non può essere invocata** per le prescrizioni paesaggistiche (Corte Cost. 11/2016); autorizzazione paesaggistica sempre necessaria.
+- **Zona rossa**: l'uso abitativo del sottotetto è un aumento dei volumi abitabili/carico urbanistico (LR 21/2003, sez. 17) tranne l'ampliamento di unità preesistenti previsto dall'art. 43 quater c. 5 LR 16/2004; **da valutare caso per caso con il funzionario**.
+- **Dati scheda**: data di esistenza del sottotetto, altezza media, altezza minima di parete, legittimità o sanatoria L. 47/85 / L. 724/94 (per l'art. 3 c. 1 lett. b non basta il condono L. 326/2003: **il testo elenca solo L. 47/85 e L. 724/94**; segnalare), destinazione residenziale dell'edificio, delibera comunale di esclusione (da verificare con l'ufficio).
+
+---
+
+## 20. LR Campania 19/2009 – "Piano casa" (testo vigente con modifiche fino a LR 31/2021 e Corte Cost. 107/2017 e 261/2021)
+
+*Letta per intero (artt. 1-13). **Gli interventi straordinari (artt. 4, 5, 6 bis, 7) sono a termine**: le istanze andavano presentate **entro il 30/09/2022** (art. 12 c. 1, come sostituito dalla LR 31/2021). Nel testo ricevuto non risulta proroga: per le pratiche nuove la sezione serve soprattutto come riscontro, come quadro delle esclusioni e per gli artt. 9, 10, 11 bis e 12-12 bis.*
+
+### 20.1 Esclusioni (art. 3 c. 1) – valide per artt. 4, 5, 6 bis, 7
+Edifici: a) abusivi o difformi senza sanatoria; b) in **zona A** o assimilata (salvo edifici realizzati o ristrutturati negli ultimi 50 anni); c) di valore storico-culturale con inedificabilità assoluta; d) in aree di **inedificabilità assoluta**, con parere preventivo dell'ente di tutela nelle aree con vincoli autorizzativi; e) in **riserve e parchi nazionali o regionali, zone A e B**, oltre i limiti di legge; f) in aree a **pericolosità o rischio idraulico elevato/molto elevato o pericolosità geomorfologica elevata/molto elevata** (piani di bacino o indagini geologiche comunali); **g) nella zona rossa della LR 21/2003 → Ottaviano è esclusa**. Il c. 2 esclude per i c. 5-6 dell'art. 7 anche ASI, PIP e zone agricole non urbanizzate.
+
+### 20.2 Interventi (riscontro; **non applicabili a Ottaviano per art. 3 c. 1 lett. g e scadenza dell'art. 12**)
+- **Art. 4**: ampliamento fino al **20%** della volumetria esistente per edifici uni-bifamiliari, ≤ 1.500 mc o ≤ 3 piani fuori terra; condizioni dell'art. 4 c. 2 (aree urbanizzate, distanze e altezze DM 1444/1968, aree esterne a rischio idrogeologico e **ad alto rischio vulcanico**, ecc.); alternativa: cambio d'uso fino al 20% da non residenziale a residenziale (c. 3); obbligo di tecniche energetico-ambientali, DURC e conformità sismica (c. 4); vincolo di 5 anni sul cambio d'uso (c. 5); no su edifici non accatastati (c. 6).
+- **Art. 5**: demolizione e ricostruzione con aumento fino al **35%**; unità aggiuntive con superficie utile ≥ 45 mq; conformità sismica, DM 236/1989 e tecniche energetiche (c. 5); accatastamento obbligatorio (c. 7); mantenimento delle distanze preesistenti a parità di volume (c. 8).
+- **Art. 6 bis** (zona agricola): cambi d'uso per uso residenziale del nucleo familiare o attività connesse, senza nuova edificazione; **0,03 mc/mq** per nuove costruzioni produttive aziendali (c. 5). **Art. 7**: riqualificazione aree urbane degradate, sostituzione edilizia di immobili dismessi, delocalizzazione; **art. 7 bis**: complessi produttivi dismessi (fino a +20%).
+
+### 20.3 Parti con effetto continuativo
+| Art. | Contenuto | Rilevanza |
+|---|---|---|
+| **2 c. 1 lett. h)** | "Distanze minime e altezze massime" = quelle degli strumenti urbanistici generali, in mancanza DM 1444/1968 | Definizione |
+| **8 c. 2** | Per i sottotetti realizzati **alla data dell'1/1/2019** si applicano gli effetti della **LR 15/2000** e della LR 19/2001 | **Terza data per i sottotetti**: conflitto n. 8 |
+| **9** | L'efficacia del titolo per interventi di incremento volumetrico o cambio d'uso della legge è subordinata alla **valutazione della sicurezza dell'intero fabbricato** (NTC), presentata al **Genio Civile**; ogni fabbricato deve avere un **fascicolo del fabbricato** | Riferimento al DM 14/1/2008: **norme tecniche successive non ricevute** |
+| **10** | Modifica la LR 9/1983 (sismica): denuncia dei lavori con preavviso scritto e **progetto esecutivo asseverato**; la valutazione della sicurezza di una costruzione esistente senza lavori va presentata al Genio Civile e **nelle more la costruzione è inagibile/inutilizzabile**; **art. 4 LR 9/1983**: sempre soggetti ad **autorizzazione sismica** le sopraelevazioni (art. 90 c. 1 DPR 380), gli edifici strategici e rilevanti e i lavori iniziati in violazione dell'art. 2; **"in tutte le zone sismiche, ad eccezione di quelle a bassa sismicità, l'inizio dei lavori è subordinato al rilascio dell'autorizzazione sismica"**; deposito sismico solo nelle zone a bassa sismicità; i **comuni accertano** che chi inizia i lavori abbia autorizzazione o deposito sismico e che il DL abbia adempiuto ai suoi obblighi (art. 5 LR 9/1983 c. 3) | **Ottaviano è in zona sismica 2 (non bassa sismicità): autorizzazione sismica prima dell'inizio dei lavori.** Testo della LR 9/1983 e suo regolamento **non ricevuti**; confrontare con DPR 380 artt. 93-94 (sez. 14) |
+| **11 bis** | **Delocalizzazione** da aree a rischio frana molto elevato e dalla **zona rossa** (edifici con unità destinate a **prima casa**): volumetria aggiuntiva pari al volume della prima casa + fino al **35%**; demolizione, ripristino ambientale e cessione al patrimonio comunale; area acquisita ≤ 10 volte la superficie utile, inedificabile; per unità con condono pendente la volumetria spetta solo se sanabili ex artt. 32-33 L. 47/85 e realizzate prima dei piani di rischio. **Il c. 7 modifica l'art. 5 c. 2 LR 21/2003**: ammessa la ristrutturazione edilizia, anche con demolizione e ricostruzione in altro sito, "a condizione che **almeno il 50%** della volumetria originaria sia destinata a uso diverso dalla residenza" | **Importante per la zona rossa**: alternativa di legge per pratiche negative (sez. 17) |
+| **12 c. 4 bis** | **Art. 36 DPR 380** applicabile agli interventi della legge privi di titolo, se conformi alla "disciplina edilizia e urbanistica vigente" (Corte Cost. 107/2017) | Accertamento di conformità |
+| **12 c. 5** | Comuni senza strumenti urbanistici: DM 1444/1968 e art. 9 DPR 380 | Non pertinente a Ottaviano |
+| **12 c. 6** | Immobili abusivi acquisiti (art. 31 c. 3-4 DPR 380) trasformabili in ERP su decisione del Consiglio comunale | |
+| **12 bis** | La legge si applica solo a fabbricati **regolarmente autorizzati**; prevale sulle altre norme regionali, **fermo il parere obbligatorio dell'amministrazione di tutela**; nessuna deroga ai vincoli di inedificabilità assoluta del PUT sorrentino-amalfitano (Corte Cost. 261/2021 ha tolto la deroga ai limiti non assoluti); **le definizioni dell'art. 3 DPR 380 prevalgono su quelle di PRG, PTP e PUT approvati prima del DPR** (così il testo: "legge statale" non meglio indicata); nelle zone PTP/PUT dove le nuove costruzioni sono vietate, la demolizione e ricostruzione mantiene il volume preesistente | Definizioni DPR 380 vs NTA/RUEC: la prevalenza del c. 5 riguarda i piani approvati prima della legge statale; le NTA/RUEC 2015 sono successive. Vedi anche RUEC art. 2 c. 4 |
+
+---
+
+## 21. LR Campania 10/2004 – sanatoria degli abusi (condono L. 326/2003) e vigilanza (testo vigente con modifiche fino a LR 2/2026)
+
+*Letta per intero (artt. 1-11). **Gran parte del Titolo I è stata dichiarata illegittima dalla Corte Cost. 49/2006** (artt. 1, 4, 8; art. 3 salvo c. 2 lett. b e d; art. 6 c. 1, 2, 5): nel PDF i commi eliminati compaiono vuoti. La LR 10/2004 è con ogni probabilità la "legge regionale attuativa" richiamata dalla L. 326/2003 (c. 26 lett. b, 33, 34); CLAUDE.md la elencava tra i testi esclusi ("legge campana attuativa del condono"), ma è ora ricevuta e letta: **chiedere all'utente se la considera quella esclusa o un testo diverso**.*
+
+### 21.1 Condono L. 326/2003 (Titolo I)
+| Art. | Regola | Effetto per il parere |
+|---|---|---|
+| **2** | Definizioni: condono, opere abusive, **immobili soggetti a vincoli di tutela** (elenco: RD 3267/1923, L. 1089/1939, L. 1497/1939, L. 431/1985, L. 394/1991, D.Lgs 490/1999, **D.Lgs 42/2004**, altre norme comunitarie, statali e regionali anche a protezione degli interessi idrogeologici, falde, parchi e aree protette) | Elenco dei vincoli da usare nella scheda (sez. 10 H) |
+| **3 c. 2 lett. b)** | **Non sanabili** le opere dell'Allegato 1 L. 326/2003 **ultimate dopo il 31/03/2003**. Si considerano ultimate le opere **completate al rustico, comprensive di mura perimetrali e di copertura, e concretamente utilizzabili** | Definizione regionale di "ultimazione"; coerente con la data della sez. 12 |
+| **3 c. 2 lett. d)** | **Non sanabili** le opere realizzate nei comuni dell'art. 1 della **LR 21/2003 (zona rossa)** con **destinazione residenziale**, salvo gli **adeguamenti igienico-sanitari e funzionali** dell'art. 5 c. 2 LR 21/2003 | **Ottaviano è in zona rossa**: condono L. 326/2003 non ammissibile per opere residenziali (verificare la compatibilità con la sez. 17) |
+| **5** | Alla domanda vanno allegati: documenti che provano l'ultimazione **entro il 31/03/2003**, **perizia giurata** su dimensioni e stato delle opere, **certificazione di idoneità statica** (tecnici abilitati iscritti all'albo) | Campi scheda H |
+| **6 c. 3-4** | Gli **oneri concessori** delle opere condonate sono **aumentati del 100%** rispetto alla disciplina vigente; i proventi vanno prioritariamente a demolizioni e urbanizzazioni (le misure dell'oblazione, c. 1-2 e 5, sono caducate) | Calcolo oneri |
+| **7** | I comuni definiscono le domande con **provvedimento esplicito entro 24 mesi** dalla presentazione; termine interrotto una sola volta per richiesta di integrazioni, poi decorre per intero; poi intervento sostitutivo provinciale (art. 4 LR 19/2001) | Termini del procedimento |
+
+> Il c. 1 e il c. 3 dell'art. 3 (che, nell'originale, regolavano le tipologie ammesse) risultano **privi di testo** nel PDF per effetto della sentenza 49/2006: **non posso dire cosa prevedessero**. Per le tipologie 4, 5 e 6 dell'Allegato 1 L. 326/2003 nelle aree non vincolate (c. 26 lett. b) **la legge regionale non offre nel testo ricevuto alcuna ammissione**: segnalarlo e chiedere il parere del funzionario.
+
+### 21.2 Condoni pregressi pendenti (Titolo II, art. 9)
+- Le domande presentate ai sensi della **L. 47/85 (Capo IV)** e dell'**art. 39 L. 724/94**, ancora pendenti, sono **definite dai comuni entro il 31/12/2026** (c. 1, ultima modifica LR 2/2026). **Termine ormai prossimo (oggi: 15/10/2026): segnalare le pratiche pendenti.**
+- Per accelerare, gli interessati trasmettono una **dichiarazione sostitutiva (DPR 445/2000)** che attesta: disponibilità dell'immobile; condizioni per le riduzioni di oblazione (art. 34 c. 3 L. 47/85 e art. 39 c. 13 L. 724/94); descrizione dello stato delle opere con **superficie e volumetria**; residenza (abitazioni); iscrizione CCIAA e sede (attività d'impresa); **avvenuta esecuzione delle opere di adeguamento sismico** (art. 35 c. 5-8 L. 47/85) (c. 2). Verifica a campione dei comuni; in caso di falsità atti alla Procura e decadenza (c. 3).
+- Il dirigente, verificata la dichiarazione e pagata l'oblazione, **rilascia il titolo in sanatoria** se sussistono i presupposti (c. 4).
+- **Esclusione (c. 5)**: le disposizioni dell'articolo **non si applicano** agli abusi nelle aree sottoposte ai vincoli dell'**art. 33 L. 47/85** (anche lett. a-d), **solo se** i vincoli comportano **inedificabilità assoluta** e **sono stati imposti prima dell'esecuzione delle opere**. Coerente con la sez. 12: servono la data di istituzione dei vincoli e la data delle opere.
+
+### 21.3 Vigilanza e intervento sostitutivo (art. 10)
+- I **segretari comunali** trasmettono **mensilmente**, in formato elettronico, alla Direzione Generale per il governo del territorio della Regione i dati sugli immobili e le opere abusive (art. 31 c. 7 DPR 380/2001), **anche alla Soprintendenza e agli Enti Parco** (c. 1).
+- Scaduti i termini dell'art. 31 c. 8 DPR 380, il Presidente della Giunta regionale **diffida il comune a concludere entro 30 giorni** e, in caso di inerzia, nomina un **commissario ad acta** (c. 2-3); da quella data il responsabile comunale trasmette al commissario anche le istanze di **accertamento di conformità (art. 36 DPR 380)** relative alle opere oggetto di intervento (c. 4). Spese e compensi a carico del comune inadempiente (c. 11).
+- Art. 9 bis: misure di semplificazione per Casamicciola Terme, Forio e Lacco Ameno (Ischia): non pertinente.
+
+---
+
+## 22. Regolamento regionale 3/2025 – attuazione dell'art. 43 bis LR 16/2004 (governo del territorio)
+
+*PDF: "Regolamento regionale 6 ottobre 2025, n. 3", pubblicato sul BURC n. 71 dell'8/10/2025 (intestazione). Entra in vigore **il giorno successivo alla pubblicazione** (art. 25): quindi il 9/10/2025 se la data di pubblicazione è quella dell'intestazione (da confermare). Letti per intero gli artt. 1-25; **non letti gli Allegati A (strati informativi CTR), B (schema RUE) e C (linee guida APEA)**.*
+
+### 22.1 Effetti sul quadro normativo
+- **Art. 23: abroga il RR 5/2011.** (La LR 16/2004 art. 43 bis c. 1 quater, sez. 16.5, richiamava la modifica del RR 5/2011.)
+- Struttura nuova dei piani comunali: **PSU** (Piano Strutturale Urbanistico) + **RUE** (Regolamento Urbanistico Edilizio), approvati contestualmente (art. 14 c. 3 lett. d); PO e PUA come strumenti operativi/attuativi (artt. 18-19). **Ottaviano ha PUC con NTA e RUEC del 2015**: per la formazione dei piani la nuova struttura lo riguarda solo con l'adeguamento (LR 16/2004 artt. 44-45, sez. 16.5); per i titoli edilizi **decide il funzionario** (punto aperto n. 10).
+- **Art. 22 (regime transitorio)**: i piani comunali adottati e non approvati al 31/12/2025 e le **varianti dei PUC vigenti** possono concludere il procedimento con la disciplina previgente. Disciplina i **procedimenti di formazione dei piani**, non l'applicazione diretta ai titoli edilizi.
+
+### 22.2 Contenuti di interesse per l'istruttoria
+| Art. | Contenuto |
+|---|---|
+| **15** | Il PSU divide il territorio in **urbanizzato** (città storica ante-1945, città consolidata, città di margine) e **rurale** (intercluso ≥ 2.500 mq con uso agricolo attivo o cessato da meno di 8 anni; periurbano; aperto; naturale). **Equiparazione alle zone DM 1444/1968 (c. 12)**: urbanizzato = zone A, B, C, D, F; rurale = zone A, E, F (solo parchi urbani e territoriali); alla **zona A** vanno assimilati la città storica e gli insediamenti rurali di valore storico-testimoniale (IGM 1954-56, c. 8) |
+| **16** | **Territorio urbanizzato**: consentiti tutti gli interventi dell'art. 3 DPR 380/2001 volti alla rigenerazione, nel rispetto di PSU e RUE. **Città storica**: **non consentite** la nuova costruzione (salvo ripristino documentato di assetti storici) e la ristrutturazione urbanistica (salvo strategia di restauro dei tessuti); **demolizione e ricostruzione solo nei piani di recupero** attuativi (c. 2) |
+| **17** | **Territorio rurale**: ammessi **solo** manutenzione ordinaria e straordinaria, restauro e risanamento, **ristrutturazione edilizia senza aumento di volume** (c. 1). Nuova edificazione/ampliamento di abitazioni e annessi **solo per l'imprenditore agricolo** (agricoltore attivo, IAP, coltivatore diretto) con **piano aziendale decennale** redatto da tecnico abilitato (c. 2, 8-9); abitazioni: **0,03 mc/mq** e superficie colturale minima **10.000 mq** (c. 3); aree naturali/pascolo/bosco **0,002 mc/mq** (c. 4); annessi: 100 mq/ha (primi 3 ha), 40 mq/ha (ulteriori 3 ha), 10 mq/ha (oltre), con tetto **0,07 mc/mq** (c. 5-6); nessuna nuova edificazione nel "territorio naturale" (c. 11); edifici esistenti legittimi non più agricoli: **cambio d'uso oneroso a parità di superfici e volumi** (c. 7) |
+| **5 c. 7** | Uso temporaneo (art. 23 quater DPR 380) di manufatti esistenti per lavoratori agricoli stagionali, anche con MS o ristrutturazione, **esclusa la demolizione e ricostruzione**, senza variazione d'uso né variante |
+| **5 c. 5** | I servizi alla collettività convenzionati sono assimilati alle dotazioni territoriali (art. 31 c. 1 LR 16/2004) e non aggravano gli standard DM 1444/1968 |
+| **3 c. 3** | Per le aree a rischio **bradisismico, sismico, vulcanico** i piani recepiscono i Piani di protezione civile e individuano aree/edifici, vie di fuga e monitoraggio della vulnerabilità |
+
+### 22.3 Per il parere
+- **Non applicare** gli artt. 15-17 come norma diretta sulle pratiche di Ottaviano **senza decisione del funzionario**: il testo disciplina i piani (PSU/RUE) ma l'art. 17 c. 1 è formulato come regola diretta ("sono ammessi esclusivamente..."). **Punto aperto n. 10** in sezione 8. Fino a decisione contraria resta come riscontro (in linea con LR 16/2004 art. 2 ter, sez. 16.1).
+- Per il territorio agricolo: confrontare con NTA (ambiti E) e con il requisito agricolo già indicato in 16.1.
+
+---
+
+## 23. Regolamento regionale 5/2011 – governo del territorio (**abrogato** dal RR 3/2025, art. 23)
+
+*Letto l'indice, l'art. 1 e le note: riguarda i soli procedimenti di formazione di piani territoriali, urbanistici e di settore (VAS, adozione e approvazione, accordi di programma, adeguamento, partecipazione, PUA, RUEC, perequazione). **Non contiene regole di fattibilità edilizia**: **non va usato per i pareri.***
+- Utile solo come riferimento storico per il PUC di Ottaviano del 2015 (Decreto n. 484/2015).
+- **Art. 1 c. 1** rinvia a un "ulteriore regolamento di attuazione in materia edilizia" per gli **artt. 41 c. 2-3 (sportello unico) e 43 (accertamenti di conformità)** della LR 16/2004: tale regolamento **non è tra i testi ricevuti**. Da chiedere all'utente se esiste ed è vigente.
+- **Art. 11**: il RUEC è approvato dal Consiglio comunale ed entra in vigore dopo la pubblicazione; va aggiornato alle norme successive, con particolare riguardo alla sostenibilità ambientale nell'edilizia (c. 3). Da leggere con RUEC art. 2 c. 4 (recepimento delle norme sopravvenute) e LR 16/2004 art. 47 bis (sez. 16.5): il rapporto resta nel conflitto n. 5 in sezione 8.
