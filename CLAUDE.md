@@ -19,7 +19,8 @@ Aggiornato al 15/10/2026. Leggi questo file all'inizio di ogni sessione. Rispond
 5. Grafica Comune: blu #1F3864, #2E5395, #4A7FB5; teal #2A9D8F (poco); testo #262626; grigio #6B6B6B; sfondo #F2F4F7. Word: Aptos. Web: Inter o system-ui. Bordi arrotondati 8px. Inserire lo **stemma** del Comune quando l'utente lo fornisce (non ancora ricevuto).
 
 ## 3. File del progetto
-- `docs/sintesi-normativa-ottaviano.md` (**v2.2, ~1530 righe**): sintesi operativa di tutte le norme lette. È la base di ogni parere. Copia anche nel Project Claude.ai come `claude/sintesi-normativa-ottaviano.md`.
+- `docs/sintesi-normativa-ottaviano.md` (**v2.3, ~1640 righe**, revisione finale fatta il 15/10/2026): sintesi operativa di tutte le norme lette. È la base di ogni parere. La sez. 8 indica per ogni conflitto lo stato **[CHIUSO]/[APERTO]**; la sez. 9 elenca solo ciò che manca o va riletto; la sez. 10 è l'elenco unico dei campi scheda.
+- `docs/revisione-finale.md`: esito della revisione finale (correzioni fatte, questioni aperte per urgenza, **ordine di consultazione** della sintesi per le istruzioni del Project). Copia anche nel Project Claude.ai come `claude/sintesi-normativa-ottaviano.md`.
 - `docs/brief-progetto-valutazione-pratiche.md`: brief iniziale.
 - Testi sorgente (PDF originali, da conservare in una cartella `norme/`): NTA PUC (Decr. 484 del 03/11/2015), RUEC (giugno 2015), PSAI Campania Centrale (Delib. C.I. n. 1 del **23/02/2015**) con Allegati A, C, E; L. 47/85, art. 39 L. 724/94, art. 32 L. 326/03; DPR 380/01 (ed. 28/07/2026); DPR 31/2017 (ed. 2.0); D.Lgs 42/04 (versione aggiornata, 51 pagine); D.Lgs 222/2016; LR 16/2004 (con LR 5/2024); LR 21/2003.
 - Indice della sintesi: 1 gerarchia fonti; 2 sequenza di verifica; 3 ambiti PUC; 4 vincoli; 5 e 5 bis PSAI; 6 RUEC; 7 titoli; 8 conflitti; 9 testi mancanti; 10 campi scheda; 11 formato parere; 12 condoni; 13 paesaggio (D.Lgs 42 e DPR 31); 14 DPR 380; 15 D.Lgs 222; 16 LR 16/2004; 17 LR 21/2003; 18 LR 13/2022; 19 LR 15/2000; 20 LR 19/2009; 21 LR 10/2004; 22 RR 3/2025; 23 RR 5/2011 (abrogato); 24 LR 9/1983; 25 LR 19/2001; 26 LR 31/2021 (art. 27-28); 27 PSAI Allegati B e D; 28 Allegato 1 NTA; 29 delibera oneri e costo di costruzione; 30 Allegato 1 L. 326/2003 (tipologie e procedura); 31 DPCM 12/12/2005 (relazione paesaggistica); 32 Tabella A D.Lgs 222/2016 Sezione II (letta); 33 glossario DM 2/3/2018 (edilizia libera); 34 piano comunale di protezione civile.
@@ -68,7 +69,7 @@ Valutazione Pratiche Urbanistiche/
 4. **Istruzioni del Project**: scrivere il prompt di sistema dell'agente (sequenza di verifica sez. 2, formato parere sez. 11, regole del punto 2 di questo file).
 5. **Modello del PDF del parere** con grafica istituzionale e dicitura sulla firma del funzionario.
 6. **Flusso Drive** (Da valutare / Valutate / Pareri) e pulsante "valuta pratica" nell'app. Solo dopo che schede e pareri funzionano a mano.
-7. **Revisione finale** della sintesi con Opus (una volta sola), dopo l'arrivo dei testi mancanti.
+7. **Revisione finale** della sintesi con Opus: **fatta il 15/10/2026** (v2.3; vedi `docs/revisione-finale.md`). Nuovi conflitti emersi: sez. 8 n. 23 (K3 e Up1, foglio dell'ufficio diverso dalla delibera), n. 24 (rischio atteso PSAI senza pericolosità), n. 25 (abrogazione LR 21/2003 legata al PPR). Le domande sono in fondo a `docs/piano-assimilazione.md`. Prossimo passo: punti 3-6 (scheda, istruzioni del Project, modello PDF, flusso Drive), con **Sonnet** e una chat nuova.
 
 ## 6. Come proseguire (suggerito)
 - In questa chat/sessione: aggiornare la sintesi con ogni nuovo testo ricevuto (nuova sezione numerata, aggiornare la sezione 9 e la versione nell'intestazione).
