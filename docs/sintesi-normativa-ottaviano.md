@@ -1,7 +1,7 @@
 # Sintesi normativa operativa – Comune di Ottaviano
 **Uso**: base di lavoro per l'istruttoria di fattibilità urbanistica (parere positivo/negativo + alternative).
 **Redatta il** 13/10/2026 dai soli testi forniti: NTA del PUC (Decreto n. 484 del 03/11/2015, BURC n. 67 del 16/11/2015), RUEC (giugno 2015, con modifiche della Delibera C.C. n. 49 del 21/05/2015), Norme di Attuazione del PSAI Autorità di Bacino Campania Centrale (Delibera C.I. n. 1 del **23/02/2015**) con **Allegati A, C, E** (sezione 5 bis), **art. 39 L. 724/1994** e **art. 32 L. 326/2003** (sezione 12, condoni; L. 47/1985 inclusa).
-**Versione 1.8** – integrata il 15/10/2026 con PSAI Allegati B e D (sez. 27); v1.7: integrata con LR 9/1983 (sez. 24), LR 19/2001 (sez. 25) e LR 31/2021 art. 27-28 (sez. 26), decisioni dell'utente su sottotetti, territorio rurale e LR 10/2004 (sez. 8); v1.6: leggi regionali LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
+**Versione 1.9** – integrata il 15/10/2026 con Allegato 1 alle NTA (sez. 28) e delibera sul contributo di costruzione (sez. 29); v1.8: PSAI Allegati B e D (sez. 27); v1.7: integrata con LR 9/1983 (sez. 24), LR 19/2001 (sez. 25) e LR 31/2021 art. 27-28 (sez. 26), decisioni dell'utente su sottotetti, territorio rurale e LR 10/2004 (sez. 8); v1.6: leggi regionali LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
 
 > **Regole d'uso**
 > 1. Cita solo gli articoli riportati qui o nei testi originali. Se un riferimento non c'è, dillo.
@@ -37,6 +37,8 @@
 9. Esito: positivo / positivo con prescrizioni / negativo, con alternative.
 
 ## 3. Ambiti del PUC (NTA)
+
+> Per la definizione degli indici (U.F., I.F., R.C., H.M. ecc.) e per i **limiti dell'intervento "tetto"** (copertura piana → tetto) vedere la **sezione 28** (Allegato 1 NTA, art. 1-2 e 14). I valori numerici degli indici per ambito restano negli articoli d'ambito qui sotto.
 
 Sono "non trasformabili" gli ambiti per cui l'articolo lo dice espressamente. Gli ambiti di trasformabilità si attuano solo con API e PUA.
 
@@ -205,6 +207,8 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 
 ## 6. RUEC – parametri e requisiti
 
+> Le definizioni di indici (S.U., S.C., V.C., N.P., H.F.) e le categorie d'intervento delle NTA sono nella **sezione 28** (Allegato 1 NTA), con il confronto con questa sezione (28.4). Tra NTA e RUEC prevalgono le NTA.
+
 | Tema | Regola | Art. |
 |---|---|---|
 | Distanza da confini | Metà dell'altezza del fabbricato prospiciente, minimo assoluto 5,00 m. Riducibile a 0 con accordo tra confinanti o edificio a parete cieca in confine. Per nuove costruzioni: non meno di 5 m | 18; 56 c. 2 |
@@ -252,7 +256,7 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 | Monetizzazione standard | Eccezionale, per delibera del Consiglio, con verifica dei minimi per abitante | 165 |
 | Sanzione mancata demolizione | € 2.000-20.000 | 160 bis |
 
-> **Lacuna**: il RUEC **non contiene valori** per oneri e costo di costruzione (rinvia a tabelle regionali e delibere). Per il calcolo servono le tabelle vigenti.
+> **Lacuna (parzialmente colmata il 15/10/2026)**: il RUEC **non contiene valori** per oneri e costo di costruzione (rinvia a tabelle regionali e delibere). I valori sono nella **delibera del 15/12/2025** (sezione 29: formule degli oneri, K1-K5, K3, costo di costruzione base 307,54 €/mq). **Restano mancanti** l'aliquota del costo di costruzione (5-20%), le maggiorazioni, il non residenziale e il collegamento tra zone A-F e ambiti del PUC (sez. 29.5 e 29.3). Valgono per i titoli rilasciati/presentati dopo il 15/12/2025.
 
 ## 8. Conflitti e anomalie da risolvere
 
@@ -271,9 +275,12 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 
 13. **Competenza della verifica PSAI sui titoli edilizi (Allegato B §1 e Allegato A1 §1)**: la verifica di ammissibilità degli interventi sull'esistente o di nuova edificazione espressamente consentiti nelle aree a pericolosità/rischio è **a cura dell'ente che rilascia il titolo (il Comune)**, mentre lo studio di compatibilità su cui si pronuncia l'Autorità di Bacino riguarda gli atti dell'art. 7 NdA (sez. 5), che non cita i titoli edilizi privati. Nessun conflitto tra le fonti; resta da decidere con l'utente se il parere debba prescrivere la relazione di compatibilità geologica per i progetti in R3/R4 frana (vedi sez. 27.1 e domande nel piano).
 
+14. **Allegato 1 NTA contro RUEC (15/10/2026, sez. 28.4)**: differenze **non risolte**: (a) ristrutturazione con demolizione-ricostruzione a parità di volume e sagoma: PdC (Allegato art. 12) contro SCIA (RUEC art. 25); (b) impermeabilizzazione: 40% delle superfici non edificate (Allegato art. 17) contro 60% del lotto (RUEC art. 56 c. 10); (c) altezza del sottotetto e del seminterrato per il numero di piani abitabili (Allegato art. 2) contro RUEC art. 59, 61, 62; (d) limite di 3,00 m per gli 8 m tra pareti non finestrate (Allegato art. 5) assente in sez. 6; (e) cambio d'uso senza opere: domanda documentata (Allegato art. 23) contro SCIA (RUEC art. 34). Regola dell'utente: prevalgono le NTA; per (a) e (e) i titoli dell'Allegato sono anteriori al D.Lgs 222/2016 (RUEC art. 2 c. 4: norme statali sopravvenute recepite), quindi la scelta resta al funzionario.
+15. **Delibera sul contributo di costruzione (15/10/2026, sez. 29.7)**: (a) numero della delibera: 17 nel testo (proposta 78) contro 15 nel nome del file e in CLAUDE.md; (b) la delibera non lega le zone A-F agli ambiti del PUC; (c) per gli ampliamenti il RUEC art. 26 c. 7 applica il regime della nuova costruzione, la delibera ha un K3 distinto per la ristrutturazione con incremento di superficie; (d) due definizioni di volume (V.C. dell'Allegato 1 contro V "vuoto per pieno" della delibera): scopi diversi; (e) per condoni e sanatorie con riferimento ad anni precedenti serve la tabella vigente alla data di riferimento, che la delibera non contiene.
+
 ## 9. Testi mancanti, necessari per coprire tutti i procedimenti
 
-- Allegato 1 alle NTA (indici e categorie di intervento): ricevuto il 15/10/2026, **da leggere**
+- Allegato 1 alle NTA (indici e categorie di intervento): **letto il 15/10/2026, sezione 28**. Non contiene i valori numerici degli indici per ambito (stanno negli articoli d'ambito delle NTA, sez. 3)
 - Allegati **B** e **D** del PSAI: **letti il 15/10/2026, sezione 27** (A, C, E in sezione 5 bis). Dell'Allegato D le sezioni D1, D3, D4 (D5 in parte) sono state lette solo nell'impostazione generale, perché metodologie di calcolo per studi specialistici, non rilevanti per l'istruttoria edilizia
 - Piano del Parco Nazionale del Vesuvio e PTP dei Comuni Vesuviani: **esclusi dall'utente** (non servono)
 - **Condono edilizio**: ricevuti L. 47/1985 (aggiornata al 26/05/2016), art. 39 L. 724/1994, art. 32 L. 326/2003 (commi 25-50) e **LR 10/2004** (sez. 21). **Allegato 1 L. 326/2003** ricevuto il 15/10/2026, **da leggere**. Esclusa dall'utente: tabella oblazione L. 47/85. **Decisione del 15/10/2026: la LR 10/2004 va applicata** (sez. 21)
@@ -282,7 +289,7 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 - **LR 16/2004 (con LR 5/2024), LR 21/2003**: sezioni 16 e 17. **Leggi regionali ricevute e lette il 15/10/2026**: LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22; **Allegati A, B, C non letti**), RR 5/2011 (sez. 23, abrogato)
 - **Ricevute e lette il 15/10/2026 (seconda tornata)**: **LR 9/1983** (sez. 24), **LR 19/2001** (sez. 25), **LR 31/2021** (art. 27-28, sez. 26). **Regolamento regionale in materia edilizia** previsto dall'art. 1 RR 5/2011: per l'utente è stato abrogato dal RR 3/2025, **non serve**. **Ancora mancante**: regolamento di attuazione della LR 9/1983 (art. 4 c. 4), richiamato dal testo ma non ricevuto
 - Mancano inoltre le norme tecniche sismiche regionali. Il **Piano Paesaggistico Regionale** è escluso dall'utente
-- Tabelle oneri e costo di costruzione vigenti
+- Oneri e costo di costruzione: **delibera del 15/12/2025 letta il 15/10/2026 (sezione 29)**. **Ancora mancanti**: aliquota del costo di costruzione (5-20%) e maggiorazioni, regole per edifici non residenziali e per edifici esistenti, tabella di collegamento zone A-F / ambiti PUC, tabelle vigenti prima del 15/12/2025 (Giunta 27/09/1994 n. 326 e 14/04/2022 n. 58), per condoni e sanatorie con riferimento ad anni precedenti
 - Nota del Comune richiamata nel brief: esclusa dall'utente
 
 ## 10. Bozza campi della scheda anonima
@@ -352,6 +359,14 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 - Presenza di relazione/studio di compatibilità geologica allegata (sì/no) e firmata da tecnico abilitato e geologo (sì/no)
 - Interrati, seminterrati o locali sotterranei in area a pericolosità/rischio frana (sì/no): interferenza con falde, cavità, superfici di scorrimento, reticolo idrografico (sì/no/non verificata)
 - Area "declassata" per interventi di mitigazione (sì/no) e collaudo disponibile (sì/no)
+
+**K. Campi aggiuntivi da Allegato 1 NTA e delibera oneri (sez. 28-29; solo se pertinenti)**
+- Titoli o domande sulla stessa unità edilizia negli ultimi 5 anni (art. 8 c. 2 Allegato 1): elenco e tipo
+- Per nuove costruzioni e ampliamenti: S.F., S.C., S.U., V.C. (definizione Allegato 1), H.F./H.M., numero piani abitabili, sottotetto (altezza media, al colmo, ai muri perimetrali), seminterrato (altezza netta)
+- Distanze dai confini, da edifici (pareti finestrate o no; larghezza e altezza delle parti non finestrate) e da strade; presenza di accordo con il confinante o di parete cieca in confine
+- Superficie non edificata del lotto e quota già impermeabilizzata (%), per la verifica del 40% (art. 17 Allegato 1)
+- Intervento "tetto": incremento di altezza al muro perimetrale e al colmo, pendenza, larghezza del corpo di fabbrica, destinazione del volume
+- Per il contributo di costruzione: **data di rilascio del PdC o di presentazione del titolo** (la delibera vale dopo il 15/12/2025), zona omogenea A-F di riferimento, tipologia (residenziale, terziaria, turistica, produttiva, ristrutturazione con incremento o cambio d'uso), V vuoto per pieno, numero di addetti e superfici S1-S3 per gli impianti produttivi, convenzionata sì/no
 
 ## 11. Formato del parere (richiesto)
 
@@ -1024,3 +1039,191 @@ L'Allegato è una raccolta di **linee guida metodologiche** per gli studi specia
 - **D5** – scorrimenti in terreni argillosi (indagini: almeno tre sondaggi a carotaggio continuo per aree piccole, piezometri e inclinometri con monitoraggio annuale) e pericolosità non riconducibile a dissesti di tipologia definita.
 
 > **Per il parere**: l'Allegato D **non entra** nella verifica di fattibilità edilizia di PdC, SCIA, CILA, condoni e agibilità. Si richiama solo se il progetto allega uno studio di riperimetrazione o se il tecnico dello studio di compatibilità lo cita. La pericolosità e le riperimetrazioni sono comunque fuori dal perimetro dei pareri (CLAUDE.md sez. 4).
+
+## 28. Allegato 1 alle NTA del PUC – indici, distanze, categorie di intervento (letto il 15/10/2026 da Drive; strato di testo selezionabile, nessun OCR; ~13 pagine, numerate 51-63 nel piè di pagina)
+
+Il file si intitola "COMUNE DI OTTAVIANO – PUC ADOTTATO – NORME TECNICHE DI ATTUAZIONE – ALLEGATO 1" (studio Fedora Archh. Associati, Napoli). **Il titolo dice "PUC adottato"**: la sintesi assume, come per le NTA, che il contenuto coincida con l'allegato del testo approvato col Decreto n. 484/2015 (da confermare, vedi domande nel piano). Il testo estratto ha refusi di OCR/impaginazione (es. "fo11diaria", "ape1tura"): i numeri sotto sono stati riportati come letti.
+
+### 28.1 Capo 1 – Indici (art. 1 e 2)
+
+| Sigla | Definizione | Art. |
+|---|---|---|
+| S.T. | Superficie territoriale: area la cui trasformazione è sottoposta ad attuazione indiretta (PUA); comprende superficie fondiaria, infrastrutture e urbanizzazioni, attrezzature e spazi collettivi | 1 |
+| S.F. | Superficie fondiaria: aree utilizzabili a fini edificatori, al netto delle strade destinate al pubblico transito (= superficie copribile/coperta + aree scoperte di pertinenza) | 1 |
+| U.T. / U.F. | Indice di utilizzazione territoriale / fondiaria = S.U./S.T. e S.U./S.F. (massima S.U. in mq per mq) | 1 |
+| I.T. / I.F. | Indice di fabbricabilità territoriale / fondiario = V.C./S.T. e V.C./S.F. (massimo volume in mc per mq) | 1 |
+| Regola | Se per l'ambito sono prescritti **sia l'indice di fabbricabilità sia quello di utilizzazione**, si applica **il più restrittivo**, in base all'altezza interpiano esistente o prevista | 1 |
+| S.U. | **Superficie utile lorda**: somma delle superfici di tutti i piani fuori ed entro terra, al lordo di tutti gli elementi verticali (murature, vano ascensore, scale ecc.) | 2 |
+| S.C. | Superficie coperta: proiezione orizzontale di tutte le S.U. dell'edificio | 2 |
+| R.C. | Rapporto di copertura = S.C./S.F. (massimo ammissibile) | 2 |
+| S.U.A. | Superficie utile abitabile: superficie di pavimento degli alloggi al netto di murature, pilastri, tramezzi, squarci, vani di porte e finestre, logge e balconi di profondità ≤ 0,80 m (conteggiata la quota di balconi/sporti oltre 0,80 m); scale interne tra due piani contate una volta | 2 |
+| H.F. | Altezza delle fronti (per distanze da fabbricati e confini): copertura piana = estradosso dell'ultimo solaio meno quota media di intersezione fronte/terreno sistemato; copertura inclinata = linea di gronda se pendenza ≤ **60%**, altrimenti linea di colmo più alta, meno la stessa quota media | 2 |
+| H.M. | Altezza massima del fabbricato = la maggiore tra le H.F. | 2 |
+| N.P. | Numero massimo dei piani abitabili: piani fuori terra, **incluso il sottotetto se abitabile** (altezza netta media **≥ 2,70 m**, altezza netta **≥ 3,30 m al colmo** e **≥ 1,60 m ai muri perimetrali**) e il **seminterrato** se ha altezza netta **> 2,40 m** (cioè se consente usi diversi da cantine, autorimesse, depositi, centrale termica o cabina elettrica secondaria) | 2 |
+| V.C. | Volume del fabbricato = somma dei prodotti S.U. di ogni piano × altezza calpestio-calpestio; per l'ultimo piano altezza all'intradosso dell'ultimo solaio (se piano) o media ponderata (se inclinato). Per ricostruzione/ampliamento di edifici esistenti il volume può includere la quota del seminterrato emergente, **non** i locali ricavati dalla copertura di cortili, le tettoie, le superfetazioni e le edificazioni abusive | 2 |
+| H.V. | Altezza virtuale = V.C./S.U.A. (ai fini dell'art. 43 L. 457/1978) | 2 |
+| V.T. | Volumi tecnici: volumi strettamente necessari a contenere impianti (idrico, termico, TV, condizionamento/ventilazione, ascensore, protezione da fulmini) che non possono stare nel corpo edilizio. **Non** sono volumi tecnici: bucatai, stenditoi coperti, locali di sgombero, locali interrati. I sottotetti non abitabili e non praticabili (altezza media interna ≤ **1,20 m**) sono volumi tecnici di isolamento termico solo se **privi di scala permanente di accesso** | 2 |
+
+**Esclusioni dalla S.U. (art. 2)**: negli edifici **residenziali** sono esclusi i porticati pubblici e quelli privati asserviti al pubblico transito, i porticati privati di residenze rurali isolate in zona agricola E, i **balconi** (superficie < 10% della S.U. dell'alloggio e sporgenza ≤ **2,00 m** – limite assoluto – oppure superficie ≥ 10% e sporgenza ≤ **0,80 m**; oltre i limiti si computa la parte che eccede 0,80 m), e centrali termiche, cabine elettriche secondarie, depositi, autorimesse e cantine (con le scale di accesso) se **altezza netta ≤ 2,40 m**, **non emergenti più di 100 cm** dal terreno sistemato (misura all'intradosso del solaio) e **usati solo dai residenti**. Negli edifici **non residenziali** sono esclusi pensiline, parcheggi, locali di sgombero e deposito al servizio dell'attività, centrale termica/elettrica/condizionamento e impianti tecnologici necessari, **per una superficie non eccedente la S.C.** "Terreno sistemato" = configurazione del terreno dopo le sistemazioni esterne obbligatoriamente previste dal progetto (o degli spazi pubblici prospicienti).
+
+### 28.2 Capo 2 – Distanze (art. 3-6)
+
+| Tema | Regola | Art. |
+|---|---|---|
+| Misura | Segmento minimo tra la sagoma planivolumetrica e il riferimento (edificio, confine, strada, ferrovia); per gli aggetti (balconi, pensiline) dall'aggetto. Per strutture interrate, ove richiesto, dalla superficie esterna della struttura | 3 |
+| Confini di proprietà e di zona | Metà dell'altezza dei fabbricati prospicienti, **minimo assoluto 5,00 m**. Dalle strade: distanze diverse possono essere prescritte nelle planimetrie dei piani. Riducibile a **0,00 m** se vi è accordo tra confinanti o preesiste edificio con parete cieca in confine | 4 |
+| Tra edifici – ricostruzione | In ricostruzione totale o parziale di fabbricati posti a distanza inferiore all'altezza del più alto o al limite assoluto di **10 m**, non meno della distanza tra i volumi preesistenti (senza superfetazioni recenti prive di valore) | 5 |
+| Tra edifici – nuove costruzioni | Pareti finestrate in prospicienza diretta (anche se finestrata una sola): **pari all'altezza della parete più alta, minimo 10 m**. Tra pareti non finestrate, o parti non finestrate che si fronteggiano per una larghezza e un'altezza **non superiori a 3,00 m**: **8,00 m** | 5 |
+| Punto di misura | Dal limite esterno della facciata o da balconi e scale a giorno con **aggetto superiore a 1,20 m** | 5 |
+| Applicazione indici | I.T./U.T. determinano l'edificabilità dove l'attuazione è subordinata a PUA; I.F./U.F. quella dei singoli lotti (PUA approvati o intervento diretto). Dopo PUA, i totali sui lotti non superano quelli ottenuti con gli indici territoriali. **Il volume "superficie coperta × altezza massima" non è realizzabile**: è solo un solido immaginario entro cui deve stare l'edificio dimensionato con U.F./I.F. | 6 |
+| Aree di compensazione (solo queste, per abitanti insediabili e rapporto tra indici) | **1 abitante = 1 stanza = 80 mc (V.C.) = 25 mq (S.U.)** | 6 (dopo l'art. 6) |
+
+### 28.3 Capo 3 – Categorie d'intervento (art. 7-26)
+
+Elenco delle categorie: manutenzione ordinaria; opere interne; manutenzione straordinaria; restauro scientifico; risanamento conservativo; ristrutturazione edilizia; trasformazione di copertura piana in copertura a tetto; demolizione senza ricostruzione; demolizione con ricostruzione; nuova edificazione; variazione della destinazione d'uso; ristrutturazione urbanistica; nuovo impianto; attrezzatura del territorio; uso e tutela delle risorse naturali. Nelle zone **PI e RUA del PTP** prevalgono le norme del PTP su quelle degli articoli seguenti.
+
+> **Attenzione ai titoli**: il testo è anteriore al D.Lgs 222/2016 e riporta **DIA** e "concessione/licenza d'uso" (riferimenti a L. 493/1993 e L. 135/1997). Per il titolo da applicare oggi vale la sintesi (sez. 7, 14, 15, 18); i titoli qui sotto sono quelli **scritti nell'allegato**.
+
+| Art. | Intervento | Contenuto essenziale (come scritto) |
+|---|---|---|
+| 7 | Manutenzione ordinaria | Riparazione/rinnovamento/sostituzione finiture interne ed esterne (conservando materiali, tinte, lavorazioni), riparazione strutture non portanti e coperture, impianti esistenti senza nuovi locali, apertura/chiusura porte interne, pareti mobili, verde privato. Nessun titolo, ma **comunicazione di inizio lavori** al dirigente (c. 3). Su immobili vincolati L. 1089/39 (oggi D.Lgs 42/04): **nulla osta preventivo della Soprintendenza** (c. 5) |
+| 8 | Manutenzione straordinaria | Non altera volumi o superfici utili delle unità e non varia destinazioni d'uso; ammessa la modifica dell'assetto distributivo interno. Valutata anche in connessione con domande degli **ultimi 5 anni** sulla stessa unità: nessun insieme sistematico che porti a un organismo sostanzialmente rinnovato (c. 2); niente modifiche di pendenza e posizione delle scale, pendenza e materiali delle coperture, posizione aperture esterne. Titolo scritto: **DIA** (anche su immobili vincolati, previo nulla osta della Soprintendenza) (c. 4) |
+| 9 | Pertinenze e volumi tecnici | Autorimesse L. 765/67 o L. 122/89, locali tecnici interrati/seminterrati, serbatoi, autoclavi, ascensori, sottotetti non abitabili né utilizzabili con accesso dall'esterno, cortili, giardini, recinzioni. Opere di adeguamento o nuove a esclusivo servizio di edifici esistenti = **manutenzione straordinaria con DIA** (c. 2) |
+| 10 | Restauro | Conservazione dell'organismo anche con opere sistematiche; cambio d'uso ammesso verso destinazione più idonea. **DIA** se senza modifica di destinazione, **PdC** altrimenti (c. 2); documentazione richiesta: rilievo in scala 1:50, repertorio documentario, documentazione fotografica, progetto di restauro (c. 3) |
+| 11 | Risanamento conservativo | Eccede la manutenzione straordinaria; conservazione con eliminazione superfetazioni; **nessun incremento di volume**, nessuna alterazione di forma e distribuzione (se non nei limiti consentiti) né di destinazione. Titolo scritto: **DIA** |
+| 12 | Ristrutturazione edilizia | Insieme sistematico di opere; include la **demolizione e ricostruzione con stessa volumetria e sagoma** (salve le innovazioni per adeguamento antisismico) (c. 1). **Nessun incremento di volume o di superficie lorda** e nessun pregiudizio dell'ambiente (c. 2). **Non ammessa su costruzioni soggette a tutela** (c. 3). Titolo scritto: **PdC** (c. 4). Sotto-categorie (c. 6): **a) ricostruzione fedele "com'era dov'era"** – nei limiti della sagoma, senza aumento di volume né cambio d'uso (salvo conforme alla zona), solo se condizioni statiche (certificate da tecnico abilitato) o perimetro impediscono le altre categorie; stessa posizione planimetrica (traslazione nel lotto solo se necessaria per vincoli, stesse destinazioni urbanistiche); variazione di prospetto, tipologia strutturale e materiali solo per riqualificazione ambientale e norme antisismiche; **b) ristrutturazione**: spostamento e incremento degli orizzontamenti nell'involucro, eliminazione solai, variazione del numero e della superficie delle unità funzionali e frazionamento (nel rispetto del RUEC), demolizione totale e ricostruzione dei manufatti accessori **a parità di S.U.A.** con accorpamento all'edificio principale, nel rispetto delle distanze dai confini e dei limiti di altezza della zona |
+| 13 | Ristrutturazione urbanistica | Come art. 3 c. 1 lett. f DPR 380/01; subordinata a **PUA** |
+| 14 | Sostituzione di copertura piana con tetto | Per comfort termico o mitigazione del rischio vulcanico. Limiti: incremento di altezza al muro perimetrale **≤ 0,40 m**; al colmo **≤ 3,20 m**; pendenza **≤ 45°**; **tetto a due falde** se la larghezza del corpo di fabbrica supera **7,00 m**; destinazioni ammesse: **solo stenditoi e depositi** annessi alle residenze e non separabili. Titolo: **PdC oneroso** |
+| 15 | Nuova costruzione | Include **sopraelevazioni e ampliamenti anche parziali** (c. 1), urbanizzazioni primaria e secondaria, involucri mobili su suolo, costruzioni leggere/prefabbricate, tendoni, container e simili (c. 2). **PdC oneroso** (c. 3). Elenco documenti al c. 4 (aerofotogrammetria, stralci PUC/PUA, planimetrie 1:500-1:2000, progetto quotato 1:100, passi carrabili e rampe, ecc.) |
+| 16 | Interventi minori | Monumenti, decorazioni, cartellonistica, segnaletica, illuminazione, tende, pensiline, chioschi smontabili, arredi urbani, edicole funerarie: **DIA** (c. 2); non devono turbare il quadro urbano né ostacolare la circolazione (c. 4) |
+| 17 | Aree scoperte | Relazione sulla compatibilità della vegetazione. **Nuove impermeabilizzazioni tali che le impermeabilizzazioni complessive superino il 40% del totale delle superfici non edificate del lotto non sono ammesse**; per impermeabilizzazioni preesistenti superiori, riduzione: preesistente 100% → 70%; tra 100% e 80% → 60%; tra 80% e 60% → 50%; tra 60% e 41% → 40% (c. 2). Seguono il titolo dell'intervento associato (c. 3). **Abbattimento di alberi di alto fusto: autorizzazione comunale espressa** (c. 4); esclusi avvicendamenti colturali agricoli (c. 5) |
+| 18 | Demolizione | Rimozione totale o parziale; nell'ambito di MS, restauro, risanamento o ristrutturazione: **DIA** (c. 2). Documenti: rilievo 1:100, relazione sulle modalità di demolizione e smaltimento, destinazione dell'area risultante |
+| 19 | Interventi non ultimati | Il completamento è classificato come l'intervento originario; se nuova edificazione già finita al rustico, il completamento è **ristrutturazione** (c. 2). Vietato lasciare ferri di attesa e impalcature di cui sia richiesta la licenza d'uso (c. 3) |
+| 20 | Manufatti provvisori | Per esigenze stagionali/transitorie, attivi **non oltre 8 mesi**: autorizzazione con scadenza indicata; dimensioni minime, materiali leggeri, asportabili; rimozione e ripristino entro **10 giorni** dalla scadenza; l'autorizzazione non sostituisce la concessione di suolo pubblico |
+| 21 | Interventi urgenti | Per pericolo imminente per l'incolumità: senza atto preventivo, sotto la responsabilità del committente; **segnalazione immediata** al Comune e **richiesta adeguata entro 15 giorni** dall'inizio |
+| 22 | Varianti in corso d'opera | Alle opere con PdC: previo procedimento del PdC; se non in contrasto con strumenti urbanistici e regolamenti, **senza incidere su parametri e volumetrie, destinazioni d'uso, categoria d'intervento, sagoma e prescrizioni del PdC**: DIA (art. 4 c. 7 L. 493/93 come modificato dall'art. 11 L. 135/97) |
+| 23 | Variazione della destinazione d'uso | "Nelle more della LR di cui all'art. 25 L. 47/85": mutamento di **categoria** di destinazione di una unità edilizia o immobiliare, o di **parti superiori a un terzo** della superficie di unità residenziali, anche senza opere. Non è variazione il mutamento all'interno della stessa categoria (es. da negozio alimentari a vestiario; da caffè-bar a pub-tavola calda). **Con opere edilizie: PdC** (c. 2); senza opere: domanda con documentazione sul mutamento e sulla compatibilità con le norme (c. 3) |
+| 24-25 | Opere di amministrazioni statali / enti pubblici su aree demaniali | Accertamento di conformità rilasciato dalla Regione (art. 29 L. 1150/1942); contributo da corrispondere prima dell'inizio dei lavori. Non rientrano nell'istruttoria delle pratiche private |
+| 26 | Certificati di destinazione urbanistica | Devono contenere la perimetrazione delle aree a rischio idrogeologico (art. 6 c. 5 PSAI ex AdB Nord Occidentale della Campania). **CDU esclusi dal sistema** (CLAUDE.md sez. 1) |
+
+### 28.4 Confronto con le sezioni 3, 6 e 7 (differenze segnalate, **non risolte**)
+
+Regola dell'utente (CLAUDE.md sez. 2 punto 4): **tra NTA e RUEC prevalgono le NTA**. Il confronto indica le differenze; la scelta spetta al funzionario dove non è già decisa.
+
+1. **Distanze (sez. 6, RUEC art. 18-19)**: confini (½ H, min 5 m, riducibile a 0), tra edifici (H della parete più alta, min 10 m; 8 m tra pareti non finestrate) e ricostruzione **coincidono**. Differenza di dettaglio: l'Allegato limita gli **8 m** alle pareti non finestrate (o parti) che si fronteggiano per **larghezza e altezza non superiori a 3,00 m**; la sezione 6 riporta gli 8 m senza questo limite. Prima di un parere rileggere RUEC art. 19. Misura da balconi/scale a giorno con aggetto > 1,20 m: non riportata in sez. 6.
+2. **Impermeabilizzazione (sez. 6)**: NTA All. 1 art. 17 c. 2: **≤ 40% delle superfici non edificate del lotto** (con tabella di riduzione per l'esistente); RUEC (art. 56 c. 10; 22 c. 3): nuove costruzioni e pavimentazioni impermeabili **≤ 60% del lotto** (filtrante ≥ 40%), aree scoperte pavimentate ≤ 40%. **Basi di calcolo diverse** (superfici non edificate / lotto): con la regola NTA > RUEC si applica il 40% sulle superfici non edificate, citando anche il RUEC. Da confermare con l'utente (domanda nel piano).
+3. **Altezza minima del sottotetto (sez. 6, sez. 8 n. 8, sez. 16-19)**: l'Allegato, ai fini del **numero di piani abitabili (N.P.)**, richiede media ≥ **2,70 m**, ≥ 3,30 m al colmo, ≥ 1,60 m ai muri perimetrali; il RUEC (art. 59) per i sottotetti esistenti abitabili ≥ 2,20 m (min 1,40 m); la LR 16/2004 art. 43 quater ≥ 2,10 m. Lo scopo è diverso (conteggio piani/volumi contro recupero abitativo): la decisione dell'utente del 15/10/2026 sui sottotetti (sez. 8 n. 8) riguarda il **recupero abitativo**; per il **conteggio di N.P. e V.C.** nel parere va segnalato il valore dell'Allegato. Non risolto.
+4. **Seminterrato (sez. 6, RUEC art. 61-62)**: l'Allegato conta il seminterrato come piano abitabile se altezza netta **> 2,40 m**; il RUEC ammette seminterrati abitabili solo se esistenti, altezza ≥ 2,70 m e soffitto ≥ 1,50 m sopra il terreno sui lati interrati. Scopi diversi (N.P. contro abitabilità): segnalare.
+5. **Ristrutturazione e titolo (sez. 6 RUEC art. 25; sez. 7, 14, 15)**: l'Allegato art. 12 c. 4 scrive **PdC** per ogni ristrutturazione, compresa la demolizione-ricostruzione con stessa volumetria e sagoma (c. 1); il RUEC art. 25 indica **SCIA** per la demolizione-ricostruzione a stessa volumetria, superficie e sagoma, e **PdC** con aumento di unità, modifica di volume, sagoma, prospetti o superfici. Per la regola NTA > RUEC prevarrebbe il PdC, ma l'Allegato è anteriore al D.Lgs 222/2016 e al DPR 380/01 vigente (sez. 8 n. 5; RUEC art. 2 c. 4 recepisce le norme statali sopravvenute). **Conflitto da decidere con l'utente**; non risolto in automatico.
+6. **Manutenzione straordinaria, restauro, risanamento, demolizioni, opere minori (DIA)**: i titoli dell'Allegato (DIA) sono **superati** dal sistema CILA/SCIA (sez. 14-15). Le definizioni (MS: nessuna alterazione di volumi e superfici utili e della destinazione) **coincidono** con la sez. 6 (RUEC art. 21). Il limite dei 5 anni (art. 8 c. 2) per valutare insiemi sistematici di MS non compare in sez. 6: aggiunto qui; **dato scheda**: domande/titoli sulla stessa unità negli ultimi 5 anni.
+7. **Cambio d'uso (sez. 6, RUEC art. 34; sez. 25 e 8)**: soglia di un terzo e PdC con opere **coincidono**; per il caso **senza opere** l'Allegato richiede una domanda documentata (non indica SCIA), il RUEC indica SCIA. L'Allegato richiama la LR "ex art. 25 L. 47/85" (oggi LR 19/2001 art. 2, vedi sez. 25 e domanda aperta sui c. 5-8).
+8. **Copertura piana → tetto (sez. 3, intervento "tetto" negli ambiti)**: la sez. 3 elenca "tetto" tra gli interventi ammessi senza condizioni; i **limiti** (art. 14: +0,40 m al muro perimetrale, +3,20 m al colmo, ≤ 45°, due falde oltre 7,00 m, solo stenditoi e depositi, **PdC oneroso**) provengono da questo allegato. **Colmata la lacuna**: nel parere per "tetto" applicare e citare l'art. 14 dell'Allegato 1. Non conflitto, ma ogni uso residenziale del volume del tetto è escluso.
+9. **Superficie coperta (sez. 6)**: il RUEC fissa "non oltre 2/3 del lotto anche senza indici"; l'Allegato definisce R.C. = S.C./S.F. come massimo **per ambito**, i cui valori stanno negli articoli d'ambito delle NTA (sez. 3), **non** in questo allegato. Nessun conflitto accertato: i valori numerici di I.F., U.F., R.C. per ambito **non sono nell'Allegato 1**.
+10. **Volume (sez. 29)**: V.C. dell'Allegato = somma S.U. × altezze (esclusi tettoie, superfetazioni, abusi); il **V "vuoto per pieno"** della delibera sugli oneri (sez. 29) include interrati e volumi tecnici ed esclude solo il sottotetto inutilizzabile. **Due definizioni di volume per scopi diversi**: il parere deve dire quale usa (edificabilità = NTA; oneri = delibera).
+11. **Sopraelevazioni e ampliamenti (sez. 6, RUEC art. 26 c. 7)**: coincidono (nuova costruzione, PdC oneroso).
+12. **Manufatti provvisori (art. 20)**: durata massima **8 mesi**. Il confronto con l'edilizia libera per opere stagionali del DPR 380/01 (art. 6; sez. 14) non è stato fatto: la sez. 14 riporta un elenco generico; **verificare** prima di usare questa durata.
+13. **Mancano nell'Allegato** (da cercare altrove, non dedurre): indici numerici per ambito, altezze massime per ambito, standard (D.M. 1444/1968) e parcheggi (NTA art. 29 bis), che stanno nel corpo delle NTA.
+
+## 29. Delibera sul contributo di costruzione – oneri di urbanizzazione e costo di costruzione (letta il 15/10/2026 da Drive; testo selezionabile)
+
+**Identificazione del documento**: nel Drive il file si intitola "2025 n.15 del 15.12.25 aggiornamento oneri urbanizzazione e costi costruzione". **Il testo riporta**: *Verbale di deliberazione del Commissario con i poteri del Consiglio Comunale **n. 17 del 15/12/2025***, con allegata proposta **n. 78 del 15/12/2025** del responsabile del Settore VII; Commissario straordinario dott. Roberto Esposito (D.P.R. 28/10/2025), Segretario generale Enza Fontana; copia cartacea di originale digitale stampata il 17/12/2025. **Numero in contrasto (15 nel nome del file e in CLAUDE.md, 17 nel testo)**: nei pareri citare il numero del testo solo dopo conferma (domanda nel piano). Oggetto: art. 16 DPR 380/01 – aggiornamento del contributo di costruzione. **Dichiarata immediatamente esecutiva** (art. 134 c. 4 D.Lgs 267/2000).
+
+### 29.1 Quadro e decorrenza
+
+- Premesse: la Regione Campania ha disciplinato la materia con le sole **Del. C.R. 119/1 del 28/07/1977** (tabelle parametriche), **Circolare G.R. 831 del 02/02/1978**, **Del. C.R. 208/5 del 26/03/1985**; non risultano ulteriori disposizioni sugli oneri. Il **costo di costruzione** non è stato aggiornato dalla Regione dopo la L. 573/1993: resta **£ 250.000/mq (D.M. 20/06/1990) = € 129,11/mq**.
+- Fino alla delibera si usavano l'aggiornamento degli oneri della **Giunta del 27/09/1994 (verbale n. 326)** e l'aggiornamento del costo di costruzione della **Giunta del 14/04/2022 (verbale n. 58)**; con la nuova delibera "non avranno più applicazione gli atti contrastanti" (punto 3 del dispositivo; il testo rinvia per errore al "punto 4": il riferimento corretto è il punto 2).
+- Metodo: tabelle parametriche della Del. C.R. 208/5/1985 **aggiornate con l'indice ISTAT FOI**: marzo 1985 – ottobre 2025 = **+207,2% (coefficiente 3,072)**; costo di costruzione di fabbricato residenziale: giugno 1990 – agosto 2025 = **+138,2% (coefficiente 2,382)**.
+- **Decorrenza (punto 2 e premesse)**: i nuovi importi si applicano ai **permessi di costruire rilasciati dopo la data di esecutività** (il rilascio è il fatto costitutivo dell'obbligo di pagamento) e agli **ulteriori titoli (SCIA, CILA ecc.) presentati al protocollo comunale o al portale SUEDI dopo la stessa data**. **Dato scheda**: data di rilascio del PdC / data di presentazione del titolo (la delibera è del 15/12/2025: per titoli precedenti valgono gli atti del 1994 e del 2022).
+- **Zona sismica**: richiama la DGR Campania **n. 5447 del 07/11/2002**, che attribuisce a Ottaviano **C.S. = 2** (prima "non classificato"); DGR 248 del 24/01/2003. Conferma la zona sismica 2 già indicata dall'utente.
+
+### 29.2 Oneri di urbanizzazione – costruzioni residenziali, direzionali e di servizio, residenze a servizio, attività turistico-ricettive
+
+**U = K1 × K2 × K3 × K4 × K5 × C × V**, con per Ottaviano:
+
+| Fattore | Valore | Fonte/descrizione nel testo |
+|---|---|---|
+| K1 | **0,90** | Classe di comuni per andamento demografico (Tab. a): 3ª classe (20.000-50.000 ab.), decremento **0-4%**; popolazione 2011 = 23.546, 2021 = 23.064, decremento ≈ **2%** |
+| K2 | **0,59** | Caratteristiche geografiche (Tab. b): comune "parzialmente delimitato" (Circ. Min. Finanze 14/06/1993 n. 9), cioè **collina/parzialmente montano non costiero**, classe 20.001-50.000: **0,56 × 1,05 = 0,59** (il testo dice solo "aumentato del 5%"; la nota N.B. prevede +5% per sedi di aziende e stazioni di cura, soggiorno e turismo, ma il testo non motiva espressamente l'aumento per Ottaviano) |
+| K3 | **variabile** | Destinazione di zona (Tab. c): vedi tabella 29.3 |
+| K4 | **0,83** | Limiti e rapporti minimi (art. 41 quinquies L. 1150/1942): classe 20.001-50.000 ab. |
+| K5 | **0,68** | Caratteristiche geofisiche: classificazione sismica **C.S. = 2** (C.S. 3 = 0,75; C.S. 2 = 0,68; C.S. 1 = 0,65) |
+| C | **35,70 €/mc** | Costo unitario (Prospetto 1, Del. C.R. 208/5/1985): classe 20.001-50.000 ab. = **£ 22.500/mc**, attualizzato col coefficiente 3,072 |
+| V | volume | **Vuoto per pieno** (fuori terra e entro terra, anche parzialmente), **compresi i volumi tecnici**; esclusi solo gli spazi occupati dal tetto se il sottotetto è inadatto a qualsiasi utilizzazione per dimensioni, modalità costruttive e mancanza di aperture |
+
+**Formula finale del testo: U = 0,90 × 0,59 × K3 × 0,83 × 0,68 × 35,70 × V, ovvero U = K3 × 10,70 × V** (€/mc). Verifica aritmetica: 0,90 × 0,59 × 0,83 × 0,68 × 35,70 = 10,70.
+
+Tabelle di riferimento riportate dal testo (altre classi, per completezza):
+- **K1 (Tab. a)** – colonne: incremento 0-5% / oltre 5% / decremento 0-4% / 4,01-10% / oltre 10%. 1ª classe (fino a 5.000 ab.): 0,90 / 1,00 / 0,80 / 0,65 / 0,50. 2ª (5.001-20.000): 1,00 / 1,00 / 0,85 / 0,70 / 0,60. **3ª (20.000-50.000): 1,00 / 1,00 / 0,90 / 0,75 / 0,65.** 4ª (oltre 50.000): 1,00 / 1,00 / 0,95 / 0,80 / 0,70. Napoli: 1,00 in tutte.
+- **K2 (Tab. b)** – colonne: costieri / pianura non costieri / collina o parzialmente montani non costieri / montani non costieri / confinanti con Napoli. 1ª (fino a 3.000): 0,82 / 0,70 / 0,48 / 0,32 / 0,81. 2ª (3.001-5.000): 0,88 / 0,72 / 0,50 / 0,34 / 0,82. 3ª (5.001-20.000): 0,92 / 0,74 / 0,52 / 0,36 / 0,83. **4ª (20.001-50.000): 0,94 / 0,76 / 0,56 / 0,38 / 0,84.** 5ª (50.001-100.000): 0,96 / 0,78 / 0,60 / 0,40 / 0,88. 6ª (oltre 100.000): 0,98 / 0,80 / 0,64 / – / 1,00. Napoli: 1,00 (costiero). N.B.: +10% per capoluoghi di provincia, comuni confinanti con essi e comuni oltre 50.000 ab.; +5% per sedi di aziende e stazioni di cura, soggiorno e turismo (+20% insulari).
+- **K4**: fino a 1.500 ab. 0,50; 1.501-3.000 0,62; 3.001-5.000 0,75; 5.001-20.000 0,79; **20.001-50.000 0,83**; 50.001-100.000 0,91; oltre 100.000 1,00.
+- **C (Tab. f)**, £/mc del 1985: fino a 3.000 ab. 17.500; 3.001-5.000 21.000; 5.001-20.000 22.000; **20.001-50.000 22.500 → 35,70 €/mc**; 50.001-100.000 25.500; oltre 100.000 28.000 (il testo riporta in euro solo la classe di Ottaviano).
+
+### 29.3 K3 – coefficiente per destinazione di zona (Tabella c nel testo)
+
+Colonne A, B, C, D, E, F (zone omogenee). Per ogni tipologia il testo riporta due righe: coefficiente base e coefficiente **ridotto del 5% per popolazione < 50.000 abitanti**. Il testo dice che "i coefficienti da considerare sono quelli in grassetto, ridotti del 5%" per i comuni sotto 50.000 abitanti (Ottaviano ≈ 23.000): **si usa la riga ridotta**. Il grassetto non si distingue nel testo estratto: **rileggere la tabella sul PDF originale prima di citare un valore in un parere ufficiale**. Dove la cella è "---" la combinazione non è prevista.
+
+| Tipologia | Riga | A | B | C | D | E | F |
+|---|---|---|---|---|---|---|---|
+| Nuove costruzioni residenziali, If < 1,50 mc/mq | base | 0,80 | 0,85 | 0,65 | 0,80 | 1,00 | 0,80 |
+| | **ridotta 5%** | 0,76 | 0,81 | 0,62 | 0,76 | 0,95 | 0,76 |
+| Nuove costruzioni residenziali, 1,50 < If < 3,00 mc/mq | base | 0,83 | 0,91 | 0,83 | 0,83 | 1,00 | 0,83 |
+| | **ridotta 5%** | 0,79 | 0,86 | 0,79 | 0,79 | 0,95 | 0,79 |
+| Nuove costruzioni residenziali, If > 3,00 mc/mq | base | 0,85 | 0,85 | 0,88 | 0,85 | 1,00 | 0,85 |
+| | **ridotta 5%** | 0,81 | 0,81 | 0,84 | 0,81 | 0,95 | 0,81 |
+| Nuova edilizia convenzionata o sovvenzionata | base | 0,20 | 0,20 | 0,20 | --- | 1,00 | --- |
+| | **ridotta 5%** | 0,19 | 0,19 | 0,19 | --- | 0,95 | --- |
+| Edilizia "terziaria" direzionale o commerciale | base | 0,92 | 0,85 | 0,77 | 0,77 | 1,00 | 0,77 |
+| | **ridotta 5%** | 0,87 | 0,81 | 0,73 | 0,73 | 0,95 | 0,73 |
+| Edilizia turistica residenziale | base | 1,00 | 1,00 | 1,00 | --- | 1,00 | --- |
+| | **ridotta 5%** | 0,95 | 0,95 | 0,95 | --- | 0,95 | --- |
+| Attrezzature di tempo libero | base | 0,40 | 0,50 | 0,60 | 0,70 | 1,00 | 0,70 |
+| | **ridotta 5%** | 0,38 | 0,48 | 0,57 | 0,67 | 0,95 | 0,67 |
+| Ristrutturazione **con incremento di superficie** | base | 0,20 | 0,20 | 0,20 | --- | 0,20 | 0,91 |
+| | **ridotta 5%** | 0,19 | 0,19 | 0,19 | --- | 0,19 | 0,86 |
+| Ristrutturazione **con variazione di destinazione d'uso** | base | 0,20 | 0,20 | 0,20 | --- | 0,20 | 0,83 |
+| | **ridotta 5%** | 0,19 | 0,19 | 0,19 | --- | 0,19 | 0,79 |
+| Ristrutturazione non convenzionata fuori dalla legge (art. 9 lett. b L. 10/77 e s.m.i.) | base | 0,20 | 0,20 | 0,20 | 0,20 | 0,20 | 0,20 |
+| | **ridotta 5%** | 0,19 | 0,19 | 0,19 | 0,19 | 0,19 | 0,19 |
+
+*Note di lettura*: (a) la collocazione delle celle ridotte per le righe con "---" è ricostruita dall'ordine nel testo estratto (le righe ridotte riportano meno valori): verificare sul PDF. (b) I valori **0,91 e 0,83 in zona F** per la ristrutturazione sono molto più alti degli altri 0,20: riportati come letti, da controllare sull'originale. (c) **La delibera non collega le zone A-F agli ambiti del PUC di Ottaviano** (ambiti NTA: sez. 3): **lacuna** per l'applicazione automatica; vedi domanda nel piano.
+
+**Esempio di verifica del fattore (calcolo mio, non nel testo)**: nuova costruzione residenziale If < 1,50 in zona B (riga ridotta 0,81): U = 0,81 × 10,70 = 8,67 €/mc di V.
+
+### 29.4 Oneri – impianti industriali e artigianali
+
+**U = K1 × K2 × K3 × Cj × [(Up1 × S1) + (Up2 × S2) + (Up3 × S3)]**, con K1 = **0,90**, K2 = **0,59**, **K3 = 0,20** ("uguale in tutti i casi per assenza di agglomerati e nuclei ASI sul territorio comunale").
+
+- **Cj** (classe dell'industria per qualità dei rifiuti e alterazione dei luoghi): classe **I = 1,00**; **II = 0,86**; **III = 0,72**; **IV = maggiore di 0,72** in funzione del grado di alterazione dei luoghi (valore non indicato). Classi I e II: D.M. 05/09/1994, elenco industrie insalubri (art. 216 T.U. leggi sanitarie); classe III: attività non comprese nelle precedenti.
+- **S1** = superficie complessiva dell'insediamento escluse le aree pubbliche sottratte all'attività (spazi pubblici, verde, parcheggi ex art. 5 D.M. 1444/68); **S2** = superficie lorda degli edifici direzionali, di servizio (mense, assistenza sanitaria e sociale), residenza, somma dei piani utilizzabili; **S3** = superficie utile coperta da manufatti industriali (capannoni, officine, silos, depositi), somma dei piani utilizzabili, più le apparecchiature fisse anche allo scoperto.
+- **Costi unitari (€/mq)** in funzione del numero di addetti (Tabella Ip, Del. C.R. 208/5/1985; £/mq convertiti con il coefficiente 3,072):
+
+| Addetti | 0-15 | 16-50 | 51-200 | "20 a 1000" (sic; verosimilmente 201-1000, da controllare) | oltre 1000 |
+|---|---|---|---|---|---|
+| Up1 – £/mq (1985) | 800 | 1.000 | 1.600 | 1.800 | 2.000 |
+| Up1 – €/mq | 1,27 | 1,59 | 2,54 | 2,86 | 3,17 |
+| Up2 – £/mq | 3.000 | 4.000 | 6.000 | 7.000 | 8.000 |
+| Up2 – €/mq | 4,76 | 6,35 | 9,52 | 11,11 | 12,69 |
+| Up3 – £/mq | 12.000 | 12.000 | 15.000 | 24.000 | 24.000 |
+| Up3 – €/mq | 19,04 | 19,04 | 23,80 | 38,08 | 38,08 |
+
+### 29.5 Costo di costruzione
+
+- Costo di costruzione iniziale (D.M. 20/06/1990): **£ 250.000/mq = € 129,11/mq**; adeguamento ISTAT agosto 2025 (ultimo dato disponibile) **+138,2%**; **Vb = 129,11 × 2,382 = € 307,54/mq** (verifica aritmetica corretta).
+- **Il testo non indica**: l'**aliquota** del costo di costruzione dovuta (la quota 5-20% che l'art. 16 c. 9 DPR 380/01, citato nelle premesse, attribuisce alle Regioni), le **maggiorazioni** per classi di edifici di pregio (fino al 50%, stessa fonte), le regole per **edifici non residenziali** (art. 19 DPR 380/01, non richiamato), per gli **interventi su edifici esistenti** (art. 16 c. 10: costo determinato in relazione al costo degli interventi) e l'eventuale **riduzione per ristrutturazione edilizia** prevista dalla facoltà dell'art. 16 c. 10. Servono quindi, per calcolare il costo di costruzione dovuto, la tabella con le classi di edifici e le percentuali (nel Drive: nessun testo ricevuto) o la conferma che l'ufficio applica la prassi precedente (delibera di Giunta del 14/04/2022 n. 58, non ricevuta).
+- La delibera non contiene esoneri e riduzioni: restano gli esoneri del **RUEC art. 157-164** (sez. 7) e le norme del DPR 380/01 art. 17 (sez. 14, da rileggere).
+
+### 29.6 Rateizzazione e sanzioni (dispositivo, punti 4-6)
+
+- Se il contributo supera **€ 5.000,00** è concessa la **rateizzazione**: 1ª rata **25%** al rilascio del PdC o **entro 30 giorni dalla presentazione della SCIA**; 2ª, 3ª e 4ª rata del **25%** ciascuna, con **interessi legali** (tasso ufficiale di riferimento), **semestrali** e comunque **non oltre 60 giorni dall'ultimazione dei lavori**; **garanzia** (fideiussione bancaria o assicurativa) per un valore **pari al doppio dell'importo rateizzato**.
+- Mancato pagamento alle scadenze: **sanzioni dell'art. 42 DPR 380/2001**; decorso inutilmente il termine della lett. c) del c. 2 dello stesso articolo, **riscossione coattiva** in unica soluzione con iscrizione a ruolo (D.P.R. 28/01/1988 n. 43).
+- Per quanto non disciplinato: normativa nazionale e regionale.
+
+### 29.7 Confronto con le sezioni 6, 7, 12 e 21 e lacune colmate
+
+1. **Lacuna della sez. 7 (RUEC senza valori)**: **colmata in parte**. La delibera fornisce **formule e coefficienti degli oneri di urbanizzazione** (residenziale/terziario/turistico e produttivo) e il **costo di costruzione base Vb = 307,54 €/mq**. **Restano le lacune** dell'aliquota (5-20%), delle maggiorazioni, del non residenziale e dei calcoli su edifici esistenti (29.5), e il collegamento zone A-F / ambiti PUC (29.3).
+2. **RUEC art. 157-164 e NTA**: la delibera non cita gli esoneri; la sez. 7 li riporta dal RUEC. Nessun conflitto, ma l'elenco degli esoneri resta quello del RUEC (e dell'art. 17 DPR 380/01).
+3. **Ristrutturazione**: per la ristrutturazione con incremento di superficie o con cambio d'uso la delibera applica K3 = 0,19-0,20 (riga ridotta) in zone A-C, E e valori maggiori in F; il confronto con la nuova costruzione (sez. 6: ampliamenti e sopraelevazioni hanno "stesso regime di oneri" della nuova costruzione, RUEC art. 26 c. 7) **non coincide**: per gli **ampliamenti** il RUEC rinvia al regime della nuova costruzione, la delibera prevede un coefficiente distinto per la ristrutturazione "con incremento di superficie". **Differenza da segnalare, non risolta** (tra NTA e RUEC prevalgono le NTA; la delibera non è né l'una né l'altra: va decisa la gerarchia con l'utente).
+4. **Condoni (sez. 12, 21)**: l'oblazione ex art. 36 DPR 380/01 (sez. 14) è il **doppio del contributo di costruzione**; per i condoni L. 326/03 gli oneri sono **aumentati del 100%** (LR 10/2004 art. 6 c. 3-4, sez. 21). Con i valori di questa sezione si può ora stimare la base di calcolo, ma la delibera vale per i **titoli presentati dopo il 15/12/2025**: per le pratiche di condono pendenti e per le sanatorie con riferimento ad anni precedenti serve la tabella **vigente alla data di riferimento della legge o della domanda**, che la delibera non fornisce. **Non applicare a occhio i nuovi importi ai condoni**: segnalare.
+5. **LR 13/2022 art. 2 c. 9 (sez. 18)**: il contributo per i cambi d'uso del c. 6 e 8 è dovuto "ove dovuto" e la Giunta regionale aggiorna ogni 5 anni le tabelle; la delibera conferma che la **Regione non ha aggiornato le tabelle** dopo il 1985 per gli oneri e che il Comune provvede "in via provvisoria" (art. 16 c. 5 DPR 380/01). Cambio d'uso con e senza opere: usare la riga "ristrutturazione con variazione di destinazione d'uso" (29.3) **solo se il funzionario lo conferma**: la delibera non lo dice espressamente per il cambio d'uso senza opere.
+6. **Sottotetti LR 15/2000 e LR 16/2004 art. 43 quater (sez. 16, 19)**: il contributo è calcolato sulla **volumetria resa abitativa**; con V "vuoto per pieno" della delibera (29.2) il volume utile del sottotetto da inserire è quello recuperato; la formula e K3 applicabile (ristrutturazione, riga ridotta) vanno confermati dal funzionario.
+7. **Aggiornamento quinquennale (art. 16 c. 6 DPR 380/01, citato)**: la delibera aggiorna con l'indice FOI da marzo 1985; **prossimo aggiornamento** entro cinque anni dalla delibera (dicembre 2030), dato informativo.
