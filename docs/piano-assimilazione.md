@@ -24,6 +24,11 @@ Regola di costo: **una chat (sessione) per blocco**, **Sonnet** per lettura e si
 
 Dopo il blocco 6 restano i punti 3-6 di CLAUDE.md sez. 5 (scheda anonima, istruzioni del Project, modello PDF del parere, flusso Drive): non fanno parte dell'assimilazione.
 
+## Risposte dell'utente (15/10/2026)
+- **Cambio d'uso senza opere** → **SCIA** (Blocco 4).
+- **Numero della delibera** → **n. 17** (Blocco 2).
+- **Costo di costruzione**: dedotto dal foglio Excel dell'ufficio (sintesi sez. 29.8): aliquota 10%, computo metrico per l'esistente, Snr al 60%. Restano aperti: K2 = 0,588 (foglio) o 0,59 (delibera)?; collegamento ambiti PUC ↔ zone A-F; maggiorazioni (assenti nel foglio).
+
 ## Domande per l'utente (le sessioni le aggiungono qui)
 - **Blocco 1 – Allegato B PSAI**: per i progetti in area a rischio frana (R1-R4) con nuova edificazione, ampliamento con aumento di carico o interrati, il parere deve **prescrivere** la relazione di compatibilità geologica con relazione geotecnica (l'Allegato B §1 permette al Comune di richiederla) oppure limitarsi a elencarla tra i dati mancanti? Proposta: elencarla tra i dati mancanti e segnalare la facoltà del Comune.
 - **Blocco 1 – Allegato D PSAI**: confermi che l'Allegato D (metodologie di studio per riperimetrazioni) non serve ai pareri e va richiamato solo se il progetto allega uno studio di riperimetrazione? Nella sintesi D1, D3, D4 e D5 sono riassunti in modo sommario.

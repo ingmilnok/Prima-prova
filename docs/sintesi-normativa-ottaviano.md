@@ -282,6 +282,8 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 18. **Edilizia libera: glossario DM 2018 contro DPR 380/2001 aggiornato (15/10/2026, sez. 33.2)**: (a) opere contingenti e temporanee: 90 giorni nel glossario, 180 giorni nell'art. 6 lett. e-bis del testo DPR 380 ed. 2026 (sez. 14): vale il testo di legge più recente, ma la scelta resta al funzionario; (b) **decisione dell'utente (15/10/2026): 180 giorni**; (c) **"limitate dimensioni" (gazebo, pergolati, ripostigli: nn. 44, 46, 48 del glossario) = al massimo 30 mq (decisione dell'utente 15/10/2026)**; resta da chiedere se il limite riguarda la superficie coperta e se vale per le sole pertinenze ammesse dalle NTA; (d) le lettere dell'art. 6 nel glossario sono quelle del 2018 e nella Tabella A del 2016 (sez. 32); verificare con la sez. 14.
 19. **Tabella A (2016) contro DPR 380/2001 aggiornato (15/10/2026, sez. 32.4)**: (a) DPR 139/2010 sostituito dal DPR 31/2017; (b) DM 161/2012 abrogato; (c) numerazione di artt. 3, 6, 23, 36 modificata dopo il 2016; (d) riga 42 mancante nell'estratto; (e) cambio d'uso senza opere: PdC (riga 39) contro SCIA (RUEC art. 34) e domanda documentata (Allegato 1 NTA art. 23); (f) confronto con LR 13/2022 art. 2 e LR 31/2021 art. 27 non ancora eseguito riga per riga.
 20. **Piano comunale di protezione civile (15/10/2026, sez. 34)**: (a) base normativa del piano (L. 225/1992) contro decreto 2024 (D.Lgs 1/2018): elaborati non adeguati al Codice; (b) elaborati senza data né estremi di approvazione dell'aggiornamento; (c) estensione del Comune 19,85 km² (A.1) contro 20,02 km² (A.1.1) e popolazione "23.9581" (refuso, probabilmente 23.958): dati non usati nei pareri; (d) scenari, perimetrazioni (zona rossa) e tabelle non leggibili nei file: la zona rossa resta quella confermata dall'utente; (e) nessuna corrispondenza tra microzone del piano e ambiti PUC/fogli catastali; (f) il piano non ha efficacia edilizia: non genera divieti (sez. 34.5).
+21. **Decisioni dell'utente del 15/10/2026 (seconda parte)**: (a) **cambio d'uso senza opere → SCIA** (chiude il conflitto tra Tabella A riga 39 = PdC, RUEC art. 34 = SCIA e Allegato 1 NTA art. 23 = domanda documentata; sez. 28.4, 32.4 e 33: nel parere citare le altre fonti e indicare la prevalenza della SCIA per decisione del funzionario); (b) **delibera oneri = n. 17 del 15/12/2025** (sez. 29); (c) per il **costo di costruzione** vale quanto risulta dal foglio di calcolo dell'ufficio (sez. 29.8: aliquota 10%, computo metrico per l'esistente) come **prassi d'ufficio**.
+22. **K2 della delibera e del foglio (sez. 29.8)**: delibera 0,59 (U = K3 × 10,70 × V); foglio 0,588 (U = K3 × 10,66 × V). Differenza ≈ 0,3%: **da decidere**.
 
 ## 9. Testi mancanti, necessari per coprire tutti i procedimenti
 
@@ -1146,7 +1148,7 @@ Regola dell'utente (CLAUDE.md sez. 2 punto 4): **tra NTA e RUEC prevalgono le NT
 
 ## 29. Delibera sul contributo di costruzione – oneri di urbanizzazione e costo di costruzione (letta il 15/10/2026 da Drive; testo selezionabile)
 
-**Identificazione del documento**: nel Drive il file si intitola "2025 n.15 del 15.12.25 aggiornamento oneri urbanizzazione e costi costruzione". **Il testo riporta**: *Verbale di deliberazione del Commissario con i poteri del Consiglio Comunale **n. 17 del 15/12/2025***, con allegata proposta **n. 78 del 15/12/2025** del responsabile del Settore VII; Commissario straordinario dott. Roberto Esposito (D.P.R. 28/10/2025), Segretario generale Enza Fontana; copia cartacea di originale digitale stampata il 17/12/2025. **Numero in contrasto (15 nel nome del file e in CLAUDE.md, 17 nel testo)**: nei pareri citare il numero del testo solo dopo conferma (domanda nel piano). Oggetto: art. 16 DPR 380/01 – aggiornamento del contributo di costruzione. **Dichiarata immediatamente esecutiva** (art. 134 c. 4 D.Lgs 267/2000).
+**Identificazione del documento**: nel Drive il file si intitola "2025 n.15 del 15.12.25 aggiornamento oneri urbanizzazione e costi costruzione". **Decisione dell'utente (15/10/2026): nei pareri si cita la delibera n. 17 del 15/12/2025** (il foglio di calcolo dell'ufficio cita "n. 17" nelle intestazioni A e B e "n. 15" nelle righe con i valori di C: sez. 29.8). **Il testo riporta**: *Verbale di deliberazione del Commissario con i poteri del Consiglio Comunale **n. 17 del 15/12/2025***, con allegata proposta **n. 78 del 15/12/2025** del responsabile del Settore VII; Commissario straordinario dott. Roberto Esposito (D.P.R. 28/10/2025), Segretario generale Enza Fontana; copia cartacea di originale digitale stampata il 17/12/2025. **Numero in contrasto (15 nel nome del file e in CLAUDE.md, 17 nel testo)**: nei pareri citare il numero del testo solo dopo conferma (domanda nel piano). Oggetto: art. 16 DPR 380/01 – aggiornamento del contributo di costruzione. **Dichiarata immediatamente esecutiva** (art. 134 c. 4 D.Lgs 267/2000).
 
 ### 29.1 Quadro e decorrenza
 
@@ -1194,8 +1196,8 @@ Colonne A, B, C, D, E, F (zone omogenee). Per ogni tipologia il testo riporta du
 | | **ridotta 5%** | 0,19 | 0,19 | 0,19 | --- | 0,95 | --- |
 | Edilizia "terziaria" direzionale o commerciale | base | 0,92 | 0,85 | 0,77 | 0,77 | 1,00 | 0,77 |
 | | **ridotta 5%** | 0,87 | 0,81 | 0,73 | 0,73 | 0,95 | 0,73 |
-| Edilizia turistica residenziale | base | 1,00 | 1,00 | 1,00 | --- | 1,00 | --- |
-| | **ridotta 5%** | 0,95 | 0,95 | 0,95 | --- | 0,95 | --- |
+| Edilizia turistica residenziale | base | 1,00 | 1,00 | 1,00 | **1,00** (corretto dal foglio dell'ufficio, 29.8) | 1,00 | --- |
+| | **ridotta 5%** | 0,95 | 0,95 | 0,95 | **0,95** | 0,95 | --- |
 | Attrezzature di tempo libero | base | 0,40 | 0,50 | 0,60 | 0,70 | 1,00 | 0,70 |
 | | **ridotta 5%** | 0,38 | 0,48 | 0,57 | 0,67 | 0,95 | 0,67 |
 | Ristrutturazione **con incremento di superficie** | base | 0,20 | 0,20 | 0,20 | --- | 0,20 | 0,91 |
@@ -1205,7 +1207,7 @@ Colonne A, B, C, D, E, F (zone omogenee). Per ogni tipologia il testo riporta du
 | Ristrutturazione non convenzionata fuori dalla legge (art. 9 lett. b L. 10/77 e s.m.i.) | base | 0,20 | 0,20 | 0,20 | 0,20 | 0,20 | 0,20 |
 | | **ridotta 5%** | 0,19 | 0,19 | 0,19 | 0,19 | 0,19 | 0,19 |
 
-*Note di lettura*: (a) la collocazione delle celle ridotte per le righe con "---" è ricostruita dall'ordine nel testo estratto (le righe ridotte riportano meno valori): verificare sul PDF. (b) I valori **0,91 e 0,83 in zona F** per la ristrutturazione sono molto più alti degli altri 0,20: riportati come letti, da controllare sull'originale. (c) **La delibera non collega le zone A-F agli ambiti del PUC di Ottaviano** (ambiti NTA: sez. 3): **lacuna** per l'applicazione automatica; vedi domanda nel piano.
+*Note di lettura* (**aggiornate con il foglio di calcolo dell'ufficio, sez. 29.8**): la colonna **B** della tabella è quella dell'**intervento diretto**; il foglio riporta anche la colonna **B – PUA** (valori diversi, mancanti qui) e la riga "**Interventi di ristrutturazione urbanistica**" (assente qui): vedi 29.8. (a) la collocazione delle celle ridotte per le righe con "---" è ricostruita dall'ordine nel testo estratto (le righe ridotte riportano meno valori): verificare sul PDF. (b) I valori **0,91 e 0,83 in zona F** per la ristrutturazione sono molto più alti degli altri 0,20: riportati come letti, da controllare sull'originale. (c) **La delibera non collega le zone A-F agli ambiti del PUC di Ottaviano** (ambiti NTA: sez. 3): **lacuna** per l'applicazione automatica; vedi domanda nel piano.
 
 **Esempio di verifica del fattore (calcolo mio, non nel testo)**: nuova costruzione residenziale If < 1,50 in zona B (riga ridotta 0,81): U = 0,81 × 10,70 = 8,67 €/mc di V.
 
@@ -1229,7 +1231,8 @@ Colonne A, B, C, D, E, F (zone omogenee). Per ogni tipologia il testo riporta du
 ### 29.5 Costo di costruzione
 
 - Costo di costruzione iniziale (D.M. 20/06/1990): **£ 250.000/mq = € 129,11/mq**; adeguamento ISTAT agosto 2025 (ultimo dato disponibile) **+138,2%**; **Vb = 129,11 × 2,382 = € 307,54/mq** (verifica aritmetica corretta).
-- **Il testo non indica**: l'**aliquota** del costo di costruzione dovuta (la quota 5-20% che l'art. 16 c. 9 DPR 380/01, citato nelle premesse, attribuisce alle Regioni), le **maggiorazioni** per classi di edifici di pregio (fino al 50%, stessa fonte), le regole per **edifici non residenziali** (art. 19 DPR 380/01, non richiamato), per gli **interventi su edifici esistenti** (art. 16 c. 10: costo determinato in relazione al costo degli interventi) e l'eventuale **riduzione per ristrutturazione edilizia** prevista dalla facoltà dell'art. 16 c. 10. Servono quindi, per calcolare il costo di costruzione dovuto, la tabella con le classi di edifici e le percentuali (nel Drive: nessun testo ricevuto) o la conferma che l'ufficio applica la prassi precedente (delibera di Giunta del 14/04/2022 n. 58, non ricevuta).
+- **Dedotto dal foglio di calcolo dell'ufficio (sez. 29.8)**: l'ufficio applica l'**aliquota del 10%** ("Cc = 10%, art. 16 c. 9 DPR 380/01") e per gli interventi su edifici esistenti il costo dei lavori da computo metrico (**Cl × 10%**). Non è una regola della delibera ma una **prassi d'ufficio**: la citerò come tale.
+- **Il testo della delibera non indica**: l'**aliquota** del costo di costruzione dovuta (la quota 5-20% che l'art. 16 c. 9 DPR 380/01, citato nelle premesse, attribuisce alle Regioni), le **maggiorazioni** per classi di edifici di pregio (fino al 50%, stessa fonte), le regole per **edifici non residenziali** (art. 19 DPR 380/01, non richiamato), per gli **interventi su edifici esistenti** (art. 16 c. 10: costo determinato in relazione al costo degli interventi) e l'eventuale **riduzione per ristrutturazione edilizia** prevista dalla facoltà dell'art. 16 c. 10. Servono quindi, per calcolare il costo di costruzione dovuto, la tabella con le classi di edifici e le percentuali (nel Drive: nessun testo ricevuto) o la conferma che l'ufficio applica la prassi precedente (delibera di Giunta del 14/04/2022 n. 58, non ricevuta).
 - La delibera non contiene esoneri e riduzioni: restano gli esoneri del **RUEC art. 157-164** (sez. 7) e le norme del DPR 380/01 art. 17 (sez. 14, da rileggere).
 
 ### 29.6 Rateizzazione e sanzioni (dispositivo, punti 4-6)
@@ -1247,6 +1250,60 @@ Colonne A, B, C, D, E, F (zone omogenee). Per ogni tipologia il testo riporta du
 5. **LR 13/2022 art. 2 c. 9 (sez. 18)**: il contributo per i cambi d'uso del c. 6 e 8 è dovuto "ove dovuto" e la Giunta regionale aggiorna ogni 5 anni le tabelle; la delibera conferma che la **Regione non ha aggiornato le tabelle** dopo il 1985 per gli oneri e che il Comune provvede "in via provvisoria" (art. 16 c. 5 DPR 380/01). Cambio d'uso con e senza opere: usare la riga "ristrutturazione con variazione di destinazione d'uso" (29.3) **solo se il funzionario lo conferma**: la delibera non lo dice espressamente per il cambio d'uso senza opere.
 6. **Sottotetti LR 15/2000 e LR 16/2004 art. 43 quater (sez. 16, 19)**: il contributo è calcolato sulla **volumetria resa abitativa**; con V "vuoto per pieno" della delibera (29.2) il volume utile del sottotetto da inserire è quello recuperato; la formula e K3 applicabile (ristrutturazione, riga ridotta) vanno confermati dal funzionario.
 7. **Aggiornamento quinquennale (art. 16 c. 6 DPR 380/01, citato)**: la delibera aggiorna con l'indice FOI da marzo 1985; **prossimo aggiornamento** entro cinque anni dalla delibera (dicembre 2030), dato informativo.
+
+### 29.8 Foglio di calcolo del contributo di costruzione in uso all'ufficio (analizzato il 15/10/2026)
+
+*File Excel dell'utente (`calcolo CONTRIBUTO COSTRUZIONE`, fogli: RESIDENZIALE, NON RESIDENZIALE, costo urbanizzazione, K1, K2, K3, K4, K5, Cj, Ip). Il file contiene dati di una pratica reale (nome dell'istante, protocollo): **non va copiato in repository né nella sintesi**; qui sono riportati solo parametri e formule. Deduzioni mie dal foglio, non da un atto: ove diverse dalla delibera lo segnalo.*
+
+**A. Oneri di urbanizzazione – foglio RESIDENZIALE** (titolo del foglio: residenziale, direzionale, terziario-commerciale, ricettivo; art. 16 c. 10 DPR 380/01)
+- **U = K1 × K2 × K3 × K4 × K5 × C × V**, intestazione "Del. commissariale n. 17 del 15/12/2025".
+- Parametri impostati per **Ottaviano**: **K1 = 0,90** (3ª classe 20.001-50.000 ab., decremento 0-4%); **K2 = 0,588** (cella K2!D6 = 0,56 × 1,05, **non arrotondato a 0,59**; nota nel foglio: "maggiorato del 5% in quanto sede di Stazione di cura e turismo"); **K3 variabile** (scelto a mano); **K4 = 0,83**; **K5 = 0,68** (C.S. = 2); **C = 35,70 €/mc** (foglio "costo urbanizzazione": 22.500 £/mc ÷ 1.936,27 × 3,072 = 35,6975, poi **inserito come 35,70**); **V = volume vuoto per pieno** (inserito a mano; esempio nel foglio: lunghezza × larghezza × altezza).
+- **Differenza da segnalare**: la delibera (e la sez. 29.2) usa K2 = **0,59** e quindi U = K3 × **10,70** × V; il foglio usa K2 = **0,588** e quindi U = K3 × **10,66** × V (0,90 × 0,588 × 0,83 × 0,68 × 35,70 = 10,66). Differenza ≈ 0,3%: **da decidere quale valore usano i pareri** (domanda nel piano).
+- **K3 usato nell'esempio dell'ufficio: 0,19** = riga **ridotta del 5%** (0,20 ÷ 1,05), coerente con le righe di ristrutturazione o edilizia convenzionata (zone A-C, E; il foglio non dice quale tipologia). **Conferma** che per i comuni sotto 50.000 abitanti si usa la riga ridotta e che Ottaviano rientra nella classe 20.001-50.000.
+
+**B. Tabella K3 del foglio (zone omogenee e tipologie)** – confronto con la sez. 29.3. Il foglio ha **colonne A, B (intervento diretto), B (PUA), C, D, E, F**:
+
+| Tipologia | Riga | A | B dir. | **B PUA** | C | D | E | F |
+|---|---|---|---|---|---|---|---|---|
+| Residenziale If < 1,50 | base | 0,80 | 0,85 | **0,85** | 0,65 | 0,80 | 1,00 | 0,80 |
+| | ridotta | 0,76 | 0,81 | **0,81** | 0,62 | 0,76 | 0,95 | 0,76 |
+| Residenziale 1,50 < If < 3,00 | base | 0,83 | 0,91 | **0,90** | 0,83 | 0,83 | 1,00 | 0,83 |
+| | ridotta | 0,79 | 0,86 | **0,86** | 0,79 | 0,79 | 0,95 | 0,79 |
+| Residenziale If > 3,00 | base | 0,85 | 0,85 | **1,00** | 0,88 | 0,85 | 1,00 | 0,85 |
+| | ridotta | 0,81 | 0,81 | **0,95** | 0,84 | 0,81 | 0,95 | 0,81 |
+| Edilizia convenzionata o sovvenzionata | base | 0,20 | 0,20 | **0,20** | 0,20 | --- | 1,00 | --- |
+| | ridotta | 0,19 | 0,19 | **0,19** | 0,19 | --- | 0,95 | --- |
+| Terziaria direzionale e commerciale | base | 0,92 | 0,85 | **1,00** | 0,77 | 0,77 | 1,00 | 0,77 |
+| | ridotta | 0,87 | 0,81 | **0,95** | 0,73 | 0,73 | 0,95 | 0,73 |
+| Turistica residenziale | base | 1,00 | 1,00 | **0,85** | 1,00 | **1,00** | 1,00 | --- |
+| | ridotta | 0,95 | 0,95 | **0,81** | 0,95 | **0,95** | 0,95 | --- |
+| Attrezzature di tempo libero | base | 0,40 | 0,50 | **0,50** | 0,60 | 0,70 | 1,00 | 0,70 |
+| | ridotta | 0,38 | 0,48 | **0,48** | 0,57 | 0,67 | 0,95 | 0,67 |
+| Ristrutturazione con incremento di superficie | base | 0,20 | 0,20 | **0,20** | 0,20 | 0,20 | 0,20 | 0,91 |
+| | ridotta | 0,19 | 0,19 | **0,19** | 0,19 | 0,19 | 0,19 | 0,86 |
+| Ristrutturazione con variazione di destinazione d'uso | base | 0,20 | 0,20 | **0,20** | 0,20 | 0,20 | 0,20 | 0,83 |
+| | ridotta | 0,19 | 0,19 | **0,19** | 0,19 | 0,19 | 0,19 | 0,79 |
+| **Ristrutturazione urbanistica** (riga assente nella sez. 29.3) | base | 0,20 | 0,20 | **0,20** | 0,20 | 0,20 | 0,20 | --- |
+| | ridotta | 0,19 | 0,19 | **0,19** | 0,19 | 0,19 | 0,19 | --- |
+| Ristrutturazione non convenzionata (art. 9 lett. b L. 10/77) | base | 0,20 | 0,20 | **0,20** | 0,20 | 0,20 | 0,20 | 0,20 |
+| | ridotta | 0,19 | 0,19 | **0,19** | 0,19 | 0,19 | 0,19 | 0,19 |
+
+*Note*: nel foglio alcune celle ridotte sono arrotondate a mano (es. 0,87 per terziario zona A, 0,86 per B dir., F 0,86 e 0,79) e le altre sono formule (base ÷ 1,05). **Il foglio conferma i valori 0,91 e 0,83 della zona F per le ristrutturazioni** (ridotti 0,86 e 0,79), che la sez. 29.3 chiedeva di controllare. **Differenze rispetto alla sez. 29.3**: (1) colonna **B-PUA** mancava; (2) la turistica residenziale ha **D = 1,00** (0,95 ridotto), non "---"; (3) la riga **ristrutturazione urbanistica** mancava. Il foglio è una trascrizione dell'ufficio della tabella della delibera: per un parere ufficiale resta da confrontare con il PDF (sez. 29.3, nota b).
+
+**C. Costo di costruzione (foglio RESIDENZIALE)**
+- **Nuove costruzioni**: **U = C × Cp × Sc**, con **C = 307,54 €/mq**, **Cp (Cc) = 10%** ("aliquota del costo di costruzione, art. 16 c. 9 DPR 380/01") e **Sc = Su + Snr**, dove la **superficie non residenziale** è computata al **60%** (cella: Snr × 0,6).
+- **Interventi su edifici esistenti**: **U = Cl × Cc**, con **Cl = costo dei lavori edili da computo metrico "redatto ai sensi del tariffario regionale vigente"** e **Cc = 10%** (art. 16 c. 9 e 10 DPR 380/01).
+- **Contributo totale = A (oneri di urbanizzazione) + B (costo di costruzione)**; per un esistente il foglio somma gli oneri calcolati sul volume (A) e il 10% del computo (B).
+- **Non risultano nel foglio**: maggiorazioni per edifici di pregio, aliquote diverse dal 10%, riduzioni, esoneri. Per l'**ammissibilità** dell'aliquota unica del 10% la delibera non dà indicazioni (29.5): segnalarla come prassi d'ufficio, non come norma.
+
+**D. Foglio NON RESIDENZIALE (insediamenti industriali e artigianali; art. 16 DPR 380/01)**
+- **U = K1 × K2 × K3 × Cj × [(Up1 × S1) + (Up2 × S2) + (Up3 × S3)]** con K1 = 0,90, K2 = 0,588, **K3 = 0,20**, **Cj** da classe (I = 1; II = 0,86; III = 0,72) e **Up1-3** da tabella Ip per addetti (come sez. 29.4: nel foglio **da 16 a 50 addetti: Up1 = 1,50** (la sez. 29.4 riporta 1,59 convertito: **il foglio ha 1,50**, da controllare), Up2 = 6,35, Up3 = 19,04; classe II). Per le attività industriali e artigianali **non c'è calcolo del costo di costruzione** nel foglio.
+- Foglio **Cj**: elenco delle industrie insalubri di I e II classe per sostanze chimiche e attività (D.M. 05/09/1994, come dalla delibera): serve per attribuire la classe, non per il parere edilizio generale.
+
+**E. Cosa si può dedurre per i pareri e cosa no**
+- **Si può dedurre**: classe demografica di Ottaviano (20.001-50.000 ab.), K1, K2 (0,588), K4, K5 (C.S. 2), C, riga ridotta del K3, aliquota 10% e uso del computo metrico per l'esistente, Sc con Snr al 60%.
+- **Non si può dedurre**: la **zona omogenea** da assegnare a ciascuna pratica (K3 dipende da A-F e il foglio la sceglie a mano: serve il collegamento ambiti PUC ↔ zone A-F, sez. 28), la scelta tra intervento diretto e PUA per la zona B, la regola per condoni/sanatorie, le maggiorazioni.
+- Per l'agibilità, la CILA e la SCIA senza opere il foglio non ha parametri.
 
 ---
 
