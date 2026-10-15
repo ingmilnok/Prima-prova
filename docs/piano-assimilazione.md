@@ -15,7 +15,7 @@ Regola di costo: **una chat (sessione) per blocco**, **Sonnet** per lettura e si
 
 | # | Modello | Contenuto (ID file nella cartella Drive `norme`) | Sezioni sintesi | Stato |
 |---|---|---|---|---|
-| 1 | Sonnet | PSAI Allegato B (`1l1R2FriNXLpngVNTUjQhLOs3bb8kJQId`, `ALL_ B_COMP_GEOL_ 2015.pdf`) e Allegato D (`1beAMdeR5zTfvTLBohINQ3QhEl5iumEwK`, `ALL_D_TOTALE_2015.pdf`, 7,8 MB) | 27 | da fare |
+| 1 | Sonnet | PSAI Allegato B (`1l1R2FriNXLpngVNTUjQhLOs3bb8kJQId`, `ALL_ B_COMP_GEOL_ 2015.pdf`) e Allegato D (`1beAMdeR5zTfvTLBohINQ3QhEl5iumEwK`, `ALL_D_TOTALE_2015.pdf`, 7,8 MB) | 27 | **fatto** (15/10/2026, v1.8) |
 | 2 | Sonnet | Allegato 1 NTA, indici urbanistici (`1E_IMCn93RqpKdExSkUUd69ISVnjm1vTw`) e delibera n. 15 del 15/12/2025 su oneri e costo di costruzione (`1022gFmiMhprY0WC4Yy6swcdgwbkFOyWE`) | 28, 29 (+ sez. 3 e 7 se cambiano) | da fare |
 | 3 | Sonnet | Allegato 1 L. 326/2003 (`1FOGVegFuV6EttElXP4-xTSTuVmcd3Pz9`) e DPCM 12/12/2005 relazione paesaggistica (`1woRfD3L6Wv_3P1EIeq7ROcOXjdvk7BWf`) | 30 (+ aggiornare sez. 12 e 21), 31 (+ sez. 13) | da fare |
 | 4 | Sonnet | Allegato D.Lgs 222/2016 con la Tabella A (`1XP_dzuHaGwot1FihSSDpU2KE9gFf8L-p`, 19 MB, probabile scansione: OCR) e glossario unico DM 2/3/2018 (`1beL2Vu5QRVkTDxIZBl3Z5ZTykS5j_HB0`) | 32, 33 (+ sez. 15) | da fare |
@@ -25,4 +25,5 @@ Regola di costo: **una chat (sessione) per blocco**, **Sonnet** per lettura e si
 Dopo il blocco 6 restano i punti 3-6 di CLAUDE.md sez. 5 (scheda anonima, istruzioni del Project, modello PDF del parere, flusso Drive): non fanno parte dell'assimilazione.
 
 ## Domande per l'utente (le sessioni le aggiungono qui)
-- (nessuna per ora)
+- **Blocco 1 – Allegato B PSAI**: per i progetti in area a rischio frana (R1-R4) con nuova edificazione, ampliamento con aumento di carico o interrati, il parere deve **prescrivere** la relazione di compatibilità geologica con relazione geotecnica (l'Allegato B §1 permette al Comune di richiederla) oppure limitarsi a elencarla tra i dati mancanti? Proposta: elencarla tra i dati mancanti e segnalare la facoltà del Comune.
+- **Blocco 1 – Allegato D PSAI**: confermi che l'Allegato D (metodologie di studio per riperimetrazioni) non serve ai pareri e va richiamato solo se il progetto allega uno studio di riperimetrazione? Nella sintesi D1, D3, D4 e D5 sono riassunti in modo sommario.

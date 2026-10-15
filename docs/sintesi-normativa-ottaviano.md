@@ -1,7 +1,7 @@
 # Sintesi normativa operativa – Comune di Ottaviano
 **Uso**: base di lavoro per l'istruttoria di fattibilità urbanistica (parere positivo/negativo + alternative).
 **Redatta il** 13/10/2026 dai soli testi forniti: NTA del PUC (Decreto n. 484 del 03/11/2015, BURC n. 67 del 16/11/2015), RUEC (giugno 2015, con modifiche della Delibera C.C. n. 49 del 21/05/2015), Norme di Attuazione del PSAI Autorità di Bacino Campania Centrale (Delibera C.I. n. 1 del **23/02/2015**) con **Allegati A, C, E** (sezione 5 bis), **art. 39 L. 724/1994** e **art. 32 L. 326/2003** (sezione 12, condoni; L. 47/1985 inclusa).
-**Versione 1.7** – integrata il 15/10/2026 con LR 9/1983 (sez. 24), LR 19/2001 (sez. 25) e LR 31/2021 art. 27-28 (sez. 26), decisioni dell'utente su sottotetti, territorio rurale e LR 10/2004 (sez. 8); v1.6: leggi regionali LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
+**Versione 1.8** – integrata il 15/10/2026 con PSAI Allegati B e D (sez. 27); v1.7: integrata con LR 9/1983 (sez. 24), LR 19/2001 (sez. 25) e LR 31/2021 art. 27-28 (sez. 26), decisioni dell'utente su sottotetti, territorio rurale e LR 10/2004 (sez. 8); v1.6: leggi regionali LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
 
 > **Regole d'uso**
 > 1. Cita solo gli articoli riportati qui o nei testi originali. Se un riferimento non c'è, dillo.
@@ -118,7 +118,7 @@ I vincoli di fascia valgono anche se non disegnati (NTA art. 34 c. 2).
 - Trasformazioni conformi anche al Piano Stralcio Tutela Suolo e Risorse Idriche (art. 39 c. 4).
 - Cartografie di riferimento: quelle pubblicate sul sito dell'Autorità di Bacino (art. 42 c. 6).
 
-> **Lacune**: degli allegati PSAI mancano ancora il **B** (compatibilità geologica) e il **D** (metodologie di approfondimento). Gli Allegati A, C ed E sono nella sezione 5 bis.
+> **Lacune**: nessuna per gli allegati PSAI. Gli Allegati A, C ed E sono nella sezione 5 bis; **B e D nella sezione 27** (lettura del 15/10/2026).
 
 ## 5 bis. PSAI – Allegati A, C, E
 
@@ -269,10 +269,12 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 11. **Termini di legge scaduti – solo informativo**: LR 19/2009 (istanze entro il 30/09/2022, art. 12 c. 1, fissato dalla LR 31/2021 art. 28 c. 6) e LR 13/2022 art. 4 (entro il 30/06/2023) sono scaduti. Per Ottaviano non cambia nulla: la zona rossa le esclude comunque (LR 19/2009 art. 3 c. 1 lett. g; LR 13/2022 art. 4 c. 6 lett. h; LR 16/2004 art. 33 quater c. 21 lett. g). **Rilevante in pratica solo il termine del 31/12/2026** per le domande di condono L. 47/85 e L. 724/94 ancora pendenti (LR 10/2004 art. 9 c. 1).
 12. **Regimi semplificati della LR 13/2022 (art. 2 c. 2, 3 e 5) e norme comunali – proposta, da confermare**: la LR 13/2022 rende libere o in CILA/SCIA opere come recinzioni, muri di cinta, piscine fino a 24 mq, movimenti di terra, tramezzi; NTA e RUEC possono prevedere regole più restrittive. Proposta coerente con la decisione sui sottotetti: **prevale la legge regionale per il tipo di titolo**, salvo dove la legge stessa fa salve le norme comunali più restrittive (art. 2 c. 8) e **sempre fatta salva l'autorizzazione paesaggistica** (tutto il territorio è vincolato). Il confronto puntuale con NTA e RUEC non è ancora stato fatto.
 
+13. **Competenza della verifica PSAI sui titoli edilizi (Allegato B §1 e Allegato A1 §1)**: la verifica di ammissibilità degli interventi sull'esistente o di nuova edificazione espressamente consentiti nelle aree a pericolosità/rischio è **a cura dell'ente che rilascia il titolo (il Comune)**, mentre lo studio di compatibilità su cui si pronuncia l'Autorità di Bacino riguarda gli atti dell'art. 7 NdA (sez. 5), che non cita i titoli edilizi privati. Nessun conflitto tra le fonti; resta da decidere con l'utente se il parere debba prescrivere la relazione di compatibilità geologica per i progetti in R3/R4 frana (vedi sez. 27.1 e domande nel piano).
+
 ## 9. Testi mancanti, necessari per coprire tutti i procedimenti
 
 - Allegato 1 alle NTA (indici e categorie di intervento): ricevuto il 15/10/2026, **da leggere**
-- Allegati **B** e **D** del PSAI: ricevuti il 15/10/2026, **da leggere** (A, C, E già in sezione 5 bis)
+- Allegati **B** e **D** del PSAI: **letti il 15/10/2026, sezione 27** (A, C, E in sezione 5 bis). Dell'Allegato D le sezioni D1, D3, D4 (D5 in parte) sono state lette solo nell'impostazione generale, perché metodologie di calcolo per studi specialistici, non rilevanti per l'istruttoria edilizia
 - Piano del Parco Nazionale del Vesuvio e PTP dei Comuni Vesuviani: **esclusi dall'utente** (non servono)
 - **Condono edilizio**: ricevuti L. 47/1985 (aggiornata al 26/05/2016), art. 39 L. 724/1994, art. 32 L. 326/2003 (commi 25-50) e **LR 10/2004** (sez. 21). **Allegato 1 L. 326/2003** ricevuto il 15/10/2026, **da leggere**. Esclusa dall'utente: tabella oblazione L. 47/85. **Decisione del 15/10/2026: la LR 10/2004 va applicata** (sez. 21)
 - **DPR 380/2001** (sez. 14): non ancora riletti nel dettaglio artt. 16-19 (contributo di costruzione), 23-quater, 93 (preavviso sismico)
@@ -344,6 +346,12 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 - Condono L. 47/85 e L. 724/94 pendente: dichiarazione sostitutiva ex art. 9 c. 2 LR 10/2004 presentata (sì/no); adeguamento sismico eseguito (sì/no)
 - Autorizzazione sismica rilasciata prima dell'inizio dei lavori (zona sismica 2) (sì/no)
 - Se il funzionario decide di applicare il RR 3/2025: territorio urbanizzato/rurale/città storica; per il rurale, qualifica dell'imprenditore agricolo e piano aziendale
+
+**J. Campi aggiuntivi dall'Allegato B PSAI (sez. 27; solo se il rischio frana è R1-R4 e l'intervento è nuovo o con aumento di carico)**
+- Tipologia dell'intervento ai fini dello studio: sull'esistente / nuova edificazione puntuale o areale / infrastruttura a rete / opera in sotterraneo (interrati)
+- Presenza di relazione/studio di compatibilità geologica allegata (sì/no) e firmata da tecnico abilitato e geologo (sì/no)
+- Interrati, seminterrati o locali sotterranei in area a pericolosità/rischio frana (sì/no): interferenza con falde, cavità, superfici di scorrimento, reticolo idrografico (sì/no/non verificata)
+- Area "declassata" per interventi di mitigazione (sì/no) e collaudo disponibile (sì/no)
 
 ## 11. Formato del parere (richiesto)
 
@@ -981,3 +989,38 @@ Edifici: a) abusivi o difformi senza sanatoria; b) in **zona A** o assimilata (s
 - c. 6: termine delle istanze della **LR 19/2009** art. 12 c. 1 portato a **30/09/2022**.
 - c. 7: termine dell'art. 9 c. 1 **LR 10/2004** portato a **31/12/2022**; successive modifiche fino al **31/12/2026** (note della LR 10/2004, sez. 21).
 - Art. 26 c. 2: **non sono varianti** agli strumenti urbanistici comunali, tra l'altro, le modifiche di destinazione d'uso di immobili pubblici (anche con alienazione) in caso di ristrutturazione; sempre fatto salvo l'art. 145 c. 4-5 D.Lgs 42/2004.
+
+## 27. PSAI – Allegati B e D (letti il 15/10/2026 da Drive; testo con strato di testo selezionabile, nessun OCR)
+
+> Fonte: Autorità di Bacino Regionale della Campania Centrale, Delibera C.I. n. 1 del 23/02/2015. Per Ottaviano **si valuta il rischio, non la pericolosità** (CLAUDE.md sez. 4): gli elementi sulla pericolosità sono riportati solo per completezza.
+
+### 27.1 Allegato B – Criteri per lo studio di compatibilità nelle aree a rischio da frana (art. 36 NdA)
+- **Ambito (§1)**: le "verifiche di compatibilità" sono commisurate a tipologia, dimensioni e area dell'intervento. Due livelli:
+  1. **verifica di ammissibilità** per interventi sul patrimonio edilizio esistente e/o di nuova edificazione **espressamente consentiti dalle NdA** nelle aree di pericolosità e rischio, con gli accorgimenti tecnico-costruttivi degli Allegati A, B ed E: è **a cura degli enti preposti al rilascio dei titoli abilitativi** (qui il Comune). Questi, ove non già previsto dalle norme sulle costruzioni o dai regolamenti edilizi comunali, **possono richiedere approfondimenti e studi specialistici**;
+  2. **studio di compatibilità geologica e/o idraulica**, obbligatorio per le opere elencate all'**art. 7 NdA**, su cui si esprime l'Autorità di Bacino; **esclusi** manutenzione ordinaria e straordinaria e opere di urbanizzazione primaria e secondaria e infrastrutture a rete o puntuali, pubbliche o di interesse pubblico, **che non comportino incremento di carico insediativo** (definizione art. 2 NdA).
+- **Finalità (§2)**: dimostrare, con analisi almeno qualitativa dei parametri del DPCM 29/09/1998, che l'intervento **non comporta un rischio atteso superiore alla soglia di rischio accettabile** (art. 2 NdA; Allegato C: non oltre R2 e costi minori dei benefici), né incrementa la pericolosità, nell'area e nelle aree contermini. Lo studio è **firmato dal tecnico progettista e dai professionisti specialisti** iscritti ad albo (ingegneri, geologi, architetti, ecc.) per le rispettive competenze, valuta la stabilità dell'**intero ambito morfologico significativo** (art. 2) e considera finalità del progetto, rapporto costi-benefici ed effetti ambientali.
+- **Elaborati (§3)**:
+  - **interventi sull'esistente**: cartografia topografica; cartografia tematica (fenomeni franosi, danni esistenti e pregressi); indagini specifiche *se necessarie*; verifiche di stabilità del pendio *se necessarie*; relazione di compatibilità;
+  - **nuova edificazione puntuale o areale**: cartografia topografica; tematica (geolitologia, coperture, geomorfologia, idrologia, idrogeologia, fenomeni franosi); indagini dirette del sottosuolo, sezioni stratigrafiche e verifiche di stabilità *se necessarie*; **relazione geotecnica**; relazione di compatibilità;
+  - **infrastrutture lineari e a rete**: elaborati analoghi; per reti di servizi essenziali in aree P4/P3 o R4/R3 la relazione deve verificare le condizioni dell'**art. 21 lett. b** NdA (impossibilità di delocalizzare, opere di mitigazione contestuali, nuove reti solo per insediamenti esistenti);
+  - **regimazione delle acque di ruscellamento** e **bonifica di movimenti franosi**: elaborati specifici (per le bonifiche anche piano di manutenzione e monitoraggio e carta della pericolosità residua).
+- **Opere in sotterraneo (§3; art. 2 c. 1 lett. n NdA)** nelle aree classificate a pericolosità/rischio frana — rilevante per **interrati e seminterrati**: assenza di interferenza con superfici di scorrimento, reticolo idrografico e cavità; verifica dell'interferenza con falde (modifica del deflusso sotterraneo); verifica dell'interferenza tra **imbocchi e altre luci dei locali interrati** e le situazioni di pericolosità/rischio dei versanti; elaborati con metodi di scavo, caratterizzazione geotecnica, vulnerabilità dell'opera compresi ingressi e aperture di ventilazione, indagini su falde e cavità, fattibilità in sicurezza in fase di realizzazione e di uso, eventuale monitoraggio di opera e manufatti vicini.
+- **Opere di grande impegno territoriale areale o lineare** (nota 1: complessi sportivi, residenziali turistici, commerciali, produttivi, campeggi, impianti, cave, discariche, infrastrutture ecc.): è opportuno sottoporre i progetti all'Autorità fin dalla fase di fattibilità/progettazione preliminare.
+- **Metodologie per tipologia di dissesto (§4)**: frane in roccia (classificazione dell'ammasso, traiettorie di caduta); scorrimenti-colate in depositi piroclastici (verifica del *runout* con metodo almeno semiquantitativo del *reach angle*, con valori **non superiori a 18°** per frane incanalate e **28°** per versanti regolari); flussi iperconcentrati (rinvio all'Allegato D).
+- **Pericolosità e rischio residui dopo interventi di mitigazione (§5)**: il rischio residuo non è mai zero. Alle **aree declassate** (riclassificate a minor rischio dopo opere di mitigazione) si assegna di norma **rischio non superiore a R2**, salvo diversa dimostrazione negli elaborati e nei collaudi. La **trasformazione a fini antropici** delle aree declassate è subordinata alla verifica di funzionalità ed efficienza dell'intervento di mitigazione (art. 26 c. 3 NdA, riportato nell'Allegato). Il gestore delle opere assume la responsabilità di manutenzione e monitoraggio (verifica annuale di fine stagione piovosa e dopo eventi sopra soglia). Gli artt. 2, 16 c. 9, 18 c. 3 e 26 c. 3 NdA sono riprodotti nell'Allegato: **non** costituiscono testo nuovo rispetto alle NdA già sintetizzate in sez. 5.
+
+> **Per il parere (istruttoria edilizia)**
+> - In area a rischio frana R1-R4, per interventi **ammessi** dalle NdA (sez. 5) la verifica di ammissibilità spetta al Comune: nel parere indicare la classe di rischio, la categoria di intervento ammessa e gli accorgimenti dell'Allegato B. L'Allegato B **non fissa soglie numeriche edilizie** (quote, distanze, dimensioni).
+> - Per **nuova edificazione, ampliamenti con aumento di carico, interrati/seminterrati**, tra i dati mancanti elencare la **relazione di compatibilità geologica (con relazione geotecnica)** se non allegata, ricordando che l'Allegato B la prevede come contenuto della verifica ma che l'obbligo per l'Autorità di Bacino vale per gli atti dell'art. 7 NdA. Se il Comune la richiede, la richiesta ha base nell'Allegato B §1 ("possono richiedere approfondimenti e/o studi").
+> - Per interrati in area a rischio frana verificare gli elementi della scheda J (sez. 10).
+> - Le opere di mitigazione e la riclassificazione di aree riguardano progetti di enti pubblici o proponenti di riperimetrazione, non il singolo titolo edilizio: citare solo se l'area è dichiarata "declassata".
+
+### 27.2 Allegato D – Metodologie per gli approfondimenti delle aree a rischio (D1-D5)
+L'Allegato è una raccolta di **linee guida metodologiche** per gli studi specialistici necessari a **modificare o aggiornare le perimetrazioni** del PSAI (riperimetrazione) o a redigere gli studi di compatibilità. **Non contiene norme su titoli edilizi, interventi ammessi, quote o distanze.** Contenuto (letto nell'impostazione generale e nelle parti che indicano quando e per chi si applicano; i dettagli di calcolo non sono stati sintetizzati perché non servono all'istruttoria):
+- **D1** – studi idraulici monodimensionali: modello HEC-RAS (moto permanente; indicati equazioni, procedura di calcolo, sezioni, ponti, condizioni al contorno, scabrezze) e codice UNET (moto vario, aree inondabili quasi-bidimensionali).
+- **D2** – studi idraulici bidimensionali: le modifiche alle perimetrazioni devono derivare da studi di **maggior dettaglio** rispetto al PSAI; l'impiego di modelli diversi non giustifica da solo la modifica; sono richiesti piano quotato, rilievo delle opere d'arte, carte di vulnerabilità, pericolosità e rischio attuali e post-riperimetrazione, shapefile (§8).
+- **D3** – pericolosità geologica e idraulica in aree di conoide: **casi-studio** (Arpaia; ex AdB Sarno) per flussi iperconcentrati e colate detritiche; le metodologie sono "procedura di supporto allo studio e non unica metodologia" (§1).
+- **D4** – studio di versanti in roccia (tipologie di frana in roccia, interventi attivi e passivi, monitoraggio caduta massi).
+- **D5** – scorrimenti in terreni argillosi (indagini: almeno tre sondaggi a carotaggio continuo per aree piccole, piezometri e inclinometri con monitoraggio annuale) e pericolosità non riconducibile a dissesti di tipologia definita.
+
+> **Per il parere**: l'Allegato D **non entra** nella verifica di fattibilità edilizia di PdC, SCIA, CILA, condoni e agibilità. Si richiama solo se il progetto allega uno studio di riperimetrazione o se il tecnico dello studio di compatibilità lo cita. La pericolosità e le riperimetrazioni sono comunque fuori dal perimetro dei pareri (CLAUDE.md sez. 4).
