@@ -1,7 +1,7 @@
 # Sintesi normativa operativa – Comune di Ottaviano
 **Uso**: base di lavoro per l'istruttoria di fattibilità urbanistica (parere positivo/negativo + alternative).
 **Redatta il** 13/10/2026 dai soli testi forniti: NTA del PUC (Decreto n. 484 del 03/11/2015, BURC n. 67 del 16/11/2015), RUEC (giugno 2015, con modifiche della Delibera C.C. n. 49 del 21/05/2015), Norme di Attuazione del PSAI Autorità di Bacino Campania Centrale (Delibera C.I. n. 1 del **23/02/2015**) con **Allegati A, C, E** (sezione 5 bis), **art. 39 L. 724/1994** e **art. 32 L. 326/2003** (sezione 12, condoni; L. 47/1985 inclusa).
-**Versione 1.9** – integrata il 15/10/2026 con Allegato 1 alle NTA (sez. 28) e delibera sul contributo di costruzione (sez. 29); v1.8: PSAI Allegati B e D (sez. 27); v1.7: integrata con LR 9/1983 (sez. 24), LR 19/2001 (sez. 25) e LR 31/2021 art. 27-28 (sez. 26), decisioni dell'utente su sottotetti, territorio rurale e LR 10/2004 (sez. 8); v1.6: leggi regionali LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
+**Versione 2.0** – integrata il 15/10/2026 con Allegato 1 L. 326/2003 (sez. 30) e DPCM 12/12/2005 sulla relazione paesaggistica (sez. 31); v1.9: Allegato 1 alle NTA (sez. 28) e delibera sul contributo di costruzione (sez. 29); v1.8: PSAI Allegati B e D (sez. 27); v1.7: integrata con LR 9/1983 (sez. 24), LR 19/2001 (sez. 25) e LR 31/2021 art. 27-28 (sez. 26), decisioni dell'utente su sottotetti, territorio rurale e LR 10/2004 (sez. 8); v1.6: leggi regionali LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22) e RR 5/2011, abrogato (sez. 23); v1.5 – integrata il 14/10/2026 con D.Lgs 42/2004 aggiornato (sezione 13 riscritta nei punti indicati), D.Lgs 222/2016 (sez. 15), LR Campania 16/2004 con LR 5/2024 (sez. 16) e LR 21/2003 (sez. 17); v1.4: DPR 380/2001 (ed. 28/07/2026, sezione 14); v1.3: DPR 31/2017 (ed. 2.0, aggiornato al 27/05/2026) e D.Lgs 42/2004 (testo non aggiornato, vedi sezione 13); in precedenza allegati PSAI A, C, E e testi sui condoni.
 
 > **Regole d'uso**
 > 1. Cita solo gli articoli riportati qui o nei testi originali. Se un riferimento non c'è, dillo.
@@ -277,15 +277,17 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 
 14. **Allegato 1 NTA contro RUEC (15/10/2026, sez. 28.4)**: differenze **non risolte**: (a) ristrutturazione con demolizione-ricostruzione a parità di volume e sagoma: PdC (Allegato art. 12) contro SCIA (RUEC art. 25); (b) impermeabilizzazione: 40% delle superfici non edificate (Allegato art. 17) contro 60% del lotto (RUEC art. 56 c. 10); (c) altezza del sottotetto e del seminterrato per il numero di piani abitabili (Allegato art. 2) contro RUEC art. 59, 61, 62; (d) limite di 3,00 m per gli 8 m tra pareti non finestrate (Allegato art. 5) assente in sez. 6; (e) cambio d'uso senza opere: domanda documentata (Allegato art. 23) contro SCIA (RUEC art. 34). Regola dell'utente: prevalgono le NTA; per (a) e (e) i titoli dell'Allegato sono anteriori al D.Lgs 222/2016 (RUEC art. 2 c. 4: norme statali sopravvenute recepite), quindi la scelta resta al funzionario.
 15. **Delibera sul contributo di costruzione (15/10/2026, sez. 29.7)**: (a) numero della delibera: 17 nel testo (proposta 78) contro 15 nel nome del file e in CLAUDE.md; (b) la delibera non lega le zone A-F agli ambiti del PUC; (c) per gli ampliamenti il RUEC art. 26 c. 7 applica il regime della nuova costruzione, la delibera ha un K3 distinto per la ristrutturazione con incremento di superficie; (d) due definizioni di volume (V.C. dell'Allegato 1 contro V "vuoto per pieno" della delibera): scopi diversi; (e) per condoni e sanatorie con riferimento ad anni precedenti serve la tabella vigente alla data di riferimento, che la delibera non contiene.
+16. **Allegato 1 L. 326/2003 contro LR 10/2004 e L. 47/85 (15/10/2026, sez. 30.4)**: (a) perizia giurata e idoneità statica solo oltre 450 mc (Allegato 1; L. 47/85 art. 35) contro sempre (LR 10/2004 art. 5); (b) data di conformità della tipologia 2 non indicata ("data di entrata in vigore del presente provvedimento"); (c) anticipazione del 30% degli oneri e saldo "secondo l'amministrazione" contro aumento del 100% (LR 10/2004 art. 6 c. 3); (d) tipologie 4-6 sanabili nei soli immobili vincolati o se lo dice la legge regionale (sez. 12.2) contro vincolo paesaggistico su tutto il territorio e LR 10/2004 senza ammissioni nel testo ricevuto: non risolto.
+17. **DPCM 12/12/2005 (15/10/2026, sez. 31.7)**: (a) vigenza legata all'accordo dell'art. 4 (non documentato nei testi ricevuti); (b) scheda semplificata del DPCM (2005) contro relazione semplificata dell'Allegato D del DPR 31/2017 (sez. 13.6): quale modello vale per le opere dell'Allegato B DPR 31/2017 non è deciso; (c) la scheda semplificata presuppone un elenco di opere recepito nel regolamento edilizio (nota 2): non verificato nel RUEC; (d) possibile refuso "20 Mwe" nella nota 1 della scheda.
 
 ## 9. Testi mancanti, necessari per coprire tutti i procedimenti
 
 - Allegato 1 alle NTA (indici e categorie di intervento): **letto il 15/10/2026, sezione 28**. Non contiene i valori numerici degli indici per ambito (stanno negli articoli d'ambito delle NTA, sez. 3)
 - Allegati **B** e **D** del PSAI: **letti il 15/10/2026, sezione 27** (A, C, E in sezione 5 bis). Dell'Allegato D le sezioni D1, D3, D4 (D5 in parte) sono state lette solo nell'impostazione generale, perché metodologie di calcolo per studi specialistici, non rilevanti per l'istruttoria edilizia
 - Piano del Parco Nazionale del Vesuvio e PTP dei Comuni Vesuviani: **esclusi dall'utente** (non servono)
-- **Condono edilizio**: ricevuti L. 47/1985 (aggiornata al 26/05/2016), art. 39 L. 724/1994, art. 32 L. 326/2003 (commi 25-50) e **LR 10/2004** (sez. 21). **Allegato 1 L. 326/2003** ricevuto il 15/10/2026, **da leggere**. Esclusa dall'utente: tabella oblazione L. 47/85. **Decisione del 15/10/2026: la LR 10/2004 va applicata** (sez. 21)
+- **Condono edilizio**: ricevuti L. 47/1985 (aggiornata al 26/05/2016), art. 39 L. 724/1994, art. 32 L. 326/2003 (commi 25-50) e **LR 10/2004** (sez. 21). **Allegato 1 L. 326/2003**: **letto il 15/10/2026 con OCR, sezione 30** (mancano nel file il modello di domanda e le tabelle 1, 3, 4, C, D). Esclusa dall'utente: tabella oblazione L. 47/85. **Decisione del 15/10/2026: la LR 10/2004 va applicata** (sez. 21)
 - **DPR 380/2001** (sez. 14): non ancora riletti nel dettaglio artt. 16-19 (contributo di costruzione), 23-quater, 93 (preavviso sismico)
-- **D.Lgs. 42/2004**: sezione 13.2 (OCR). **D.Lgs. 222/2016** (sez. 15): la **Tabella A** dovrebbe essere nell'allegato ricevuto il 15/10/2026 (nel Drive: `allegato l.222.2016.pdf`, 19 MB), **da leggere**; glossario unico DM 02/03/2018: ricevuto, **da leggere**; **DPCM 12/12/2005** (relazione paesaggistica): ricevuto; il file nel Drive era intitolato per errore "12 maggio 2005" ed è stato rinominato `DPCM 12 dicembre 2005.pdf` (il testo riporta "12 dicembre 2005, G.U. 31 gennaio 2006, n. 25"); **da leggere**
+- **D.Lgs. 42/2004**: sezione 13.2 (OCR). **D.Lgs. 222/2016** (sez. 15): la **Tabella A** dovrebbe essere nell'allegato ricevuto il 15/10/2026 (nel Drive: `allegato l.222.2016.pdf`, 19 MB), **da leggere**; glossario unico DM 02/03/2018: ricevuto, **da leggere**; **DPCM 12/12/2005** (relazione paesaggistica): **letto il 15/10/2026, sezione 31** (`DPCM 12 dicembre 2005.pdf`, G.U. 31 gennaio 2006, n. 25). Restano mancanti gli eventuali atti regionali (art. 3 del DPCM) e l'accordo di cui all'art. 4
 - **LR 16/2004 (con LR 5/2024), LR 21/2003**: sezioni 16 e 17. **Leggi regionali ricevute e lette il 15/10/2026**: LR 13/2022 (sez. 18), LR 15/2000 (sez. 19), LR 19/2009 (sez. 20), LR 10/2004 (sez. 21), RR 3/2025 (sez. 22; **Allegati A, B, C non letti**), RR 5/2011 (sez. 23, abrogato)
 - **Ricevute e lette il 15/10/2026 (seconda tornata)**: **LR 9/1983** (sez. 24), **LR 19/2001** (sez. 25), **LR 31/2021** (art. 27-28, sez. 26). **Regolamento regionale in materia edilizia** previsto dall'art. 1 RR 5/2011: per l'utente è stato abrogato dal RR 3/2025, **non serve**. **Ancora mancante**: regolamento di attuazione della LR 9/1983 (art. 4 c. 4), richiamato dal testo ma non ricevuto
 - Mancano inoltre le norme tecniche sismiche regionali. Il **Piano Paesaggistico Regionale** è escluso dall'utente
@@ -368,6 +370,13 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 - Intervento "tetto": incremento di altezza al muro perimetrale e al colmo, pendenza, larghezza del corpo di fabbrica, destinazione del volume
 - Per il contributo di costruzione: **data di rilascio del PdC o di presentazione del titolo** (la delibera vale dopo il 15/12/2025), zona omogenea A-F di riferimento, tipologia (residenziale, terziaria, turistica, produttiva, ristrutturazione con incremento o cambio d'uso), V vuoto per pieno, numero di addetti e superfici S1-S3 per gli impianti produttivi, convenzionata sì/no
 
+**L. Campi aggiuntivi da Allegato 1 L. 326/2003 e DPCM 12/12/2005 (sez. 30-31; solo se pertinenti)**
+- Condono L. 326/2003: volume dell'opera abusiva (mc, per la soglia di 450 mc); zona omogenea A (sì/no, per la tipologia 4); riferimento alla lett. dell'art. 3 c. 1 DPR 380/2001 per le tipologie 3-6
+- Domanda presentata sul modello entro il 31/03/2004 (sì/no); versamento del 30% dell'oblazione e del 30% dell'anticipazione oneri (importi minimi 1.700 € e 500 €) (sì/no); rate del 30/06 e 30/09/2004 (sì/no); oneri definitivi versati entro il 31/12/2006 o in altra data (sì/no, data)
+- Dichiarazione ex art. 4 L. 15/1968 con documentazione fotografica (sì/no); integrazione del 30/09/2004: denuncia catastale, ICI e, ove dovute, tassa rifiuti e occupazione suolo (sì/no)
+- Relazione paesaggistica: procedimento (autorizzazione ordinaria art. 146 / semplificata DPR 31/2017 / scheda semplificata DPCM) e voce dell'elenco; relazione allegata (sì/no); contenuti presenti: analisi dello stato attuale, livelli di tutela e beni culturali, foto da 2 a 4 dal contesto e dai punti panoramici, elaborati di progetto con prospetti e colori, simulazione (rendering o fotoinserimento), effetti, mitigazioni e compensazioni (sì/no per ciascuno)
+- Estremi del provvedimento di vincolo (artt. 136, 141, 157) e/o lettere dell'art. 142 interessate (f, g, l, m, c); intervento su edificio esistente: rilievo dello stato di fatto e documentazione storica (sì/no)
+
 ## 11. Formato del parere (richiesto)
 
 1. Esito: **positivo / positivo con prescrizioni / negativo**
@@ -383,7 +392,7 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 
 ## 12. Condoni edilizi – art. 39 L. 724/1994 e art. 32 L. 326/2003
 
-> **Cautela**: sintesi dei testi ricevuti (L. 47/1985 aggiornata al 26/05/2016, art. 39 L. 724/1994, art. 32 L. 326/2003). L'Allegato 1 della L. 326/2003 (ricevuto, da leggere) e le tabelle di oblazione della L. 47/85 (escluse) **non sono ancora nella sintesi**; la legge regionale è la **LR 10/2004, ora in sezione 21**, da applicare insieme a questa sezione. Per le domande già presentate valgono le regole di ciascun condono (comma 43-bis: le modifiche del 2003 non si applicano alle domande presentate ai sensi della L. 47/85 e della L. 724/94).
+> **Cautela**: sintesi dei testi ricevuti (L. 47/1985 aggiornata al 26/05/2016, art. 39 L. 724/1994, art. 32 L. 326/2003). L'**Allegato 1 della L. 326/2003 è nella sezione 30** (tipologie 1-6 e procedura; letto con OCR il 15/10/2026); le tabelle di oblazione della L. 47/85 (escluse) e le tabelle 1, 3, 4, C, D dell'Allegato 1 (non presenti nel file) **non sono nella sintesi**; la legge regionale è la **LR 10/2004, ora in sezione 21**, da applicare insieme a questa sezione. Per le domande già presentate valgono le regole di ciascun condono (comma 43-bis: le modifiche del 2003 non si applicano alle domande presentate ai sensi della L. 47/85 e della L. 724/94).
 
 ### 12.1 Ambito temporale e dimensionale
 
@@ -395,9 +404,9 @@ Si applica alle lavorazioni agro-forestali, richiamato dall'allegato come art. 2
 
 ### 12.2 Tipologie sanabili (L. 326/2003)
 
-- **Tipologie 1-3** dell'Allegato 1 (non fornito): sanabili su tutto il territorio nazionale (c. 26 lett. a).
+- **Tipologie 1-3** dell'Allegato 1 (testo in **sezione 30.1**): sanabili su tutto il territorio nazionale (c. 26 lett. a).
 - **Tipologie 4, 5, 6**: sanabili negli immobili soggetti a vincolo ex art. 32 L. 47/85 (c. 26 lett. a); nelle aree non vincolate solo se la **legge regionale** lo prevede (c. 26 lett. b).
-- Verificare quindi il contenuto dell'Allegato 1 e la **LR 10/2004** (sezione 21: art. 3 c. 2 lett. b e d, art. 5, art. 6 c. 3, art. 7, art. 9) prima di esprimere un parere.
+- Contenuto dell'Allegato 1 in **sezione 30** (tipologie e procedura; il rapporto tra tipologie 4-6 e vincolo paesaggistico di tutto il territorio è **segnalato, non deciso**: sez. 30.2); verificare inoltre la **LR 10/2004** (sezione 21: art. 3 c. 2 lett. b e d, art. 5, art. 6 c. 3, art. 7, art. 9) prima di esprimere un parere.
 
 ### 12.3 Opere in ogni caso non sanabili (L. 326/2003 c. 27)
 
@@ -431,7 +440,7 @@ Per **Ottaviano** pesano soprattutto le lettere d) (paesaggio su tutto il territ
 | Documenti | Dichiarazione del richiedente (sostitutiva), documentazione fotografica, ove prescritto perizia giurata e certificazione, progetto di adeguamento statico (c. 4) | Dichiarazione ex art. 47 DPR 445/2000 con foto e stato dei lavori; **se > 450 mc**, perizia giurata e certificazione di idoneità statica da tecnico abilitato; eventuali documenti regionali (c. 35) |
 | Integrazioni | Mancata presentazione entro **3 mesi** dalla richiesta notificata: improcedibilità e diniego (c. 4) | Non indicato nel testo ricevuto |
 | Silenzio-assenso | Pagamento oblazione, oneri, documenti e denuncia in catasto + decorso di **1 anno** (2 per comuni > 500.000 ab.) senza provvedimento negativo (c. 4) | Pagamento oneri, documentazione, denunce (catasto, ICI, rifiuti, suolo pubblico) entro **30/09/2004** + decorso di **24 mesi** senza provvedimento negativo (c. 37) |
-| Oblazione | Tabelle allegate alla L. 47/85 e L. 724/94; rate c. 5 | Allegato 1 (non fornito); le riduzioni dei c. 13-16 art. 39 L. 724 non si applicano (c. 39) |
+| Oblazione | Tabelle allegate alla L. 47/85 e L. 724/94; rate c. 5 | Allegato 1 (sez. 30.3: 30% alla domanda con minimo 1.700 €, rate 30/06 e 30/09/2004; **tabelle 1 e C non fornite**); le riduzioni dei c. 13-16 art. 39 L. 724 non si applicano (c. 39) |
 | Oneri | Anticipazione ex tabella C (c. 9) | Incremento regionale fino al 100% (c. 34); oblazione incrementabile fino al 10% (c. 33) |
 | Antisismica | Norme L. 64/1974 e miglioramento (c. 17) | Condizione di sanabilità (c. 27 lett. b) |
 | Effetti pagamento | Oblazione non interamente versata o dolosamente inesatta: sanzioni artt. 40 e 45 L. 47/85 (c. 4) | Stesso, sanzioni art. 40 L. 47/85 e art. 48 DPR 380/2001 (c. 37) |
@@ -451,7 +460,7 @@ Il rilascio del titolo non comporta limitazioni ai diritti dei terzi (L. 724 c. 
 1. Individuare la legge applicabile in base a data di ultimazione e data della domanda.
 2. Verificare tempestività della domanda, pagamento, documenti, firma della dichiarazione.
 3. Verificare i limiti volumetrici (30% / 750 mc / 3.000 mc residenziali).
-4. Qualificare la tipologia di illecito e controllare l'ammissibilità (Allegato 1 L. 326/2003 e **LR 10/2004**, sezione 21: ultimazione al rustico entro il 31/03/2003; residenziale in zona rossa non sanabile).
+4. Qualificare la tipologia di illecito e controllare l'ammissibilità (Allegato 1 L. 326/2003, **sezione 30**, e **LR 10/2004**, sezione 21: ultimazione al rustico entro il 31/03/2003; residenziale in zona rossa non sanabile).
 5. Verificare le cause di non sanabilità (c. 27 a-g), prestando attenzione alle date dei vincoli.
 6. Verificare il parere dell'autorità del vincolo (paesaggio, Parco) e il termine di 180 / 120 giorni.
 7. Verificare compatibilità PSAI (classe di rischio, art. 42 c. 4, Allegato A §4).
@@ -528,7 +537,7 @@ Per Ottaviano rilevano in particolare le lettere **f (Parco del Vesuvio), g, l (
 ### 13.4 Procedimento ordinario – art. 146 (testo ricevuto)
 
 1. **Obbligo** (c. 1-2): chi possiede beni vincolati non può distruggerli né modificarli in modo pregiudizievole; deve presentare il progetto per l'autorizzazione preventiva.
-2. **Contenuto della domanda** (c. 3): documentazione stabilita dal DPCM 12/12/2005 (stato attuale, valori, impatti, mitigazioni); il testo del DPCM non è stato ricevuto.
+2. **Contenuto della domanda** (c. 3): documentazione stabilita dal DPCM 12/12/2005 (stato attuale, valori, impatti, mitigazioni): **relazione paesaggistica**, contenuti e criteri nella **sezione 31** (letto il 15/10/2026); è la base per le verifiche del c. 5 e della Soprintendenza.
 3. **Verifiche dell'amministrazione** (c. 7-8): conformità alle prescrizioni dei provvedimenti di vincolo e dei piani paesaggistici; compatibilità paesaggistica complessiva dell'intervento (il Soprintendente si pronuncia solo su questa e sulla conformità al piano).
 4. **Tempi** (testo aggiornato, c. 7-9): trasmissione alla Soprintendenza entro **40 giorni** dall'istanza; parere entro **45 giorni**; provvedimento entro **20 giorni** dal parere; decorsi 60 giorni senza parere l'amministrazione provvede comunque (vedi 13.2).
 5. **Natura** (c. 2 e 4): è **atto distinto e presupposto** del titolo edilizio; **i lavori non possono iniziare** senza.
@@ -894,7 +903,7 @@ Edifici: a) abusivi o difformi senza sanatoria; b) in **zona A** o assimilata (s
 | **6 c. 3-4** | Gli **oneri concessori** delle opere condonate sono **aumentati del 100%** rispetto alla disciplina vigente; i proventi vanno prioritariamente a demolizioni e urbanizzazioni (le misure dell'oblazione, c. 1-2 e 5, sono caducate) | Calcolo oneri |
 | **7** | I comuni definiscono le domande con **provvedimento esplicito entro 24 mesi** dalla presentazione; termine interrotto una sola volta per richiesta di integrazioni, poi decorre per intero; poi intervento sostitutivo provinciale (art. 4 LR 19/2001) | Termini del procedimento |
 
-> Il c. 1 e il c. 3 dell'art. 3 (che, nell'originale, regolavano le tipologie ammesse) risultano **privi di testo** nel PDF per effetto della sentenza 49/2006: **non posso dire cosa prevedessero**. Per le tipologie 4, 5 e 6 dell'Allegato 1 L. 326/2003 nelle aree non vincolate (c. 26 lett. b) **la legge regionale non offre nel testo ricevuto alcuna ammissione**: segnalarlo e chiedere il parere del funzionario.
+> Il c. 1 e il c. 3 dell'art. 3 (che, nell'originale, regolavano le tipologie ammesse) risultano **privi di testo** nel PDF per effetto della sentenza 49/2006: **non posso dire cosa prevedessero**. Per le tipologie 4, 5 e 6 dell'Allegato 1 L. 326/2003 (testo in **sezione 30.1**) nelle aree non vincolate (c. 26 lett. b) **la legge regionale non offre nel testo ricevuto alcuna ammissione**: segnalarlo e chiedere il parere del funzionario.
 
 ### 21.2 Condoni pregressi pendenti (Titolo II, art. 9)
 - Le domande presentate ai sensi della **L. 47/85 (Capo IV)** e dell'**art. 39 L. 724/94**, ancora pendenti, sono **definite dai comuni entro il 31/12/2026** (c. 1, ultima modifica LR 2/2026). **Termine ormai prossimo (oggi: 15/10/2026): segnalare le pratiche pendenti.**
@@ -1227,3 +1236,93 @@ Colonne A, B, C, D, E, F (zone omogenee). Per ogni tipologia il testo riporta du
 5. **LR 13/2022 art. 2 c. 9 (sez. 18)**: il contributo per i cambi d'uso del c. 6 e 8 è dovuto "ove dovuto" e la Giunta regionale aggiorna ogni 5 anni le tabelle; la delibera conferma che la **Regione non ha aggiornato le tabelle** dopo il 1985 per gli oneri e che il Comune provvede "in via provvisoria" (art. 16 c. 5 DPR 380/01). Cambio d'uso con e senza opere: usare la riga "ristrutturazione con variazione di destinazione d'uso" (29.3) **solo se il funzionario lo conferma**: la delibera non lo dice espressamente per il cambio d'uso senza opere.
 6. **Sottotetti LR 15/2000 e LR 16/2004 art. 43 quater (sez. 16, 19)**: il contributo è calcolato sulla **volumetria resa abitativa**; con V "vuoto per pieno" della delibera (29.2) il volume utile del sottotetto da inserire è quello recuperato; la formula e K3 applicabile (ristrutturazione, riga ridotta) vanno confermati dal funzionario.
 7. **Aggiornamento quinquennale (art. 16 c. 6 DPR 380/01, citato)**: la delibera aggiorna con l'indice FOI da marzo 1985; **prossimo aggiornamento** entro cinque anni dalla delibera (dicembre 2030), dato informativo.
+
+---
+
+## 30. Allegato 1 alla L. 326/2003 – tipologie di illecito e procedura di sanatoria (letto il 15/10/2026 da Drive; PDF di 1 pagina con font corrotto: **letto con OCR**, tesseract in italiano a 250 dpi)
+
+*Fonte: `L 326_2003 ALLEGATO 1.pdf` (cartella `norme`, ID `1FOGVegFuV6EttElXP4-xTSTuVmcd3Pz9`). L'estrazione di testo del connettore Drive era illeggibile; il testo OCR è nitido ma, come per il D.Lgs 42/04 e il D.Lgs 222/2016, **prima di citare un comma in un parere ufficiale va riletto il PDF originale**. Il file contiene solo l'elenco delle tipologie e la procedura: **non contiene** il modello di domanda né le tabelle 1, 3, 4, C e D richiamate dal testo.*
+
+### 30.1 Le sei tipologie di opere abusive (art. 32 L. 326/2003)
+| Tip. | Opere | Note |
+|---|---|---|
+| **1** | Realizzate in assenza o in difformità del titolo abilitativo edilizio e **non conformi** alle norme urbanistiche e alle prescrizioni degli strumenti urbanistici | Sanabile in tutto il territorio nazionale secondo sez. 12.2 (c. 26 lett. a) |
+| **2** | Realizzate in assenza o in difformità del titolo, ma **conformi** alle norme urbanistiche e alle prescrizioni degli strumenti urbanistici **alla data di entrata in vigore "del presente provvedimento"** | Il PDF non identifica il provvedimento né dà la data: vedi 30.4 (b) |
+| **3** | **Ristrutturazione edilizia** (art. 3 c. 1 lett. d DPR 380/2001) senza titolo o in difformità | Sanabile in tutto il territorio nazionale (sez. 12.2) |
+| **4** | **Restauro e risanamento conservativo** (art. 3 c. 1 lett. c DPR 380/2001) senza titolo o in difformità, **nelle zone omogenee A** (art. 2 DM 2 aprile 1968, n. 1444) | Sez. 12.2: sanabile solo nei vincolati o se lo prevede la legge regionale |
+| **5** | **Restauro e risanamento conservativo** (art. 3 c. 1 lett. c DPR 380/2001) senza titolo o in difformità (senza il limite delle zone A) | Idem |
+| **6** | **Manutenzione straordinaria** (art. 3 c. 1 lett. "5)" nel testo OCR, quasi certamente **lett. b**: da verificare sul PDF) senza titolo o in difformità; **opere o modalità di esecuzione non valutabili in termini di superficie o di volume** | Idem |
+
+### 30.2 Collegamento con le sezioni 12 e 21
+- La sez. 12.2 rinvia all'Allegato 1 per qualificare le tipologie; con questa sezione la lacuna è chiusa: la **tipologia di illecito è un dato obbligatorio della scheda** (sez. 10 H e L). La qualificazione spetta al funzionario: le tipologie 3-6 si definiscono per rinvio alle lett. b, c, d dell'art. 3 c. 1 DPR 380/2001 (sez. 14).
+- **Tipologie 4-6 e vincoli**: sez. 12.2 (c. 26 lett. a e b) le rende sanabili negli immobili vincolati ex art. 32 L. 47/85 o, altrove, solo se lo prevede la legge regionale; la sez. 21.1 segnala che la LR 10/2004 non offre ammissioni nel testo ricevuto. **Tutto il territorio di Ottaviano è vincolato paesaggisticamente**: come si combini questo dato con il c. 26 lett. a (condizioni, parere dell'autorità del vincolo, cause ostative del c. 27) **non è deciso**: vedi domande nel piano.
+- **Zona rossa**: per Ottaviano le opere con destinazione residenziale sono escluse dalla LR 10/2004 art. 3 c. 2 lett. d (sez. 21.1), qualunque sia la tipologia.
+- **Ultimazione entro il 31/03/2003** (LR 10/2004 art. 3 c. 2 lett. b, sez. 21.1): vale per tutte le opere dell'Allegato 1.
+
+### 30.3 Procedura e scadenze riportate dall'Allegato (domanda entro il 31/03/2004, come sez. 12.1)
+- **Domanda** al comune entro il **31/03/2004**, sul modello di domanda allegato (non fornito).
+- **Con la domanda**: (a) attestazione di versamento del **30% dell'oblazione** (tabella 1 del modello e tabella C; se l'importo è fisso o inferiore, per intero; versamento minimo **1.700,00 €** se l'importo complessivo è superiore, per intero se inferiore); (b) attestazione di versamento del **30% dell'anticipazione degli oneri concessori** (tabelle 3 e 4 del modello e tabella D; minimo **500,00 €** con la stessa regola).
+- **Rate**: il restante dell'oblazione e dell'anticipazione degli oneri, a importi uguali, entro il **30/06/2004** (2ª rata) e il **30/09/2004** (3ª rata). **Oneri concessori definitivi** entro il **31/12/2006**, secondo la deliberazione del comune.
+- **Documentazione**: (a) dichiarazione del richiedente (art. 4 L. 15/1968) con **documentazione fotografica**, che descriva le opere e lo stato dei lavori; (b) per opere **oltre 450 metri cubi**, **perizia giurata** su dimensioni e stato delle opere e **certificazione di idoneità statica** di un tecnico abilitato (non necessaria se l'opera è già stata collaudata, salvo richiesta motivata del sindaco); (c) ulteriore documentazione prescritta da norma regionale.
+- **Integrazione entro il 30/09/2004**: denuncia in catasto con documentazione per la rendita e l'eventuale frazionamento; denuncia ICI (D.Lgs 504/1992); ove dovute, denunce per la tassa rifiuti e per l'occupazione di suolo pubblico.
+- **Non calcolabile**: le tabelle 1, 3, 4, C e D non sono nel file; oblazione e anticipazione non si calcolano (la tabella di oblazione della L. 47/85 è esclusa dall'utente). Per gli oneri definitivi serve la delibera comunale richiamata (non ricevuta; sez. 29 non la contiene) e la LR 10/2004 art. 6 c. 3 (+100%, sez. 21.1).
+
+### 30.4 Differenze e dubbi da segnalare (non risolti)
+- (a) **Soglia dei 450 mc**: l'Allegato richiede perizia giurata e idoneità statica **solo oltre 450 mc**; la LR 10/2004 art. 5 (sez. 21.1) le richiede in ogni domanda; per la L. 47/85 art. 35 la soglia di 450 mc è nella sez. 12.1. Conflitto di fonti: **non risolto**, il parere cita entrambe e lo segnala. La scheda raccoglie il volume dell'opera (campo L).
+- (b) **Tipologia 2**: la conformità è riferita "alla data di entrata in vigore del presente provvedimento", senza data nel PDF. Va ricavata dal testo dell'art. 32 / dal decreto-legge di cui la L. 326/2003 è conversione: **non è nei testi ricevuti**; non stabilirla a mente.
+- (c) **Anticipazione degli oneri e aumento del 100%** della LR 10/2004: l'Allegato parla di anticipazione (30%) e saldo definitivo "secondo l'amministrazione"; la LR 10/2004 prevede l'aumento del 100% (sez. 21.1): coordinare nel calcolo, a cura del funzionario.
+- (d) **Refuso OCR**: il rinvio per la tipologia 6 (vedi 30.1).
+
+### 30.5 Uso nel parere (condono L. 326/2003)
+1. Qualificare la tipologia 1-6 dalla scheda; per le tipologie 3-6 controllare il rinvio all'art. 3 DPR 380/01.
+2. Verificare ultimazione al rustico entro il 31/03/2003 (LR 10/2004 art. 3 c. 2 lett. b), domanda entro il 31/03/2004, versamenti e rate, dichiarazione e foto, perizia e idoneità statica (volume, sopra o sotto 450 mc), integrazioni catastali/tributarie.
+3. Poi proseguire con la sequenza della sez. 12.7 (cause di non sanabilità, vincoli, PSAI, antisismica).
+4. Segnalare i punti 30.4 (a)-(c).
+
+---
+
+## 31. DPCM 12 dicembre 2005 – documentazione per la verifica di compatibilità paesaggistica (relazione paesaggistica) (letto il 15/10/2026 da Drive; PDF di 16 pagine con strato di testo selezionabile, nessun OCR)
+
+*Fonte: `DPCM 12 dicembre 2005.pdf` (cartella `norme`, ID `1woRfD3L6Wv_3P1EIeq7ROcOXjdvk7BWf`). G.U. 31 gennaio 2006, n. 25; titolo corretto con comunicato G.U. 2 marzo 2006, n. 51. Adottato ai sensi dell'**art. 146 c. 3 D.Lgs 42/2004**, d'intesa con la Conferenza Stato-regioni (intesa del 26/05/2005). Il testo estratto ha refusi di impaginazione e le note numerate sono spostate a fine pagina; i riferimenti seguenti sono quelli del testo.*
+
+### 31.1 Articolato (artt. 1-4)
+| Art. | Contenuto |
+|---|---|
+| **1** | L'**Allegato** definisce finalità, criteri di redazione e contenuti della **relazione paesaggistica**, che correda, insieme al progetto e alla relazione di progetto, l'**istanza di autorizzazione paesaggistica** (artt. 159 c. 1 e 146 c. 2 D.Lgs 42/04) |
+| **2** | La relazione è per l'amministrazione competente la **base di riferimento essenziale** per le valutazioni dell'art. 146 c. 5 D.Lgs 42/04 |
+| **3** | Le **regioni** possono integrare i contenuti della relazione e, **previo accordo con la direzione regionale del Ministero**, introdurre **semplificazioni** ai criteri di redazione e ai contenuti per le diverse tipologie di intervento |
+| **4** | Entra in vigore **alla stipula dell'accordo di cui all'art. 3 e comunque decorsi 180 giorni dalla pubblicazione** in G.U. |
+
+> L'art. 4 lega la vigenza a un accordo e a un termine: **il testo fornito non dice se e quando l'accordo sia stato stipulato**. Non affermo la data di efficacia; da confermare con il funzionario (vedi domande nel piano).
+
+### 31.2 Finalità (Allegato, punto 1) e criteri di redazione (punto 2)
+- La relazione contiene **tutti gli elementi necessari** alla verifica di compatibilità con riferimento al piano paesaggistico o urbanistico-territoriale e ai valori paesaggistici; deve avere **autonomia di indagine** ed elaborati tecnici che motivino la **qualità dell'intervento**, anche per linguaggio architettonico e formale in relazione al contesto. Le Regioni specificano e integrano i contenuti.
+- Deve dar conto dello **stato dei luoghi prima dell'intervento** (contesto paesaggistico e area di intervento), delle **caratteristiche progettuali** e dello **stato dei luoghi dopo**. La documentazione della domanda (art. 146 c. 4-5) indica: stato attuale del bene; elementi di valore paesaggistico e eventuali beni culturali (Parte II); **impatti** delle trasformazioni; **mitigazioni e compensazioni**.
+- Fornisce gli elementi per accertare: **compatibilità** con i valori riconosciuti dal vincolo; **congruità** con i criteri di gestione dell'immobile o dell'area; **coerenza** con gli obiettivi di qualità paesaggistica; conformità alle prescrizioni dei piani.
+
+### 31.3 Contenuti minimi (punto 3)
+**3.1 Documentazione tecnica**
+- **A) Analisi dello stato attuale**: (1) descrizione, anche con estratti cartografici, dei caratteri paesaggistici del contesto e dell'area (geomorfologia, sistemi naturalistici, insediamenti storici, paesaggi agrari, viabilità storica, percorsi e ambiti panoramici, valenza simbolica; sintesi storica; degrado); (2) **livelli di tutela** operanti, da piani e da ogni fonte, e presenza di **beni culturali** (Parte II); (3) **documentazione fotografica** dello stato attuale da luoghi di normale accessibilità e da punti e percorsi panoramici (prospetti e skyline anche degli edifici contermini quando la struttura è in cortina edilizia, in uno spazio pubblico o in un margine urbano verso il territorio aperto); nei punti di particolare visibilità, colori e materiali prevalenti; per gli **interventi su edifici esistenti**: rilievo dello stato di fatto, documentazione storica del manufatto e adeguatezza architettonica (forma, colore, materiali, tecniche costruttive, rapporto volumetrico).
+- **B) Elaborati di progetto**: (1) inquadramento su CTR o ortofoto (scale 1:10.000, 1:5.000, 1:2.000 o maggior dettaglio); (2) area di intervento: planimetria 1:200 o 1:500 con opere di progetto sovrapposte allo stato di fatto (**rosso nuova costruzione, giallo demolizione**) e sezioni, con scavi e riporti (tabella volumetrica) nei terreni acclivi; (3) opere in progetto: piante, sezioni e **prospetti** quotati con sovrapposizione stato di fatto/progetto, materiali, colori, tecniche costruttive; **testo di accompagnamento** che motiva le scelte rispetto agli obiettivi di conservazione, valorizzazione e riqualificazione e al linguaggio architettonico adottato.
+
+**3.2 Elementi per la valutazione di compatibilità**: (1) **simulazione dettagliata** dello stato dei luoghi dopo l'intervento (fotomodellazione/rendering) con adeguato intorno e rapporto di intervisibilità; per l'architettura contemporanea (sostituzioni, nuove costruzioni, ampliamenti) elaborazioni fotografiche commentate su forme, rapporti volumetrici, colori e materiali; (2) **previsione degli effetti** delle trasformazioni (dirette e indotte, reversibili e irreversibili, in cantiere e a regime); (3) **opere di mitigazione** visive e ambientali, effetti negativi non evitabili e **compensazioni** (sempre necessarie per interventi a grande scala o grande incidenza); preferire le soluzioni con minori problemi di compatibilità.
+
+### 31.4 Interventi di grande impegno territoriale (punto 4) – di norma non pertinenti
+Il punto 4 detta ulteriori elaborati per interventi a **carattere areale** (complessi sportivi, residenziali, turistici, commerciali, direzionali e produttivi; campeggi; impianti agro-forestali, energetici; dighe; depositi; infrastrutture portuali e aeroportuali; discariche; attività minerarie e cave) e a **carattere lineare o a rete** (strade, ferrovie, reti, tralicci e ripetitori, impianti di risalita, sistemazioni idrogeologiche, irrigazione, urbanizzazioni primarie; eolico). Per l'edilizia privata ordinaria contano solo i "complessi residenziali, turistici, commerciali, direzionali e produttivi", per i quali servono planimetrie 1:5.000-1:25.000 con punti di visibilità, foto panoramiche e skyline, cartografia della tessitura storica, documentazione di interventi analoghi, simulazione e motivazione delle alternative localizzative e dimensionali.
+
+### 31.5 Scheda per la documentazione semplificata (16 voci)
+- Scheda per la richiesta di autorizzazione paesaggistica per opere **il cui impatto è valutato con documentazione semplificata**: richiedente; tipologia dell'opera (con riferimento al **regolamento edilizio**); opera correlata a (edificio, pertinenza, lotto, strade, territorio aperto); carattere (temporaneo/stagionale, permanente fisso o rimovibile); destinazione d'uso o uso del suolo; contesto e morfologia; ubicazione con estratti di stradario/CTR/ortofoto, tavola di piano e strumenti di pianificazione paesistica (punti di ripresa da 2 a 4); **2-4 fotografie** (dettaglio e panoramica); **10.a** estremi del provvedimento di vincolo (artt. 136, 141, 157); **10.b** aree tutelate per legge (art. 142: costa, laghi, fiumi, montagne, ghiacciai, parchi e riserve, boschi, usi civici, zone umide, **vulcani**, zone archeologiche); note sullo stato attuale; descrizione dell'intervento; **effetti** (cromatismi, rapporto vuoto/pieni, sagoma, volume, aspetto, copertura, impermeabilizzazione, movimenti di terra, superficie coperta, skyline, ecc.); **mitigazione**; firme del richiedente e del progettista; voci 15-16 riservate alla **motivazione del rilascio** e al **diniego o prescrizioni della Soprintendenza**.
+- **Nota 1 della scheda** (opere "minori, accessorie, di arredo, in grado di non alterare complessivamente lo stato dei luoghi", **a titolo non esaustivo**): antenne e parabole; cartellonistica e insegne; arredo urbano (esclusi gli interventi nelle aree dell'art. 10 c. 4 lett. g D.Lgs 42/2004); strutture temporanee di grandi dimensioni di durata non inferiore a una settimana; strutture stagionali turistiche; **strutture di copertura non superiori a 10 mq** (stessa esclusione); pannelli solari e fotovoltaici "fino a una potenza di 20 Mwe" (così nel testo; l'unità sembra un refuso: **non citare il valore**); impianti di condizionamento.
+- **Nota 2**: la semplificazione dovrebbe essere connessa al **recepimento nel regolamento edilizio** dell'elenco delle opere, concordato in via preventiva con la Direzione regionale e le Soprintendenze; solo a questa condizione la scheda garantisce la valutazione dell'impatto. **Non risulta che il RUEC (sez. 6) contenga tale elenco**: non verificato.
+
+### 31.6 Parametri di lettura del paesaggio (note a piè di pagina, indicativi)
+- **Qualità e criticità**: diversità, integrità, qualità visiva, rarità, degrado. **Rischio**: sensibilità, vulnerabilità/fragilità, capacità di assorbimento visuale, stabilità, instabilità.
+- **Modificazioni** che incidono di più: morfologia (sbancamenti), compagine vegetale, skyline naturale o antropico, funzionalità ecologica e idraulica, assetto percettivo/scenico, assetto insediativo-storico, caratteri tipologici, materici e coloristici dell'insediamento storico, assetto fondiario e agricolo.
+- **Alterazioni dei sistemi paesaggistici**: intrusione, suddivisione, frammentazione, riduzione, eliminazione progressiva delle relazioni, concentrazione, interruzione di processi ecologici, destrutturazione, deconnotazione.
+- Principio (nota sulle mitigazioni): ogni intervento deve mirare a migliorare la qualità paesaggistica complessiva o almeno a non diminuirla.
+
+### 31.7 Collegamento con la sezione 13 e con l'istruttoria
+- **Art. 146 c. 3 D.Lgs 42/04 (sez. 13.4)**: il DPCM è il testo che "stabilisce la documentazione" dell'istanza di autorizzazione **ordinaria**; la relazione paesaggistica del DPCM è la base per le verifiche del c. 5 (e c. 7-8 nel testo aggiornato, sez. 13.4). La nota nella sez. 13.4 ("il testo del DPCM non è stato ricevuto") è superata.
+- **DPR 31/2017 (sez. 13.6)**: l'autorizzazione semplificata usa la **relazione paesaggistica semplificata dell'Allegato D** del DPR 31/2017. La scheda semplificata del DPCM (2005) è un modello **precedente**; il testo del DPCM non cita il DPR 31/2017. Quale modello si applica agli interventi dell'Allegato B DPR 31/2017 non è deciso qui: **segnalato**, non risolto.
+- **Regione Campania**: l'art. 3 consente integrazioni e semplificazioni regionali; **non sono stati ricevuti atti regionali** su questo (il Piano Paesaggistico Regionale è escluso dall'utente). Il parere non può verificare integrazioni regionali.
+- **Ruolo nel sistema**: la valutazione della **qualità** della relazione (linguaggio architettonico, motivazioni, simulazioni) è soggettiva e spetta alla Commissione per il paesaggio e alla Soprintendenza (sez. 13.4); il parere di fattibilità si limita a **verificare la presenza** degli elementi minimi (campo L della sez. 10) e a elencare i mancanti.
