@@ -66,11 +66,12 @@ Dopo il blocco 6 restano i punti 3-6 di CLAUDE.md sez. 5 (scheda anonima, istruz
   1. **Art. 16 – parti libere soggette a PUA** (nuove attrezzature, Ut ≤ 0,2): B-PUA, C o F? Proposta: **F** se attrezzatura pubblica, **C** se privata. (La colonna B-PUA esiste solo nel foglio dell'ufficio, non nella delibera: la usiamo?)
   2. **Art. 18 – ATS-1 (Parco Zennillo + quartiere ERP)**: parco = F; area residenziale = B-PUA o C? Proposta: **F** per il parco, **C** per il resto.
   3. **Art. 18 – ATS-3, 4, 5 (insediamenti complessi, terziario/commercio/ricettivo)**: C, D o F? Proposta: **C** (per il terziario il valore è identico, 0,73, in C, D e F).
-  4. **Art. 26 – aree turistiche e ricettive esistenti**: D o B? Con D la turistica residenziale non ha K3 (la delibera ha "---"); proposta: **B**.
+  4. **Art. 26 – aree turistiche e ricettive esistenti**: dal DM 1444 (lett. B = parti edificate; non esiste una zona ricettiva) risulta **B** (MEDIA); con D la turistica residenziale non avrebbe K3 (delibera "---"). Confermi **B**?
   5. **Art. 30 e 30 bis – attrezzature private (esistenti e dismesse)**: F (ristrutturazione 0,86/0,79) o B/C (0,19)? Differenza di circa 4,5 volte. Proposta: **F**.
-  6. **Art. 28 – attrezzature pubbliche locali** e **art. 31 – servizi generali**: confermi **F** (e verifico gli esoneri per opere pubbliche)?
+  6. **Art. 28 – attrezzature pubbliche locali** e **art. 31 – servizi generali**: confermi **F** (e verifico gli esoneri per opere pubbliche)? Nota DM: l'art. 28 (sedi, verde, parcheggi di quartiere) alla lettera sono standard dell'art. 3, non F; in alternativa la zona dell'ambito circostante (B o C).
   7. **Art. 11 – agricoli urbani** (interni al tessuto): E (proposta) o verde B/F? Per le ristrutturazioni A-E sono uguali.
-  8. **Art. 14**: le parti "di integrazione storico-ambientale" sono A anch'esse o B? Proposta: **A** per tutto l'ambito.
+  8. ~~Art. 14, aree di integrazione storico-ambientale~~ **risolta dal testo del DM 1444** (lett. A include le aree circostanti parte integrante): **A** per tutto l'ambito.
   9. **Lacune della delibera in D**: per ristrutturazione con incremento/cambio d'uso la delibera ha "---" (il foglio 0,20/0,19). Nei pareri uso 0,19 come il foglio, citando la lacuna, oppure segnalo senza calcolare? Proposta: segnalare e indicare 0,19 come valore del foglio dell'ufficio.
   10. **Pertinenze agricole nuove (artt. 9, 11)**: nessuna riga K3. Esenti (art. 17 DPR 380/01, RUEC 157-164) o calcolo con altra riga? Proposta: segnalare, non calcolare.
+  12. **Aree produttive già edificate (artt. 20-25)**: il DM definisce D come "nuovi insediamenti" (alla lettera le aree già edificate sarebbero B); le NTA richiamano però l'art. 5 DM (zone D). Default **D**. Con B sparisce la lacuna K3 sulla ristrutturazione (0,19) e il terziario passa da 0,73 a 0,81 (industriale/artigianale invariato, 0,20). Confermi **D**?
   11. **Scheda**: aggiungo il campo "zona omogenea A-F (se nota)" già previsto, con regola "la zona della scheda prevale sul default dell'ambito"? Proposta: sì.
