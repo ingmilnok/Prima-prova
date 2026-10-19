@@ -29,6 +29,9 @@ Dopo il blocco 6 restano i punti 3-6 di CLAUDE.md sez. 5 (scheda anonima, istruz
 - **Numero della delibera** → **n. 17** (Blocco 2).
 - **Costo di costruzione**: dedotto dal foglio Excel dell'ufficio (sintesi sez. 29.8): aliquota 10%, computo metrico per l'esistente, Snr al 60%. Restano aperti: K2 = 0,588 (foglio) o 0,59 (delibera)?; collegamento ambiti PUC ↔ zone A-F; maggiorazioni (assenti nel foglio).
 
+## Risposte dell'utente (19/10/2026) – Blocco 7 (zone A-F per il K3)
+Tutte le 11 domande del blocco 7 sono **chiuse**: art. 16 parti libere = B-PUA; ATS-1 (decaduto) come ATS-3, 4, 5 = C; art. 26 = B; artt. 30 e 30 bis = F; artt. 28 e 31 = F (verificare esoneri); art. 11 = E; artt. 20-25 = D; lacuna D ristrutturazione = 0,19 del foglio; pertinenze agricole = segnalare senza calcolare; campo scheda "zona omogenea A-F (se nota)" con prevalenza sulla zona dell'ambito. Tabella in sintesi sez. 35.0 e PDF `docs/tabella-ambiti-zone-K3.pdf`.
+
 ## Domande per l'utente (le sessioni le aggiungono qui)
 - **Blocco 1 – Allegato B PSAI**: per i progetti in area a rischio frana (R1-R4) con nuova edificazione, ampliamento con aumento di carico o interrati, il parere deve **prescrivere** la relazione di compatibilità geologica con relazione geotecnica (l'Allegato B §1 permette al Comune di richiederla) oppure limitarsi a elencarla tra i dati mancanti? Proposta: elencarla tra i dati mancanti e segnalare la facoltà del Comune.
 - **Blocco 1 – Allegato D PSAI**: confermi che l'Allegato D (metodologie di studio per riperimetrazioni) non serve ai pareri e va richiamato solo se il progetto allega uno studio di riperimetrazione? Nella sintesi D1, D3, D4 e D5 sono riassunti in modo sommario.
