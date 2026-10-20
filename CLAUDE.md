@@ -20,6 +20,7 @@ Aggiornato al 20/10/2026. Leggi questo file all'inizio di ogni sessione. Rispond
 
 ## 3. File del progetto
 - `docs/sintesi-normativa-ottaviano.md` (**v2.7, ~1810 righe**, revisione finale fatta il 15/10/2026; sez. 35 aggiunta il 16/10/2026): sintesi operativa di tutte le norme lette. È la base di ogni parere. La sez. 8 indica per ogni conflitto lo stato **[CHIUSO]/[APERTO]**; la sez. 9 elenca solo ciò che manca o va riletto; la sez. 10 è l'elenco unico dei campi scheda.
+- `docs/specifica-scheda-app.md` (20/10/2026): specifica autosufficiente della scheda anonima (campi, liste, regole ORD/CON/AGI/ACC, controlli) da incollare nella chat di creazione dell'app; derivata da `scheda/scheda-anonima-v1.xlsx` e `docs/scheda-campi.md`.
 - `docs/revisione-finale.md`: esito della revisione finale (correzioni fatte, questioni aperte per urgenza, **ordine di consultazione** della sintesi per le istruzioni del Project). Copia anche nel Project Claude.ai come `claude/sintesi-normativa-ottaviano.md`.
 - `docs/brief-progetto-valutazione-pratiche.md`: brief iniziale.
 - `scheda/scheda-anonima-v1.xlsx` (**v1, 20/10/2026**): scheda anonima compilabile in Excel (fogli Istruzioni, Scheda, Controlli, Elenchi); `scheda/scheda-anonima-esempio-fittizio.xlsx`: due pratiche inventate per il collaudo; `docs/scheda-campi.md`: codice campo → etichetta → sezione della sintesi → procedimenti per cui è obbligatorio, campi della sez. 10 esclusi e scelte da confermare (da usare nelle istruzioni del Project).
