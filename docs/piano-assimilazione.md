@@ -24,6 +24,8 @@ Regola di costo: **una chat (sessione) per blocco**, **Sonnet** per lettura e si
 
 Dopo il blocco 6 restano i punti 3-6 di CLAUDE.md sez. 5 (scheda anonima, istruzioni del Project, modello PDF del parere, flusso Drive): non fanno parte dell'assimilazione.
 
+**Stato dei punti 3-6 (20/10/2026)**: punto 3 (scheda anonima) **fatto**: `scheda/scheda-anonima-v1.xlsx`, `scheda/scheda-anonima-esempio-fittizio.xlsx`, `docs/scheda-campi.md` (sintesi v2.8); punti 4 (istruzioni del Project), 5 (modello PDF del parere), 6 (flusso Drive): **da fare**. Le scelte della scheda da confermare sono in fondo a `docs/scheda-campi.md` (sez. 6).
+
 ## Risposte dell'utente (15/10/2026)
 - **Cambio d'uso senza opere** → **SCIA** (Blocco 4).
 - **Numero della delibera** → **n. 17** (Blocco 2).
