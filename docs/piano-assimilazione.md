@@ -38,6 +38,9 @@ Tutte le 11 domande del blocco 7 sono **chiuse**: art. 16 parti libere = B-PUA; 
 ## Risposte dell'utente (20/10/2026) – questioni minori 10-18
 10 e 11: risposta "no" ambigua (vedi sez. 8 n. 28: resta la proposta, segnalare). 12: verificare entrambi i modelli e segnalare, vale la relazione semplificata del DPR. 13: sì (attenzione, non diniego). 14: provvisorietà non reiterabile; 30 mq = superficie coperta e solo pertinenze NTA. 15: sì. 16: sì. 17: sì, lettera b. 18: confermato (PPR non in vigore). **Stemma ricevuto**: `docs/stemma-comune-ottaviano.png`.
 
+## Chiarimenti finali (20/10/2026)
+10: la relazione di compatibilità geologica **non va richiesta**; 11: l'Allegato D **non serve**; **commissione sismica attiva** a Ottaviano; Delibera GC 100/2015 **non serve**; stemma ad alta risoluzione **non necessario**. **Tutte le questioni dell'assimilazione sono chiuse**; le domande qui sotto sono lo storico.
+
 ## Domande per l'utente (le sessioni le aggiungono qui)
 - **Blocco 1 – Allegato B PSAI**: per i progetti in area a rischio frana (R1-R4) con nuova edificazione, ampliamento con aumento di carico o interrati, il parere deve **prescrivere** la relazione di compatibilità geologica con relazione geotecnica (l'Allegato B §1 permette al Comune di richiederla) oppure limitarsi a elencarla tra i dati mancanti? Proposta: elencarla tra i dati mancanti e segnalare la facoltà del Comune.
 - **Blocco 1 – Allegato D PSAI**: confermi che l'Allegato D (metodologie di studio per riperimetrazioni) non serve ai pareri e va richiamato solo se il progetto allega uno studio di riperimetrazione? Nella sintesi D1, D3, D4 e D5 sono riassunti in modo sommario.
